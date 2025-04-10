@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated total budget for the CREA-MEDIA-2025-TVONLINE call?",
+            "answer": 20000000
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the maximum grant amount in EUR for creative documentaries?",
+            "answer": 300000
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the minimum percentage of total estimated financing that must come from countries participating in the MEDIA Strand?",
+            "answer": 50
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the maximum duration of projects in months?",
+            "answer": 36
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the maximum grant amount in EUR per project for animation works?",
+            "answer": 500000
+        },
+        {
+            "question": "What is the page limit for proposals submitted under the CREA-MEDIA-2025-TVONLINE call?",
+            "answer": 70
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, if the eligible production budget is below EUR 10 millions, what is the maximum grant amount per drama work in EUR?",
+            "answer": 500000
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the minimum total duration in minutes for drama films intended for television or online exploitation, as one-off or series?",
+            "answer": 90
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the minimum total duration in minutes for animation works intended for television or online exploitation, as one-off or series?",
+            "answer": 24
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TVONLINE call, what is the minimum total duration in minutes for creative documentaries intended for television or online exploitation, as one-off or series?",
+            "answer": 50
+        }
+    ]
+}

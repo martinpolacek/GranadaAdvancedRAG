@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum page limit for the technical description (Part B) of a proposal submitted under the HORIZON-EIC-2025-EICSTEP-01 call?",
+            "answer": 50
+        },
+        {
+            "question": "According to the HORIZON-EIC-2025-EICSTEP-01 call, what is the minimum funding that can be requested in EUR if equity-only funding is requested?",
+            "answer": 10000000
+        },
+        {
+            "question": "According to the HORIZON-EIC-2025-EICSTEP-01 call, what is the maximum funding that can be requested in EUR if equity-only funding is requested?",
+            "answer": 30000000
+        },
+        {
+            "question": "According to the EU Grants: Application form (HE EIC STEP Scale Up Call - full proposal): V1.0\u2013 01.11.2024, how many publications relevant to the call content are accepted?",
+            "answer": 5
+        },
+        {
+            "question": "According to the EU Grants: Application form (HE EIC STEP Scale Up Call - full proposal): V1.0\u2013 01.11.2024, how many previous projects or activities, connected to the subject of this proposal, are accepted?",
+            "answer": 5
+        },
+        {
+            "question": "How many pages should the executive summary of HORIZON-EIC-2025-EICSTEP-01 be?",
+            "answer": 2
+        },
+        {
+            "question": "In HORIZON-EIC-2025-EICSTEP-01, what is the minimum font size allowed in the technical description?",
+            "answer": 11
+        },
+        {
+            "question": "In the context of the HORIZON-EIC-2025-EICSTEP-01 call, what is the maximum number of slides permitted for the pitch deck annex?",
+            "answer": 15
+        },
+        {
+            "question": "Within the requirements for the HORIZON-EIC-2025-EICSTEP-01 Call and Gender equality plan, what is the minimum process-related requirements (building blocks) that need to be covered? ",
+            "answer": 4
+        },
+        {
+            "question": "In the HORIZON-EIC-2025-EICSTEP-01 call, how many pages are allowed in freedom to operate (FTO) analysis?",
+            "answer": 2
+        }
+    ]
+}

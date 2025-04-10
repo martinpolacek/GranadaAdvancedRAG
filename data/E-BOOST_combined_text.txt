@@ -1,0 +1,590 @@
+Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Mobility Lump Sums
+Guide for applicants
+Deliverable 4.1: Definition of Open CallsProject: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Table of content
+1. ABOUT E-BOOST .................................................................................................................... 3
+1.1 E-BOOST partners ......................................................................................................... 3
+1.2. E-BOOST facts ............................................................................................................... 3
+1.3. E-BOOST contact points .............................................................................................. 4
+2. GENERAL INTRODUCTION TO MOBILITY LUMP SUM SUPPORT ........................................... 5
+2.1. Available Financial Support .......................................................................................... 6
+2.2. Financial Support calculation .................................................................................... 7
+3. APPLICATION ........................................................................................................................ 8
+3.1. Who can apply? ............................................................................................................... 8
+3.2. Activities eligibles for financial support ..................................................................... 9
+3.3. The application process ............................................................................................ 10
+3.3.1. Overview of the overall procedure ................................................................. 10
+3.3.2. Submission form .................................................................................................. 10
+3.3.3. Application platform ......................................................................................... 11
+4. FUNDING SCHEME .............................................................................................................. 12
+4.1. General payment terms ............................................................................................... 12
+4.2. Beneficiaries’ obligations .......................................................................................... 12
+4.3. Which are the payment terms per Lump sum? ..................................................... 13
+5. EVALUATION AND SELECTION CRITERIA ........................................................................... 14
+6. MONITORING AND REPORTING PROCESS ........................................................................ 15
+7. CONTACT DETAILS AND COMPLAINTS .............................................................................. 16
+8. DATA PROTECTION ............................................................................................................. 17
+9. GENDER EQUALITY, DIVERSITY, AND SOCIAL INCLUSION ............................................... 20
+10. DISCLAIMER ..................................................................................................................... 21
+ANNEXES ..................................................................................................................................... 22
+ANNEX I: SMEs contact points .............................................................................................. 22
+2Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+1. ABOUT E-BOOST
+E-BOOST aims to bring Europe and Single Market Program participating countries
+to the forefront of the electromobility. E-BOOST aims to support European
+electromobility SMEs to recover from the COVID-19 crisis with a range of services
+to strengthen their resilience, green and digital transformation, and
+internationalisation.
+1.1 E-BOOST partners
+Partner Name Country Role Website
+CLUSTER DE Spain Coordin https://caaragon.com/en/e-
+AUTOMOCI ator boost/
+ÓN Y
+MOVILIDAD
+DE
+ARAGÓN
+CARA, France Shadow https://www.cara.eu/en/project-
+AUVERGNE- coordina finance/e-boost-project/
+RHÔNE- tor
+ALPES
+DITECFER Italy Partner https://www.ditecfer.eu/en/prog
+etto/e-boost/
+RAI Netherla Partner https://www.raivereniging.nl/en/s
+AUTOMOTIV nds ections/rai-automotive-industry-
+E NL nl/projects/e-boost/
+LOGISTIK German Partner https://www.hamburg-
+INITIATIVE y logistik.net/en/our-
+HAMBURG activities/projects/e-boost/
+KLASTER Poland Partner https://www.klasterlogtrans.pl/e-
+LOGISTYCZN boost/
+O
+TRANSPORT
+OWY
+1.2. E-BOOST facts
+3Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Project Acronym E-BOOST
+Project Title ElectromoBility for the recovery and
+internatiOnalisation of Small enTerprises
+Project Reference SMP-COSME-2021-CLUSTER
+Project Topic SMP-COSME-2021-CLUSTER-01 – Euroclusters for
+Europe’s recovery
+Project Duration 30 months
+Overall Budget € 1 388 067, 13
+€ 1 041 622 Will directly benefit SMEs in the form of
+Lump Sums (Open Calls for Products & Services,
+Innovations Services, Mobility Lump Sums, Mentoring
+Programs, etc.)
+Overall budget for Mobility € 303 000
+Lump Sums
+Website https://eboostproject.com/
+1.3. E-BOOST contact points
+For any enquiries regarding the E-BOOST project, information and / or clarification
+about the Mobility Lump Sums, please contact: info.eboost@cara.eu
+4Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+2. GENERAL INTRODUCTION TO MOBILITY LUMP SUM
+SUPPORT
+The E-BOOST partnership is building and stimulating a creative ecosystem by
+bringing in a larger user community, from various horizons to address a common
+topic: electromobility. The partnership is implementing several activities to
+facilitate smooth interactions between all the actors such as Missions and
+matchmaking / side events.
+E-BOOST partners are facilitators and bridge-builders, bringing together all
+relevant players (public and private) to work together to address specific
+problems, needs, societal challenges in a joint, strategic manner for the
+electromobility sector.
+Within this context, E-BOOST project is launching Mobility Lump Sum Open Calls
+to encourage and facilitate cross-fertilisation between European regional
+ecosystem. Each cluster partner will bring a member delegation of up to 5
+companies and companies from non-partner ecosystems will be invited.
+Each mission shall be organised as follows:
+1) Missions organisation
+Each Mission will run for at least 2 days.
+For example:
+- 1st Day: Welcome and visit of Transpolis: a dedicated test center that has
+created a systemic experimentation platform for power electronics
+applications from production to the use of electrical energy for
+electromobility in a protected and secure environment. Lunch will be
+taken care of by the consortium.
+- 1st Day evening: Networking event with technology showcase to
+stimulate interaction between companies.
+- 2nd Day morning: Visit of the Symbio Hydrogen Academy.
+2) Side events
+In order to maximize outcomes from each Mission, E-BOOST consortium will make
+sure the Mission is organized in parallel of a trade / institutional / project event.
+3) Provisional agenda
+5Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Hereafter, the provisional agenda for the 5 Missions that will be organised within
+the E-BOOST project:
+Mobility Lump Host Side event Localisation Side event Open Call Open Call
+Sum Open Call partner date Opening Deadline
+date date
+Mobility Lump CARA SOLUTRANS Lyon, 21/11/2023 18/08/2023 18/10/2023
+Sum Open Call France to
+#1 25/11/2023 at 17:00
+Brussels time
+Mobility Lump CAAR Mobility and Zaragoza, 16/05/2024 01/01/2024 29/02/2024
+Sum Open Call Industry Suppliers Spain
+#2 Meeting at 17:00
+Brussels time
+Mobility Lump DITECFER Hydrogen Expo Piacenza, 11/09/2024 01/05/2024 30/06/2024
+Sum Open Call Italy to
+#3 13/09/2024 at 17:00
+Brussels time
+Mobility Lump ZNIK SP Transexpo Kielce, 16/10/2024 01/06/2024 31/07/2024
+Sum Open Call ZOO Poland to
+#4 18/10/2024 at 17:00
+Brussels time
+Mobility Lump ANL E-BOOST Investors Netherlands 09- 05/03/2025 05/05/2025
+Sum Open Call and sponsors day 10/10/2025
+#5 at 17:00
+Brussels time
+Mobility Lump CAAR Mobility and Zaragoza, 22- 17/03/2025 16/05/2025
+Sum Open Call Industry Suppliers Spain 23/05/2025
+#6 Meeting
+The E-BOOST partnership remains alert to identify potential new side events that
+could interest the electromobility sector. In accordance with Project Officer
+validation, the partnership reserves the right to adapt each Open Call according
+to the most interesting side event for the electromobility sector.
+The full list of eligible activities will be published the Opening date on the project
+website (https://eboostproject.com/) with its corresponding Open Calls.
+2.1. Available Financial Support
+The total budget reserved under E-BOOST for Mobility Lump Sums Open Calls is
+€ 303 000.
+Following discussion with and approval of the Project Officer, the consortium
+reserves the right to shift the total budget among the different eligible activities.
+In case of remaining budget after a Mission, the delta will be allocated to the
+upcoming Mobility Lump Sums Open Call.
+6Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+2.2. Provisional financial support calculation
+The financial support per Lump Sum is € 1 500 per beneficiary.
+During the project implementation, 6 Missions will be organised. For each
+Mission, E-BOOST partnership will launch a Mobility Lump Sum Open Call.
+Open Call Available budget Lump Sum per Number of
+beneficiary beneficiaries
+Mobility Lump Sum € 60 600 € 1 500 40
+Open Call #1
+Mobility Lump Sum € 60 600 € 1 500 40
+Open Call #2
+Mobility Lump Sum € 60 600 € 1 500 40
+Open Call #3
+Mobility Lump Sum € 60 600 € 1 500 40
+Open Call #4
+Mobility Lump Sum € 60 000 € 1 500 40
+Open Call #5
+Mobility Lump Sum € 43 500 € 1 500 29
+Open Call #6
+Applicants are entitled to apply and benefit from more than one type of E-BOOST
+Lump sums, with a combined maximum funding of € 60 000 per beneficiary. In
+case where the maximum funding might be reached, E-BOOST will adjust the
+total value of the Lump sum to enforce this limit.
+7Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+3. APPLICATION
+3.1. Who can apply?
+Applicants will be eligible to Open Calls only if all the following conditions are
+met:
+1) Be a SME according to the European Definition regulated in the Commission
+Recommendation 2003/361/EC, I.e.:
+a. A micro enterprise: which is a company who employs fewer than 10
+persons and whose turnover or annual balance sheet total does not
+exceed 2 million euros.
+b. A small enterprise: who employs fewer than 50 persons and whose
+turnover or annual balance sheet total does not exceed 10 million euros.
+c. A medium-sized enterprise: an enterprise who employs fewer than 250
+persons, whose turnover does not exceed 50 million euros and/or whose
+annual balance sheet total does not exceed 43 million euros.
+2) Be established must have legal seat in the E-BOOST territorial scope described as
+follows:
+a. EU Member States (including overseas countries and territories (OCTs))
+b. Non-EU countries: Listed EEA countries and countries associated to the
+SME pillar part of the Single Market Programme or countries which are in
+ongoing negotiations for an association agreement and where the
+agreement enters into force before grant signature (list of participating
+countries).
+3) Be actively involved and contribute to the european electromobility sector
+(following transport sectors will be prioritized: Automobile, Heavy-duty vehicles -
+trucks, buses, coaches, etc.-, waterway transport, aerial guided transport,
+railway, active mobility, logistic).
+4) Applicants that are “in difficulty” as defined at 2.1 of the Community Guidelines
+and State Aid for Rescuing and Restructuring Firms in Difficulty (2044/C22/02)
+cannot be beneficiaries.
+5) Applications must be written in English (applications partially written in another
+language are not eligible) and must not exceed the maximum number of
+characters stated in each text box of the submission form.
+6) Applicants must be submitted through the web-based system by the deadline
+indicated in the Mobility Lump Sum Open Call.
+Maximum one application will be granted per SME per E-BOOST Mission.
+Beneficiaries can participate in more than one event up to cumulative € 1 500 in
+financial contribution from Mobility Lump Sum.
+8Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+In any case, the total financial contribution to individual beneficiairies from the
+different E-BOOST’s Lump sums cannot exceed the limit of € 60 000 per
+beneficiaries.
+3.2. Activities eligibles for financial support
+The Mobility Lump Sum covers the expenses of SMEs to attend a cross-sectoral E-
+BOOST activity, more specially Missions & Matchmaking / Side events, or the E-
+BOOST final event (if the dedicated budget is not fully allocated to eligible
+entities).
+Successful applicants shall receive the requested financial contribution in the
+form of a lump sum.
+The Mobility Lump sum is a fixed amount of money that can be used by
+beneficiaries for travel purposes related to their participation in a E-BOOST
+eligible event. Since the granting of a lump sum does not foresee the delivery of
+a detailed financial reporting, the use of the project budget will be controlled
+considering the participation in the cross-sectoral activity with the attendance
+list and the completion of the satisfaction survey. However, beneficiaries will have
+to keep the original documents of their expenses (invoices, travel documents) in
+case of an audit, the following rules and limitation per type lump sum scheme
+must be respected.
+The lump sum is aimed at contributing to the following costs incurred by
+beneficiaries for participating to the mission:
+- Travel costs: transportation (flight, train, mileage or similar) to arrive at the venue
+of the event (national or international event).
+- Accommodation, meals and other personal allowance to participate: only
+expenses spent for days included in the official agenda will be eligible.
+- Registration fees: matchmaking / side event in parallel of the Mission (access to
+sessions, exhibition, gala dinner & networking).
+9Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Please note that the costs eligibility period for the awarded SMEs can be
+retroactive – if necessary – but it can never start before the date when the
+proposal was submitted.
+3.3. The application process
+Applicants will need to submit their form through the E-BOOST submission platform
+before the deadline for each Mission.
+All the information provided should be complete and valid.
+After the submission, all the applicants will receive a confirmation email with the
+registered date and time of the submission.
+3.3.1. Overview of the overall procedure
+Step number Step name Timeline & comments
+Step 1 Apply ≥ 2 months open.
+According to Opening and Deadline date
+provided by the Mobility Lump sum Open Call.
+Step 2 Select Evaluation model ≤ 3 weeks
+Lump Sum will be assigned on a first-come, first
+served basis.
+Step 3 Confirmation ≤ 10 days.
+Selected applicants sign the Commitment of
+Quality and Financial Support to Third Parties
+Agreement.
+Step 4 Attend Duration depends on each event.
+Attendance to the E-BOOST eligible cross-
+sectoral activity.
+Step 5 Online reporting ≤ 3 weeks satisfaction survey and confirmation
+of attendance.
+Step 6 Payment ≤ 3 weeks after evaluating the online survey
+and the global assessment of the event.
+3.3.2. Submission form
+The submission form is a Submission form (questionnaire) available on a single link.
+The maximum duration of the application should approximatively take 20
+minutes.
+Application documents:
+Document Description Effect
+10Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Submission form Questionnaire leading to Submit the proposal.
+officially submit a proposal.
+Commitment to Quality Identification of main Contractualization
+objectives and expected between Visiting and E-
+outcomes by the Visiting BOOST partner for the
+Organisation. Mission participation.
+Financial Support to Third Agreement setting up the
+Parties Agreement conditions for the Mobility
+Lump Sum to cover
+expenses linked to Mission
+participation.
+Satisfaction Survey Questionnaire to evaluate Trigger payment by E-
+the Mission. BOOST Consortium.
+3.3.3. Application platform
+3.3.3.1. Administrative platform
+In order to facilitate application for SMEs and the overall management of
+Financial Support to Third Party for project partners, each Open Call will be
+managed through Project netboard (a secured and confidential digital platform
+dedicated to Open Calls management).
+Each E-BOOST partners will have access to the Project netboard through their
+own profile.
+3.3.3.2. Where to find the Mobility Lump Sum Open Calls?
+The Mobility Lump Sum will be published on the E-BOOST website.
+The following main communication channels will redirect to E-BOOST website
+Mobility Lump Sum Open Calls page:
+- Funding & Tenders
+- European Cluster Collaboration Platform E-BOOST profile
+- Enterprise Europe Network
+- Each project partners E-BOOST webpage:
+o CAAR
+o DITECFER
+o CARA
+o ANL
+o LIHH
+o ZNIK SP ZOO
+- E-BOOST LinkedIn profile
+- E-BOOST Twitter profile
+11Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Each project partner will promote the E-BOOST website Mobility Lump sum Open
+Calls page through their own secondary communication channels (e.g. partner
+newsletters, European sectorial associations and networks, regional newsletters,
+social networks, etc.).
+4. FUNDING SCHEME
+4.1. General payment terms
+All payments will be made in Euros (€).
+Costs incurred for the travel must be used for the sole and close purpose of the
+participation in the cross-sectoral E-BOOST activity indicated in the application,
+in a transparent manner consistent with the principles of economy, efficiency
+and effectiveness.
+The eligibility period for the awarded SME can be retroactive - if necessary – but
+it can never start before the date when the proposal was submitted.
+Submission of an application does not constitute an entitlement for funding.
+The recipients of the (financial) support from E-BOOST (“Beneficiaries”) must
+ensure that the European Commission, the European Anti-Fraud Office (OLAF)
+and the Court of Auditors (ECA) can exercise their powers of control, on
+documents information, even stored on electronic media, or in the final
+recipient’s premises.
+4.2. Beneficiaries’ obligations
+Supporting documentation:
+The beneficiary must -for a period of five years after the payment of the balance-
+keep records and other supporting documentation in order to prove the proper
+implementation of the action.
+They must make them available upon request or in the context of checks,
+reviews, audits or investigations.
+If there are ongoing checks, reviews, audits, investigations, litigations or other
+pursuits of claims under the Financial Support to Third Parties Agreement, the
+beneficiary must keep the records and other supporting documentation until the
+end of these procedures.
+The beneficiary must keep the original documents. Digital and digitalised
+documents are considered originals if they are authorised by the applicable
+national law. Non-original documents may be accepted if they offer a
+comparable level of assurance.
+12Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+Financial capacity:
+The beneficiaries must have the financial capacity to carry out the travel
+described in their proposals and to properly manage the financial support
+granted to them.
+Each beneficiary must BE in alignment with the following situations:
+- Is not bankrupt or being wound, is not having affairs administered by the
+courts, has no entered into an arrangement with creditors, has not
+suspended business activities, is not the subject of proceedings
+concerning those matters or is not any analogous situation arising from a
+similar procedure provided for in national legislation or regulations.
+- Is in compliance with its obligations regarding the payment of societal
+security contributions and the payment of taxes, in accordance with the
+legal provisions of the country in which it is established.
+- Is not subject to a conflict of interest in connection with the grant.
+4.3. Which are the payment terms per Lump sum?
+✓ Mobility Lump Sum up to € 1 500 per beneficiary
+Payment will be made within 3 weeks from the submission
+of the Satisfaction Survey.
+Payment scheme
+Based on the Financial Support to Third Parties agreement
+signature, in case the beneficiary has already received
+other funding from E-BOOST’s Open calls, this lump sum
+amount could be reduced to limit the accumulated
+funding to the beneficiary to a maximum of € 60 000.
+In case, beneficiaries had made false declarations in the
+submission application form leading to E-BOOST funding
+accumulation beyond € 60 000. The E-BOOST consortium
+reserves the right to reduce this lump sum amount to limit
+the accumulated funding to the beneficiary to a
+maximum of € 60 000.
+13Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+5. EVALUATION AND SELECTION CRITERIA
+Mobility Lump sum applications will be gathered and assessed through the
+Project Netboard platform with a first on rolling eligibility and the objective
+scoring at the deadline.
+Submitted applications that have been considered eligible will be assigned on a
+first-come first served basis by the E-BOOST Consortium team consisting of
+representatives of E-BOOST partners.
+Refer to 2.2 “Financial Support calculation” for the maximum number of
+beneficiaries per Open Call. Above the maximum number of beneficiaries,
+applicants will be integrated within a Waiting List.
+All applicants to Mobility Lump sums will be notified by e-mail within 3 weeks the
+latest after the Open Call deadline date, with the outcome of the selection
+procedure with instructions for further steps in the case the applicant is awarded
+with a Mobility Lump sum.
+By this time, the selected applicants will also be requested to complete and sign
+the Commitment to Quality and the Financial Support to Third Parties Agreement
+within 10 days from notification of award.
+In case, awarded applicants fail to sign the Commitment to Quality and Financial
+Support to Third Parties Agreement within 10 days from notification of award, the
+lump sum goes to the next applicant on the Waiting List.
+In case, awarded applicants fail to sign the Commitment to Quality and Financial
+Support to Third Parties Agreement within 10 days from notification of award and
+there are no applicants are in the Waiting List, the lump sum will be allocated to
+the upcoming Mobility Lump Sums Open Call.
+14Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+6. MONITORING AND REPORTING PROCESS
+After the Cross-sectoral E-BOOST activity, the E-BOOST partner (if participant is its
+member) or Host Organisation (for participants with no membership to E-BOOST
+partners) will send a Satisfaction Survey to all participants.
+Each participant will have 3 weeks to complete and send back the Satisfaction
+Survey.
+The purpose of the above is to evaluate:
+- The degree of fulfilment of the identified objectives and outcomes in the
+Commitment of Quality.
+- The expected potential impact in economic, competition, and social
+terms of E-BOOST cross-sectoral activities and in fine accordingly adapt
+the next planned activity.
+- Trigger the payment procedure.
+After receiving the Satisfaction Survey, E-BOOST partners or Host organisation will
+have 3 weeks to trigger payment indicated within the Financial Support to Third
+Parties Agreement.
+15Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+7. CONTACT DETAILS AND COMPLAINTS
+For any enquiries regarding the E-BOOST Mobility Lump Sum scheme, please
+contact info.eboost@cara.eu.
+For any complaints regarding the E-BOOST Mobility Lump Sum results, please
+contact info.eboost@cara.eu within 2 weeks after the announcement of the
+Mobility Lump Sum results. Your email should include the following information:
+- Lead contact name and details.
+- Object of your complaint.
+- Information and evidence of the alleged breach.
+At least 2 members of the E-BOOST Consortium Team, which consists of
+representatives of the E-BOOST partners, will examine the complaint based on
+the information brought forward by the applicants, will assess the case and
+decide whether the complaint is justified or not and will inform the applicant on
+the decision taken. If the complaint is considered justified, the E-BOOST
+Consortium Team will re-assess the application and the related assessment part,
+subject to the complaint. The final decision on the complaint will be
+communicated by E-BOOST Consortium Team to the applicant in writing within 3
+weeks from the date of submitting the complaint. This decision will be final,
+binding to all parties and not subject to any further complaint proceeding within
+the programme if the complaint is based on the same grounds.
+For technical issues concerning the submission procedure, please contact
+info.eboost@cara.eu.
+16Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+8. DATA PROTECTION
+GDPR compliance: The General Data Protection Regulation (2016/679/EU)
+guarantees that the processing of data is carried out in compliance with the
+fundamental rights and freedoms, as well as the dignity of the data subject with
+particular reference to confidentiality, personal identity and the right to data
+protection. By applying, the applicant agrees on the storage and use of its
+personal data for the execution of the E-BOOST objectives and work plan.
+The processing of data that E-BOOST intends to carry out will be based on
+lawfulness and correctness in the full protection of the applicants’ rights and its
+confidentiality pursuant to the general principles of the GDPR and its art. 24.
+Therefore, the competitors are informed the data provided by the applicants will
+be treated exclusively with reference to the procedure for which they submitted
+the documentation.
+Data controller: ASSOCIATION CARA
+Address: 1, Boulevard Edmond Michelet, 69 372 Lyon Cedex 08
+VAT number: FR87 485361059
+Contact details: info.eboost@cara.eu
+Data we process: the E-BOOST consortium will be processing mainly data coming
+from:
+- Open call’s application data: data provided by SMEs cap applying to E-
+BOOST open calls, which is strategic, technological, financial and
+administrative (companies’ names, contacts’ names and email
+addresses, applicants’ financial data to check eligibility, innovation,
+targeted markets, evaluation score, etc.).
+- Open call’s results data: data shared by open calls’ beneficiaries to
+present their results.
+- E-BOOST participation data: Names, surnames, email addresses, job
+positions and organisations of people participating to E-BOOST activities
+(Missions, webinars, training programs, matchmaking events, surveys,
+mapping, etc.).
+- E-BOOST project data: data generated by E-BOOST beneficiaries to
+implement the project (open call preparation, presentations, meeting
+notes, etc.).
+Purpose of the processing: The purpose of processing partners and applicant’s
+data is:
+17Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+- To run Open Calls and collect data necessary to evaluate applications
+and granting the projects.
+- To manage this submission / application form and the consequent project
+selection process.
+- To compile files on members of the consortium, partners, and people likely
+to contribute to the project due to their job titles or expertise.
+- Communication on the events.
+- Sending newsletters and information about events / Open calls related to
+the projects.
+- Compiling statistics related to the projects.
+Lawfulness:
+(a) Legal basis for the applicants processing of personal data: The legal basis
+for this processing is the performance of selections of projects for the
+financing (art. 6.1, ‘b’, GDPR).
+(b) Legal basis for other processing of personal data: informed consent (art.
+6.1. ‘a’ GDPR).
+Recipients:
+Third-party intervention:
+E-BOOST while conducting its undertakings, may authorize third parties (as
+defined in number 10 of article 4 of the GDPR) to process personal data which
+are under E-BOOST’s domain, to comply with legal duties, pre-contractual or
+contractual obligations and/or as indispensable means of performance of E-
+BOOST’s statutory goals. Said third parties can be public authorities, experts
+evaluating applications, project, activity, or service partners.
+In order to comply with GDPR requisites, E-BOOST shall require the previous and
+mandatory consent to the data subject for this specific processing.
+Processor intervention:
+18Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+E-BOOST, while conducting its undertakings, may subcontract third entities (as
+defined in number 8 of article 4 of the GDPR) to process personal data on E-
+BOOST’s behalf. In order to comply with GDPR requisites, E-BOOST shall require
+the previous and mandatory consent to the data subject for this specific
+processing.
+Period of data storage: Personal data will be stored for the period defined by
+legal rules or, in their absence, for the strict time needed for the fulfilment of the
+processing purpose, taking in consideration the legal basis for said processing, as
+well as all the remaining requisites and time periods determined by law, namely
+the lapse terms for legal actions base on the correlated rights.
+Accordingly, in all cases where a mandatory storage period is determined by
+law, the right to erasure of personal data as stated in Article 17 of the GDPR can
+only be exercised by the data subject after said period is lapsed.
+E-BOOST shall store the personal data for the strict period of time needed for the
+fulfilment of the data processing purpose, as well as its erasure (or anonymization,
+if and when applicable/needed after said period and/or upon the data
+subject’s request, always considering the above-cited exceptions and all legally
+defined terms.
+Rights: The applicants can exercise their rights towards the data controller, based
+on article 12 of the GDPR. For any inquiries regarding the processing of personal
+data, please contact data.eboost@cara.eu.
+Applications selection and review will be performed under the appropriate
+ethical conduct and will respect the confidentiality of the information received.
+19Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+9. GENDER EQUALITY, DIVERSITY, AND SOCIAL
+INCLUSION
+E-BOOST seeks gender balance. Therefore, applicants are invited to take all
+measures to promote equal opportunities between men and women in the
+implementation of the action. They must aim for a gender balance at all levels
+of personnel assigned to the action, including supervisory and managerial levels
+to the extent possible.
+20Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+10. DISCLAIMER
+Purpose: This text is explaining the E-BOOST Financial Support to Third Party for
+information purposes only. No rights can be claimed based on this document.
+This document does not reflect the views of the European Commission and
+EISMEA.
+Funded by the European Union. Views and opinions expressed are however
+those of the author(s) only and do not necessarily reflect those of the European
+Union or European Innovation Council and SMEs Executive Agency. Neither the
+European Union nor the granting authority can be held responsible for them.
+Mistakes or inconsistencies: The E-BOOST consortium is not responsible for any
+mistakes or misinterpretations that this text may cause. In the case of
+inconsistencies, the E-BOOST Executive Board will determine the steps to be
+taken, in cooperation with the applicant concerned.
+Consequential damages: In no event shall either party be liable to the other or
+any of its affiliates for any consequential, incidental, indirect, special, punitive or
+exemplary damage (including, without limitation, lost profits, business or
+goodwill) suffered or incurred by such other party or its affiliates in connection
+with this Lum sum scheme, even if advised of the possibility of such damages.
+Direct Damages: E-BOOST’s liability for direct damages will be limited to the
+amount of the Financial Support to Third Party contribution awarded to the
+applicant pending of payment.
+Gender equality: E-BOOST seeks gender balance. Therefore, applicants are
+invited to take all measures to promote equal opportunities between men and
+women in the implementation of the action. They must aim for a gender balance
+at all levels of personnel assigned to the action, including supervisory and
+managerial levels to the extent possible.
+21Project: 101074381 — E-BOOST — SMP-COSME-2021-CLUSTER
+ANNEXES
+ANNEX I: SMEs contact points
+SPAIN
+CAAR Victor DE LA MATA victor.delamata@caaragon.com
+ITALY
+DITECFER Irina VESCU irina.vescu@ditecfer.eu
+NETHERLANDS
+Rai Automotive NL Debbie VAN LEUKEN d.v.leuken@raivereniging.nl
+FRANCE
+CARA Jean-Baptiste HAHN jean-baptiste.hahn@cara.eu
+GERMANY
+LIHH Kai RUSKE kr@hamburg-logistik.net
+POLAND
+ZNIK SP ZOO Marcin WOZBONOWICZ marcin.wozbonowicz@klasterlogtrans.pl
+ALL OTHER COUNTRIES Info.eboost@cara.eu
+22Boost Electromobility for SMEs

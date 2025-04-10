@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum amount of pre-financing guarantee for the call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 0
+        },
+        {
+            "question": "How many pre-financing payments will be done in call HORIZON-JU-CLEANH2-2025-02-01 if pre-financing baseline date Option 1 is selected?",
+            "answer": 1
+        },
+        {
+            "question": "What is the retained percentage of the maximum grant amount for MIM contribution in the call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 5
+        },
+        {
+            "question": "According to the call HORIZON-JU-CLEANH2-2025-02-01, what is the time limit for record-keeping after project end, for the grants of not more than EUR 60 000?",
+            "answer": 3
+        },
+        {
+            "question": "For confidentiality, how many years after the final payment the records must be available in call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 5
+        },
+        {
+            "question": "How many years after final payment can reviews be initiated in call HORIZON-JU-CLEANH2-2025-02-01 for projects exceeding EUR 60 000?",
+            "answer": 5
+        },
+        {
+            "question": "According to the document, how many new additional suspension grounds for RELEX are there for call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 0
+        },
+        {
+            "question": "According to the document, how many changes related to the Financial Regulation 2024/2509 were done in General > Scope \u2013 Types of actions \u2013 Types of grant agreements? for call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 0
+        },
+        {
+            "question": "If the RAO decides to set specific rules for subcontracting, what is the minimum EUR value of the subcontracts to be awarded in the HORIZON-JU-CLEANH2-2025-02-01 call?",
+            "answer": 60000
+        },
+        {
+            "question": "If Early pre-financing clearing is selected, what is the percentage of the pre-financing to be cleared before interim payments can be made for the call HORIZON-JU-CLEANH2-2025-02-01?",
+            "answer": 100
+        }
+    ]
+}

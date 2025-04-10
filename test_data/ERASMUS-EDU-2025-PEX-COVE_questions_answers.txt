@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the text, what is the normal page limit for Part B of the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form for low value grants?",
+            "answer": 40
+        },
+        {
+            "question": "According to the text, what is the page limit for Part B of the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form for all other calls unless otherwise provided?",
+            "answer": 120
+        },
+        {
+            "question": "What is the minimum font size required for the text in the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form?",
+            "answer": 9
+        },
+        {
+            "question": "What should the minimum margins be (in mm) for the top of the pages in the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form?",
+            "answer": 15
+        },
+        {
+            "question": "What should the minimum margins be (in mm) for the bottom of the pages in the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form?",
+            "answer": 15
+        },
+        {
+            "question": "What should the minimum margins be (in mm) for the left side of the pages in the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form?",
+            "answer": 15
+        },
+        {
+            "question": "What should the minimum margins be (in mm) for the right side of the pages in the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" Application Form?",
+            "answer": 15
+        },
+        {
+            "question": "According to \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\", in which part of the Application Form is filled out directly in the Portal Submission System screens?",
+            "answer": 1
+        },
+        {
+            "question": "In the  \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" application form, what is the maximum number of characters (with spaces) allowed for the abstract?",
+            "answer": 2000
+        },
+        {
+            "question": "In the \"ERASMUS-EDU-2025-PEX-COVE Erasmus+ Programme (ERASMUS)\" application form, how many digits should previously submitted proposals have?",
+            "answer": 6
+        }
+    ]
+}

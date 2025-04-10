@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the minimum grant amount in EUR that an application must request in the CERV-2025-CHILD call?",
+            "answer": 200000
+        },
+        {
+            "question": "What is the page limit for Part B of the application in the CERV-2025-CHILD call?",
+            "answer": 45
+        },
+        {
+            "question": "According to the CERV-2025-CHILD call, how many independent legal entities from different EU Member States or associated countries must a multi-beneficiary project involve as recipients of the financial support?",
+            "answer": 2
+        },
+        {
+            "question": "In the CERV-2025-CHILD call, what is the minimum number of applicants in a consortium?",
+            "answer": 2
+        },
+        {
+            "question": "According to the CERV-2025-CHILD call, what is the standard indirect cost flat-rate in percentage?",
+            "answer": 0
+        },
+        {
+            "question": "How long in months, should projects normally range between under CERV-2025-CHILD?",
+            "answer": 12
+        },
+        {
+            "question": "How long in months, projects should normally range to maximum, under CERV-2025-CHILD?",
+            "answer": 24
+        },
+        {
+            "question": "According to CERV-2025-CHILD, previously submitted proposals should be with either how many digits?",
+            "answer": 6
+        },
+        {
+            "question": "According to CERV-2025-CHILD, previously submitted proposals should be with either how many digits?",
+            "answer": 9
+        },
+        {
+            "question": "What's the Arial minimum font size to be used in technical description (part B) under the CERV-2025-CHILD call?",
+            "answer": 9
+        }
+    ]
+}

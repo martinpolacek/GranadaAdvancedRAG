@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, how many Ukrainian SMEs can receive financial support?",
+            "answer": 1500
+        },
+        {
+            "question": "What is the maximum amount of Business Bridge financial support (in EURO) that can be granted to a beneficiary under the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call?",
+            "answer": 2500
+        },
+        {
+            "question": "According to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, what is the minimum EURO threshold of the planned activities expenses?",
+            "answer": 2500
+        },
+        {
+            "question": "Until what date at the latest is the Call for Application of the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 open?",
+            "answer": 2025
+        },
+        {
+            "question": "Following acceptance of their application by the Selection Committee, how many working days do applicants have to upload the duly signed agreement in pdf format via the online platform of Ukraine-Ready4EU according to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call?",
+            "answer": 15
+        },
+        {
+            "question": "Once the \u2018Agreement on financial support\u2019 is signed, how many months does the applicant have to implement the activities described in its application according to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call?",
+            "answer": 3
+        },
+        {
+            "question": "According to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, how many eligible applications can be processed and decided per month?",
+            "answer": 150
+        },
+        {
+            "question": "According to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, how many years after payment of the Business Bridge financial support the Recipient must keep records to prove the proper implementation of the action?",
+            "answer": 5
+        },
+        {
+            "question": "According to the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, how many types of action can benefit of the Business Bridge financial support?",
+            "answer": 5
+        },
+        {
+            "question": "According to the description of eligibility of the applicant for the Ukraine-Ready4EU Business Bridge \u2013 Ukraine-Ready4EU 1 call, how many employees must have the applicant to be an SME?",
+            "answer": 250
+        }
+    ]
+}

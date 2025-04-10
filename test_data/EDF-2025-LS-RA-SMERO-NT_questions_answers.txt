@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum available budget for the \"EDF-2025-LS-RA-SMERO\" call in EUR?",
+            "answer": 34000000
+        },
+        {
+            "question": "What is the maximum grant amount in EUR that a project can request under the \"EDF-2025-LS-RA-SMERO\" call?",
+            "answer": 4000000
+        },
+        {
+            "question": "What percentage of the total requested grant amount for a project under the \"EDF-2025-LS-RA-SMERO\" call, can be allocated to research organisations (as beneficiaries and affiliated entities)?",
+            "answer": 40
+        },
+        {
+            "question": "What is the upper limit for how many months a project implemented under call \"EDF-2025-LS-RA-SMERO\" can last?",
+            "answer": 48
+        },
+        {
+            "question": "What is the lower limit for how many months a project implemented under call \"EDF-2025-LS-RA-SMERO\" can last?",
+            "answer": 12
+        },
+        {
+            "question": "What is the maximum percentage of the total eligible costs that can be allocated to subcontracting for each beneficiary and affiliated entity under the \"EDF-2025-LS-RA-SMERO\" call?",
+            "answer": 30
+        },
+        {
+            "question": "What is the funding rate for Research Actions (RA) under call \"EDF-2025-LS-RA-SMERO\" expressed as percentage?",
+            "answer": 100
+        },
+        {
+            "question": "What is the percentage for the indirect cost flat-rate of the eligible direct costs (categories A-D, except subcontracting costs, financial support to third parties and exempted specific cost categories, i.e. internally invoiced goods) under call \"EDF-2025-LS-RA-SMERO\"?",
+            "answer": 25
+        },
+        {
+            "question": "How many independent applicants (beneficiaries, not affiliated entities) from different eligible countries are mandatory in a consortium for call \"EDF-2025-LS-RA-SMERO\"?",
+            "answer": 3
+        },
+        {
+            "question": "What number of days do you have to submit observations if the granting authority reduces the grant under call \"EDF-2025-LS-RA-SMERO\"?",
+            "answer": 30
+        }
+    ]
+}

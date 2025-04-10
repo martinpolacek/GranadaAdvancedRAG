@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated budget in EUR for the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 13250000
+        },
+        {
+            "question": "For the call ESF-2025-OG-NETW-NGO-SGA, what is the specific budget in EUR dedicated to capacity building of social service providers in the Member States in the area of access to ESF+ funding?",
+            "answer": 500000
+        },
+        {
+            "question": "What is the maximum number of pages allowed for proposals Part B in the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 40
+        },
+        {
+            "question": "For the call ESF-2025-OG-NETW-NGO-SGA, what is the minimum number of EU Member States in which an eligible applicant organisation must have national member organizations?",
+            "answer": 14
+        },
+        {
+            "question": "According to call ESF-2025-OG-NETW-NGO-SGA, what is the reference rate added to the rate applied by the European Central Bank (ECB) for late-payment interest, according to the Model Grant Agreement?",
+            "answer": 3.5
+        },
+        {
+            "question": "What is the maximum grant in EUR that a single work program could request in the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 1250000
+        },
+        {
+            "question": "What is the minimum grant in EUR that a single work program could request in the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 100000
+        },
+        {
+            "question": "What is the funding rate in percentage specified in the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 85
+        },
+        {
+            "question": "How many months should beneficiaries have for long-term leases for land purchases according to the call ESF-2025-OG-NETW-NGO-SGA?",
+            "answer": 240
+        },
+        {
+            "question": "According to the call ESF-2025-OG-NETW-NGO-SGA, what is the minimum number of milestones the project should provide?",
+            "answer": 4
+        }
+    ]
+}

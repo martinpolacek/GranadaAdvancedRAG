@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated budget in EUR for the CREA-MEDIA-2025-CINNET call for proposals?",
+            "answer": 15500000
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-CINNET call, what is the normal maximum project duration in months?",
+            "answer": 21
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-CINNET call, what is the minimum number of cinemas a network must represent?",
+            "answer": 400
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-CINNET call, what is the minimum number of countries participating in the MEDIA strand a network must be situated in?",
+            "answer": 20
+        },
+        {
+            "question": "What is the funding rate as a percentage in the CREA-MEDIA-2025-CINNET call?",
+            "answer": 95
+        },
+        {
+            "question": "What is the maximum financial support to third parties in EUR annually, within the CREA-MEDIA-2025-CINNET call?",
+            "answer": 250000
+        },
+        {
+            "question": "In CREA-MEDIA-2025-CINNET call, what is the percentage of indirect cost flat-rate of the eligible direct costs?",
+            "answer": 7
+        },
+        {
+            "question": "How many pages are the proposals limited to (Part B) for the CREA-MEDIA-2025-CINNET call?",
+            "answer": 70
+        },
+        {
+            "question": "The external audit report may be older than 1 year for the financial capacity assessment in the CREA-MEDIA-2025-CINNET call. How many years can be?",
+            "answer": 1
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-CINNET Call, The Central Validation Service will contact the participants after they have gone how many months without an update to re-assess the ownership control assessment?",
+            "answer": 18
+        }
+    ]
+}

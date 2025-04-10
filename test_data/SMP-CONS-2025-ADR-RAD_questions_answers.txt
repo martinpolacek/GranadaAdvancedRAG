@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total available budget for the SMP-CONS-2025-ADR-RAD call, in EUR?",
+            "answer": 1500000
+        },
+        {
+            "question": "What is the maximum percentage increase of the SMP-CONS-2025-ADR-RAD call budget, as mentioned in the document?",
+            "answer": 20
+        },
+        {
+            "question": "According to the SMP-CONS-2025-ADR-RAD call, how many months is the duration of the action normally expected to be?",
+            "answer": 24
+        },
+        {
+            "question": "Under the SMP-CONS-2025-ADR-RAD call, how many months does the document indicate for the minimum period for calls to remain open for submissions?",
+            "answer": 2
+        },
+        {
+            "question": "For the SMP-CONS-2025-ADR-RAD call, what is the maximum number of pages allowed for Application Form Part B?",
+            "answer": 70
+        },
+        {
+            "question": "For the SMP-CONS-2025-ADR-RAD call, after how many days of sending a notification, the notification will be considered to have been accessed, according to the document?",
+            "answer": 10
+        },
+        {
+            "question": "According to the SMP-CONS-2025-ADR-RAD call's general eligibility conditions, what is the funding rate (percentage) for reimbursing eligible costs of a project?",
+            "answer": 80
+        },
+        {
+            "question": "According to the SMP-CONS-2025-ADR-RAD call, how many months from the termination date does the coordinator has to submit the periodic report?",
+            "answer": 60
+        },
+        {
+            "question": "According to the SMP-CONS-2025-ADR-RAD call, how many months after the notification the coordinator or beneficiary has to submit observations if it disagrees with the rejection?",
+            "answer": 1
+        },
+        {
+            "question": "According to the SMP-CONS-2025-ADR-RAD call, what is the total years of lease needed for land purchases?",
+            "answer": 20
+        }
+    ]
+}

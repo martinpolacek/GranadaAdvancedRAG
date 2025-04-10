@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated total budget for the INNOVFUND-2024-BATT call?",
+            "answer": 1000000000
+        },
+        {
+            "question": "According to the text, what is the part B pages limit for INNOVFUND-2024-BATT applications normally?",
+            "answer": 70
+        },
+        {
+            "question": "What is the minimum font size to use for INNOVFUND-2024-BATT call applications?",
+            "answer": 9
+        },
+        {
+            "question": "What is the minimum page margin size to use for INNOVFUND-2024-BATT call applications (in mm)?",
+            "answer": 15
+        },
+        {
+            "question": "According to the text, what is the maximum grant amount percentage of relevant costs for the INNOVFUND-2024-BATT call?",
+            "answer": 60
+        },
+        {
+            "question": "What is the maximum number of characters with spaces accepted for the Proposal Title in the INNOVFUND-2024-BATT?",
+            "answer": 200
+        },
+        {
+            "question": "According to the INNOVFUND-2024-BATT application forms, what is the default GHG emission avoidance (in tCO2e) reported for absolute GHG emission avoidance?",
+            "answer": 0
+        },
+        {
+            "question": "According to the INNOVFUND-2024-BATT application forms, what is the default value (%) reported for relative GHG emission avoidance?",
+            "answer": 0
+        },
+        {
+            "question": "According to the INNOVFUND-2024-BATT application forms, what is the default value for the cost efficiency ratio?",
+            "answer": 0
+        },
+        {
+            "question": "According to the INNOVFUND-2024-BATT application forms, how many digits should have Previously submitted proposals?",
+            "answer": 6
+        }
+    ]
+}

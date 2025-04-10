@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total number of months of duration for the E-BOOST Project call?",
+            "answer": 30
+        },
+        {
+            "question": "What is the total budget in EUR for Mobility Lump Sums Open Calls under the E-BOOST Project call?",
+            "answer": 303000
+        },
+        {
+            "question": "What is the financial support per Lump Sum in EUR for beneficiaries in the E-BOOST Project call?",
+            "answer": 1500
+        },
+        {
+            "question": "How many Missions will be organised during the project implementation of the E-BOOST Project call?",
+            "answer": 6
+        },
+        {
+            "question": "What is the maximum number of beneficiaries for Mobility Lump Sum Open Call #5 within the E-BOOST Project call?",
+            "answer": 40
+        },
+        {
+            "question": "What is the maximum number of beneficiaries for Mobility Lump Sum Open Call #6 within the E-BOOST Project call?",
+            "answer": 29
+        },
+        {
+            "question": "What is the maximum funding in EUR that beneficiaries can receive from the different E-BOOST's Lump sums?",
+            "answer": 60000
+        },
+        {
+            "question": "What is the minimum number of days each Mission will run for the E-BOOST project call?",
+            "answer": 2
+        },
+        {
+            "question": "What is the total budget in EUR, will directly benefit SMEs in the form of Lump Sums for the E-BOOST project call?",
+            "answer": 1041622
+        },
+        {
+            "question": "How many Open call related to electromobility is mentioned in the E-BOOST project call?",
+            "answer": 6
+        }
+    ]
+}

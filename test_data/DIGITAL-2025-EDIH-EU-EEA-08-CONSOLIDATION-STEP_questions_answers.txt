@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the approximate estimated budget in EUR for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 170000000
+        },
+        {
+            "question": "What is the maximum budget increase in EUR for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 34000000
+        },
+        {
+            "question": "According to the text, what is the number of countries jointly proposing cross-border trans-national hubs in the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 0
+        },
+        {
+            "question": "What is the submission deadline hour in CEST for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 17
+        },
+        {
+            "question": "What is the maximum number of pages allowed for proposals in the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 70
+        },
+        {
+            "question": "What is the funding rate in percentage for Simple Grants within the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 50
+        },
+        {
+            "question": "What is the minimum project budget in EUR for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 1000000
+        },
+        {
+            "question": "What is the maximum project budget in EUR for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 3000000
+        },
+        {
+            "question": "What is the maximum percentage number, for the Indirect cost flat-rate of eligible direct costs in the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 7
+        },
+        {
+            "question": "What is the duration of the projects in months for the DIGITAL-2025-EDIH-CONSOLIDATION-EU-EEA-08-STEP call?",
+            "answer": 36
+        }
+    ]
+}

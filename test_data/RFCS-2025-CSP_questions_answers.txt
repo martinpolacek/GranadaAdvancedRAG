@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the text, what is the maximum EU contribution in millions of EUR that the European Commission envisages to dedicate to actions within the scope of the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 700
+        },
+        {
+            "question": "What is the estimated amount of EUR in billions for the total resource requirement (industrial efforts from the steel sector in R&D&I projects falling within the scope of this Strategic Research and Innovation Agenda between 2021 and 2030) for the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 3
+        },
+        {
+            "question": "According to the text, how many technology building blocks can contribute separately to the areas of intervention of the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 12
+        },
+        {
+            "question": "According to the text, how many projects resulting in building blocks at TRL 7 is the proposed budget expected to finance in the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 16
+        },
+        {
+            "question": "According to the text, what is the minimum CO2 emission reduction in percentage that can be achieved, according to the long-term vision, by deploying technologies developed by 2050 in the EU steel production, in RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 80
+        },
+        {
+            "question": "According to the text, how many specific objectives has the Clean Steel Partnership set to be achieved in 7 to 10 years in the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 6
+        },
+        {
+            "question": "For each tonne of crude steel produced with the BF-BOF process, about how many tonnes of CO2 are created, according to the text in RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 1
+        },
+        {
+            "question": "According to the text, how many projects resulting in building blocks at TRL 8 is the proposed budget expected to finance in the RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 12
+        },
+        {
+            "question": "According to the text, how many EU countries are there in the steel sector with production sites in RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 23
+        },
+        {
+            "question": "According to the text, what is the minimum CO2 emission reduction in percentage that must be achieved by 2030 in steelmaking, compared to 1990 levels in RFCS-2025-CSP SRIA Update Draft?",
+            "answer": 50
+        }
+    ]
+}

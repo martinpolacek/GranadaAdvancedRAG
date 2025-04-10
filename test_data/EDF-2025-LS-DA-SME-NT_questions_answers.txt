@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated budget in EUR mentioned for the \"EDF-2025-LS-DA-SME\" call?",
+            "answer": 33000000
+        },
+        {
+            "question": "According to the call, what is the maximum number of pages allowed for the \"EDF-2025-LS-DA-SME\" proposal, including work package descriptions?",
+            "answer": 100
+        },
+        {
+            "question": "In the \"EDF-2025-LS-DA-SME\" call, how many independent applicants from different eligible countries are minimally required in a consortium?",
+            "answer": 3
+        },
+        {
+            "question": "What is the percentage limit for subcontracting in the \"EDF-2025-LS-DA-SME\" call?",
+            "answer": 30
+        },
+        {
+            "question": "In the context of \"EDF-2025-LS-DA-SME\" call, what percentage will be awarded as a PESCO bonus?",
+            "answer": 10
+        },
+        {
+            "question": "In the \"EDF-2025-LS-DA-SME\" call, what is the duration in months, between the indicated minimum and the maximum project duration?",
+            "answer": 36
+        },
+        {
+            "question": "What is the points related with weight awarded under the \"EDF-2025-LS-DA-SME\" call for EDTIB autonomy?",
+            "answer": 5
+        },
+        {
+            "question": "In the \"EDF-2025-LS-DA-SME\" call, what is the maximum EU grant amount in EUR allowed per project?",
+            "answer": 6000000
+        },
+        {
+            "question": "In the \"EDF-2025-LS-DA-SME\" call, what is the base funding rate in percent for the Integranting knowledge?",
+            "answer": 65
+        },
+        {
+            "question": "In the \"EDF-2025-LS-DA-SME\" call, what is the minimum number of independent experts required for peer review?",
+            "answer": 3
+        }
+    ]
+}

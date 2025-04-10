@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated available call budget for JUST-2025-JCOO-JACC-OG-SGA for promoting judicial cooperation in civil and/or criminal matters?",
+            "answer": 2035000
+        },
+        {
+            "question": "What is the estimated available call budget for JUST-2025-JCOO-JACC-OG-SGA for access to justice?",
+            "answer": 2390000
+        },
+        {
+            "question": "According to the text, what is the page limit for proposals in Part B for the call JUST-2025-JCOO-JACC-OG-SGA?",
+            "answer": 45
+        },
+        {
+            "question": "What is the maximum number of EU Member States or associated countries from which the members of an established formal network must be for it to be eligible under the call JUST-2025-JCOO-JACC-OG-SGA?",
+            "answer": 14
+        },
+        {
+            "question": "What is the funding rate fixed in the Grant Agreement of the call JUST-2025-JCOO-JACC-OG-SGA?",
+            "answer": 80
+        },
+        {
+            "question": "What's the number of years that Framework Partners must be awarded to finance their activities to be eligible to an annual operating grant (starting with the year 2026) from the JUST-2025-JCOO-JACC-OG-SGA call?",
+            "answer": 3
+        },
+        {
+            "question": "How many months after the action beneficiaries must use their best effort to exploit their results directly or to have them exploited indirectly by another entity, according to ANNEX 5 SPECIFIC RULES ON IPR of the call JUST-2025-JCOO-JACC-OG-SGA?",
+            "answer": 48
+        },
+        {
+            "question": "According to the general information in Model Grant Agreement, how many prefinancing payments (initial) are foreseen for the  JUST-2025-JCOO-JACC-OG-SGA call?",
+            "answer": 1
+        },
+        {
+            "question": "According to the text about JUST-2025-JCOO-JACC-OG-SGA call, how many months should you keep open calls for third-party support at a minimum?",
+            "answer": 2
+        },
+        {
+            "question": "How many independent experts at least must proposals be evaluated with, assistance to of international peer review, in the call JUST-2025-JCOO-JACC-OG-SGA?",
+            "answer": 3
+        }
+    ]
+}

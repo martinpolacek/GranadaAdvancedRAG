@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum number of countries that can be represented in a consortium for the ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, if none are Czech Republic or Latvia?",
+            "answer": 5
+        },
+        {
+            "question": "According to the ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is the minimum number of countries that must be represented in a consortium to be eligible?",
+            "answer": 3
+        },
+        {
+            "question": "According to Austrian Science Fund (FWF) funding organisation in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, how many projects they anticipate funding?",
+            "answer": 5
+        },
+        {
+            "question": "According to the Health Research Board (HRB) in the ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is the overhead contribution percentage of Total Direct Modified Costs (TDMC)?",
+            "answer": 30
+        },
+        {
+            "question": "According to Ministry of Health of the Czech Republic funding organisation in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, how many proposals they anticipate funding?",
+            "answer": 2
+        },
+        {
+            "question": "According to Israel CSO-MOH in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is the maximum Institutional overhead percentage?",
+            "answer": 10
+        },
+        {
+            "question": "According to National Centre for Research and Development (NCBR) funding organisation in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, how many Euros is the Funding commitment?",
+            "answer": 2500000
+        },
+        {
+            "question": "According to Italian Ministry of Health (IT MoH) in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is the indirect costs, Overhead percentage?",
+            "answer": 10
+        },
+        {
+            "question": "According to the ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is maximum numbers of collaborators allowed?",
+            "answer": 3
+        },
+        {
+            "question": "According to Andalusian Regional Ministry of Health and Consumer Affairs (CSCJA) in ERA4Health Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) \u2013 2025, what is the percentage for indirect costs?",
+            "answer": 21
+        }
+    ]
+}

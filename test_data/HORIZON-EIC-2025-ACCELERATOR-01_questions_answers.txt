@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum page limit for the Part B proposal template for the call [insert call identifier] \u2014 [insert call name]?",
+            "answer": 12
+        },
+        {
+            "question": "According to initial version of document EU Grants: Application form (HE EIC Accelerator stage 1 - short proposal) how many changes compared to the online tool are there in the Call: [insert call identifier] \u2014 [insert call name]?",
+            "answer": 1
+        },
+        {
+            "question": "According to document EU Grants: Application form (HE EIC Accelerator stage 1 - short proposal) when was modified Version 1.1 in the Call: [insert call identifier] \u2014 [insert call name]?",
+            "answer": 18
+        },
+        {
+            "question": "According to document EU Grants: Application form (HE EIC Accelerator stage 1 - short proposal) what is the maximum video length in minutes about the Call: [insert call identifier] \u2014 [insert call name]?",
+            "answer": 3
+        },
+        {
+            "question": "According to the document EU Grants: Application form (HE EIC Accelerator stage 1 - short proposal), the pitch deck for the Call: [insert call identifier] \u2014 [insert call name] should not exceed how many pages?",
+            "answer": 10
+        },
+        {
+            "question": "What is the minimum font size allowed in the proposal template for Call: [insert call identifier] \u2014 [insert call name]?",
+            "answer": 11
+        },
+        {
+            "question": "According to Commission Recommendation of 11 March 2005 on the European Charter for Researchers and on a Code of Conduct for the Recruitment of Researchers, how many Member of the Commission did recommend?",
+            "answer": 1
+        },
+        {
+            "question": "According to Commission Recommendation of 11 March 2005 on the European Charter for Researchers and on a Code of Conduct for the Recruitment of Researchers, by which date Member States were invited to inform the Commission of any measures they have taken further to this Recommendation, and to inform it of the first results of its application as well as to provide examples of good practice?",
+            "answer": 15
+        },
+        {
+            "question": "According to document HE MGA \u2014 Multi & Mono: V1.2 \u2013 01.11.2024, the beneficiaries must have a specific career development strategy for researchers atall stagesoftheir career, regard-lessoftheir contractualsituation, including for researcherson fixed-term contracts. Itshould include the availabilityofmentors involved in provi-ding supportand guidance for the personaland professionaldevelopment of researchers, thus motivating them and contributing to reducing any how many?",
+            "answer": 18
+        },
+        {
+            "question": "In the GENERAL MODEL GRANT AGREEMENT FOR THE HORIZON EUROPE PROGRAMME (HORIZON) how many versions of the EU Grants: HE MGA \u2014 Multi & Mono were Draft?",
+            "answer": 3
+        }
+    ]
+}

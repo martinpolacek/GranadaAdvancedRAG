@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the FRONTIERS call, what is the minimum duration, in months, of the fellowship?",
+            "answer": 3
+        },
+        {
+            "question": "According to the FRONTIERS call, what is the maximum duration, in months, of the fellowship?",
+            "answer": 5
+        },
+        {
+            "question": "In the FRONTIERS call, how many applications for host institution will be selected if the institution is listed more than once?",
+            "answer": 1
+        },
+        {
+            "question": "According to the FRONTIERS call, how many host institutions must provide a letter of commitment for hosting the fellow in a multi-institutional approach?",
+            "answer": 0
+        },
+        {
+            "question": "According to the FRONTIERS call, how many training workshops are planned as part of the project that must be attended?",
+            "answer": 0
+        },
+        {
+            "question": "According to the FRONTIERS call, what is the minimum number of months a fellowship must run for?",
+            "answer": 3
+        },
+        {
+            "question": "According to the FRONTIERS call, what is the maximum number of months a fellowship can run for?",
+            "answer": 5
+        },
+        {
+            "question": "According to the FRONTIERS call, how many institutions must be identified as leading institutions in a multi-institutional project?",
+            "answer": 1
+        },
+        {
+            "question": "According to the FRONTIERS call, how many letters of commitment must be provided by host institutions in a multi-institutional project?",
+            "answer": 0
+        },
+        {
+            "question": "According to the FRONTIERS call, how many permanent residences are not allowed for journalists from Russia, Belarus, or non-government-controlled territories of Ukraine?",
+            "answer": 0
+        }
+    ]
+}

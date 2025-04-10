@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the Call CREA-MEDIA-2025-FILMDIST, what is the estimated budget available in EUR?",
+            "answer": 32000000
+        },
+        {
+            "question": "What is the maximum page limit for proposals in the Call CREA-MEDIA-2025-FILMDIST?",
+            "answer": 70
+        },
+        {
+            "question": "In the Call CREA-MEDIA-2025-FILMDIST, what is the funding rate for eligible costs (in percentage)?",
+            "answer": 70
+        },
+        {
+            "question": "In the Call CREA-MEDIA-2025-FILMDIST, how many different eligible non-national films can the reinvestment be made on a maximum?",
+            "answer": 12
+        },
+        {
+            "question": "According to call CREA-MEDIA-2025-FILMDIST, how many months of additional protection should a long-term lease have, at least?",
+            "answer": 20
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMDIST Call, what is the maximum eligible potential fund generated per applicant (in EUR)?",
+            "answer": 1000000
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMDIST Call, how many points are attributed to the 'Relevance' criteria?",
+            "answer": 100
+        },
+        {
+            "question": "In the Call CREA-MEDIA-2025-FILMDIST, what is the maximum threshold per film in admissions for Germany in number?",
+            "answer": 300000
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMDIST Call, what is the minimum score to be considered for funding?",
+            "answer": 70
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-FILMDIST Call, for film with less of how many eligible admissions will not be eligible in a country? ",
+            "answer": 200
+        }
+    ]
+}

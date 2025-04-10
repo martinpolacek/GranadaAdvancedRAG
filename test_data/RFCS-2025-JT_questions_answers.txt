@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total available budget for the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS)?",
+            "answer": 35000000
+        },
+        {
+            "question": "What is the maximum eligible EU contribution for projects in the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS) according to the document text?",
+            "answer": 18000000
+        },
+        {
+            "question": "In the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS), what is the minimum number of independent applicants (beneficiaries, not affiliated entities) from different eligible countries required for a consortium?",
+            "answer": 2
+        },
+        {
+            "question": "What is the flat-rate for indirect costs to eligible personnel costs (except volunteers costs, if any) in the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS)?",
+            "answer": 35
+        },
+        {
+            "question": "What is number of pages limit for Part B (technical description) proposals in call RFCS-2025-JT Research Fund for Coal and Steel (RFCS)?",
+            "answer": 70
+        },
+        {
+            "question": "What is the minimum duration in months of projects to be submitted in call RFCS-2025-JT Research Fund for Coal and Steel (RFCS)?",
+            "answer": 36
+        },
+        {
+            "question": "What is the maximum duration in months of projects to be submitted in call RFCS-2025-JT Research Fund for Coal and Steel (RFCS) to be sure to be accepted?",
+            "answer": 54
+        },
+        {
+            "question": "According to call RFCS-2025-JT Research Fund for Coal and Steel (RFCS), what is the highest number of years the previous projects, in the area of the topic, must have?",
+            "answer": 4
+        },
+        {
+            "question": "In the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS), up to which maximum percentage of the beneficiaries' total eligible costs, costs for synergetic elements are eligible?",
+            "answer": 20
+        },
+        {
+            "question": "In the call RFCS-2025-JT Research Fund for Coal and Steel (RFCS), what is the maximum number of years for long-term leases to be considered for land purchases?",
+            "answer": 20
+        }
+    ]
+}

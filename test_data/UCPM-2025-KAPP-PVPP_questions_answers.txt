@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated budget in EUR for the \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 10000000
+        },
+        {
+            "question": "What is the maximum EU contribution in EUR per project for the \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 1000000
+        },
+        {
+            "question": "What is the funding rate (%) for projects selected in \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 90
+        },
+        {
+            "question": "How many different eligible states are required in the consortium for the \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 3
+        },
+        {
+            "question": "What is the percentage of the indirect cost flat-rate in the \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 7
+        },
+        {
+            "question": "According to the \"UCPM-2025-KAPP-PVPP\" call, what's the maximum number in characters of the Proposal title?",
+            "answer": 200
+        },
+        {
+            "question": "What is the number of days after the call deadline within the IT helpdesk complaint must be filed for \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 4
+        },
+        {
+            "question": "How many months after the entry into force the beneficiaries must accede to the grant by signing the accession form for \"UCPM-2025-KAPP-PVPP\" call?",
+            "answer": 1
+        },
+        {
+            "question": "What is the estimated budget in EUR for the Full-scale exercise projects (UCPM-2025-KAPP-EX) topic?",
+            "answer": 4000000
+        },
+        {
+            "question": "According to the \"UCPM-2025-KAPP-PVPP\" call, what's the minimum amount in EUR of EU contribution a project must ask to be admissible?",
+            "answer": 400000
+        }
+    ]
+}

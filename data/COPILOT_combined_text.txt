@@ -1,0 +1,273 @@
+Guidelines for applicants – OC3
+Project Acronym: COPILOT
+Project Title: Co-creating the next generation platform of PILOT and
+demo infrastructures, unlocking faster innovations and EU
+bioeconomy growth
+Project Number: 101157279
+Topic: HORIZON-JU-CBE-2023-S-01
+Type of Action: HORIZON-JU-CSA
+COPILOT Open Call 3
+Annex 1: Guidelines for Applicants
+This project is supported by the Circular Bio-based Europe Joint Undertaking and its members.
+Funded by the European Union. Views and opinions expressed are however those of the author(s) and do not necessarily
+reflect those of the European Union or CBE JU. Neither the European Union nor the CBE JU can be held responsible for them.
+1Guidelines for applicants – OC3
+Contents
+1 INTRODUCTION 3
+2 GENERAL INFORMATION 3
+2.1 Terms and definitions 3
+2.2 Means of submission 3
+2.3 Language 4
+2.4 Documentation formats 4
+2.5 Data protection 4
+2.6 Origin of the funds 4
+3 ELIGIBILITY CRITERIA 4
+3.1 Applicants' eligibility 4
+3.1.1 Types of applicants 5
+3.1.2 Additional eligibility conditions 5
+3.2 Financial eligibility 5
+4 CONFLICT OF INTEREST 5
+5 OPEN CALLS: SUBMISSION, SELECTION AND IMPLEMENTATION 6
+5.1 Application reparation and submission 6
+5.2 Application evaluation and selection 6
+5.2.1 Step 1: Eligibility verification 6
+5.2.2 Step 2: COPILOT consortium remote evaluation of application 7
+6 FINAL SELECTION 7
+6.1 Checks and reviews 7
+6.2 Promoting the action and give visibility to the EU funding 8
+7 SUB-GRANT AGREEMENT PREPARATION AND IMPLEMENTATION 8
+7.1 Use of qualified signatures 8
+7.2 SUB-GRANT AGREEMENT SIGNATURE 8
+8 MANDATORY ACTIONS AND REPORTING 9
+9 CONFIDENTIALITY 9
+10 CONTACT INFORMATION 9
+2Guidelines for applicants – OC3
+1 Introduction
+This document provides the relevant information for applications for the COPILOT Open Call 3 (OC3).
+The aim of the OC3 is to issue travel vouchers for bioeconomy innovators and enablers1 to foster
+collaboration, expand horizons and support scale up endeavours of the bioeconomy ecosystem in
+Europe. With the vouchers, the COPILOT project will encourage access to a vibrant bio-economy
+community, networking and matchmaking as well as better knowledge and understanding about the
+purpose and work of the pilot and demonstration facilities.
+2 General information
+2.1 Terms and definitions
+Term Definition
+COPILOT consortium Group of legal entities that are cumulatively responsible for
+implementing the COPILOT project as defined in the Grant Agreement
+number 101157279.
+Applicant Defined, in an open call overview, eligible entities regarding OC3.
+Application phase Period when applicants can submit applications to the open call.
+Evaluation phase Period when the consortium evaluates and ranks the applications.
+Contracting Period when the selected applications and the consortium complete the
+administrative procedures to sign the sub-grant agreement and prepare
+administrative documents.
+Implementation
+Period when selected applicants start their activities.
+phase
+2.2 Means of submission
+The Travel voucher application form at the COPILOT website (https://copilot-project.eu/) will be the
+entry point for submission of all applications to the COPILOT OC3. Any application submitted through
+other channels will be automatically rejected.
+1 Detailed information about eligible applicants is described under 3.1.1.
+3Guidelines for applicants – OC3
+2.3 Language
+English is the only official language for the COPILOT Open Call. Submissions done in any language other
+than English will not be eligible and will not be evaluated.
+Similarly, English is the only official language during the whole implementation of the COPILOT
+programme. This means that any requested submission of documentation and deliverables will be done
+in English to be eligible.
+2.4 Documentation formats
+All the documents submitted by the applicants should be submitted as PDF files unless stated
+otherwise.
+2.5 Data protection
+To process and evaluate applications, the COPILOT consortium will need to collect personal and data.
+BBEPP will act as Data Controller for data submitted through the COPILOT website for these purposes.
+Please see our privacy policy here. A Data Protection Officer (DPO) has been appointed by BBEPP
+generally, to ensure compliance with data protection regulations, such as the General Data Protection
+Regulation (GDPR), and that personal data is collected, processed, and stored in a secure manner.
+The COPILOT website system design and operational procedures ensure that data is managed in
+compliance with the General Data Protection Regulation (EU) 2016/679 (GDPR). Each applicant will
+accept the COPILOT terms to ensure compliance. Please refer to https://copilot-project.eu/ to review
+the platform’s privacy policy and data security policy.
+Apart from the COPILOT website, data will also be stored on the project repository.
+Please note that the COPILOT consortium must retain generated data until five years after the balance
+of the COPILOT project is paid or longer if there are ongoing procedures (such as audits, investigations
+or litigation). In this case, the data must be kept until the end.
+2.6 Origin of the funds
+Selected applicants will sign a dedicated sub-grant funding agreement with the COPILOT consortium.
+The funds associated with this sub-grant agreement originate from the European project COPILOT and
+remain the property of the Circular Bio-based Europe Joint Undertaking (granting authority) until the
+balance is paid. The management rights to these funds have been transferred to the COPILOT project
+partners through the Circular Bio-based Europe Joint Undertaking GA no. 101157279.
+3 Eligibility criteria
+3.1 Applicants' eligibility
+All applicants must meet the requirements described in this section to be eligible:
+● submissions will ONLY be accepted through the COPILOT project website,
+● fit within the target audience (types of applicants: respective audiences for OC3) as indicated
+in section 3.1.1 of this document,
+4Guidelines for applicants – OC3
+● are based and registered in an eligible Horizon Europe country.2
+● the application and all requested documents are provided only in the English language as
+indicated in section 2.3 of this document.
+The detailed eligibility criteria, as described in the sections below, apply.
+3.1.1 Types of applicants
+Open call 3 will fund:
+● Bioeconomy innovators: to be start-ups, start-ups, spin-offs, scale-ups and SME3s and
+● Enablers in the bioeconomy domain: Investors, Research and technology
+organisations, Incubators, Cluster representatives, Representatives of relevant public
+authorities / policy-makers responsible for bio-economy sector and research and innovation
+in an eligible Horizon Europe country4, Corporates.
+3.1.2 Additional eligibility conditions
+The following additional eligibility conditions apply:
+● The participating organisations/individuals should not have been declared bankrupt or have
+initiated bankruptcy procedures at the time of applying.
+● The participating organisations/individuals should not be under liquidation or an enterprise
+under difficulty according to the Commission Regulation No 651/2014, art. 2.18.
+● The participating organisations/individuals should not be excluded from the possibility of
+obtaining EU funding under the provisions of both national and EU law, or by a decision of
+both national or EU authority
+● The organisations or individuals applying should not have convictions for fraudulent
+behaviour, other financial irregularities, and unethical or illegal business practices.
+● There should not be any conflict of interest with any of the COPILOT partners (beneficiaries),
+as detailed in Section 3.1.4.
+● Applicants that received funding under the COPILOT OC1 and OC2 cannot apply to OC3.
+● Applicants can only receive/win one voucher.
+3.2 Financial eligibility
+Each selected applicant will receive 500 EUR per voucher to cover the respective mandatory actions
+and additional activities set up in the application.
+4 Conflict of Interest
+Beneficiaries must take all measures to prevent any situation where the impartial and objective
+implementation of the sub-project is compromised for reasons involving economic interest, political or
+national affinity, family or emotional ties or any other shared interest (‘conflict of interest’).
+2 List of Horizon Europe eligible countries: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-
+2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf
+3 SME definition: https://single-market-economy.ec.europa.eu/smes/sme-fundamentals/sme-definition_en
+4 List of Horizon Europe eligible countries: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-
+2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf
+5Guidelines for applicants – OC3
+They must formally notify the COPILOT Coordinator without delay of any situation constituting or likely
+to lead to a conflict of interest and immediately take all the necessary steps to rectify this situation. The
+COPILOT Coordinator will verify if the measures taken are appropriate and may require additional
+measures to be taken by a specific deadline.
+If a beneficiary breaches any of its obligations, the sub-grant agreement may be automatically
+terminated. Moreover, costs may be rejected.
+5 Open calls: submission, selection and implementation
+This section aims to provide applicants with a clear overview of the submission, selection, and
+implementation process.
+5.1 Application reparation and submission
+The following steps must be completed to successfully submit application in the COPILOT open calls:
+- Get familiar with the documentation.
+- Fill in all necessary information indicated as necessary in the application form available at the
+COPILOT website. Each applicant needs to choose one event from the list of events that will be
+provided in the application form by the COPILOT consortium.
+- Submit only if you are sure that all needed information is included.
+- Submit only within a dedicated timeline for submission of application.
+- Submit only within a dedicated timeline for submission of the application for the open call:
+FIRST OPENING DATE: 10th March 2025 – 8th May 2025 (17.00 CET);
+SECOND OPENING DATE: 15th September 2025 – 13th November 2025 (17.00 CET).
+The COPILOT - Open Calls is a competitive funding programme. Only one application per applicant (legal
+entity or natural person) can be submitted to Open Call 3. In the event of multiple submissions by an
+applicant, only the last application received (timestamp of the system) will enter the evaluation process
+(and regardless of the track to which an application is being submitted to). Any other submitted
+applications involving the same applicant will be declared non-eligible and will not be evaluated in any
+case.
+5.2 Application evaluation and selection
+The evaluation of applications will be conducted internally by the COPILOT consortium. To ensure
+objectivity, applications will be anonymized and reviewed by COPILOT project partners, thereby
+avoiding any conflicts of interest. This process guarantees transparency and efficiency. The subsequent
+section outlines the detailed process of evaluation and selection.
+5.2.1 Step 1: Eligibility verification
+The eligibility check will be conducted by the COPILOT consortium according to the eligibility criteria
+described in section 3.1.1 of this document.
+This step can finish with:
+● Rejection notification stating that the applicant is not eligible. No additional feedback will
+be given.
+● Moving application to step 2.
+6Guidelines for applicants – OC3
+5.2.2 Step 2: COPILOT consortium remote evaluation of application
+All applicants passing the eligibility check will pass to the next evaluation step.
+The COPILOT consortium will review each application during an evaluation panel based on the scores
+following evaluation criteria:
+● Distance: vouchers will be awarded to cover the distance that is more than 300 km away from
+the location of the organisation of the applicant. The COPILOT consortium reserves the right
+to determine the number of vouchers issued per opening date; the final count will depend on
+the number of events in each open call.
+● Geographical distribution: COPILOT consortium wants to ensure that at least 15% of under-
+represented regions receive the voucher. Therefore, 15 vouchers will be reserved for
+applicants from Central & Eastern European countries5.
+● Motivation (score 1-5): The applicants applying to the Voucher Network Program will have to
+answer a set of questions associated with the proposed activity. Their applications will be
+selected following the (i) impact of the proposed activity to their organisation / technology
+and (ii) their capacity to promote the outcome of their participation, creating a multiplier
+effect and attracting newcomers to the platform. SMEs, start-ups and enablers from Central
+and Eastern Europe will be prioritised.
+Score definition regarding evaluation process varies as follows:
+Score 1 – applicant doesn't demonstrate relevant motivation in relation to the proposed activity
+Score 5 – applicant demonstrated high-level motivation in relation to the proposed activity
+6 Final selection
+At the end of the evaluation process, all applications will be ranked by the COPILOT consortium based
+on their scores. All applicants will be informed about the evaluation results.
+In case of complaints, please address them at copilot@f6s.com
+6.1 Checks and reviews
+The EC may, at any time during the implementation of the sub-project and up to five years after the
+end of the sub-project, arrange for a check and review to be carried out, by external auditors, or by the
+EC services themselves, including the European Anti-Fraud office (OLAF). The procedure shall be
+deemed to be initiated on the date of receipt of the relevant letter sent by the EC.
+There will be no financial checks, reviews, or audits to check costs, since beneficiaries have no obligation
+to document the costs incurred for the action. Checks, reviews, and audits will focus on the technical
+implementation of the action.
+5 List of Central and Eastern European countries: https://www.unescwa.org/sd-glossary/central-and-eastern-
+european-countries-ceecs
+7Guidelines for applicants – OC3
+6.2 Promoting the action and give visibility to the EU funding
+The beneficiary must promote the sub-project, the COPILOT project and its results, by providing
+targeted information to multiple audiences (including the media and the public) in a strategic and
+effective manner and to highlight the financial support of the EC.
+7 Sub-grant agreement preparation and implementation
+Only selected applicants will be invited.
+Sub-grant agreement template is available in the open call documentation kit and is not subject to
+changes. The objective of the sub-grant agreement is to fulfil the legal requirements between the
+COPILOT consortium and each beneficiary of the open call.
+The following information and documents will be needed from each funded applicant:
+● Sub-grant agreement template
+● Annex 2 to sub-grant agreement - Declaration of Honours
+● Annex 3 to sub-grant agreement - SME declaration (if applicable)
+● Annex 4 to sub-grant agreement - Know Your Customer Form
+● Annex 5 to sub-grant agreement - Travel Report
+● Annex 6 to sub-grant agreement - Payment Request
+7.1 Use of qualified signatures
+All documentation that requires a signature (e.g. SME Declaration (if applicable), Bank Account, and
+sub-grant agreement must be signed with a valid electronic digital signature. The valid electronic digital
+signature is one of the following:
+● Simple electronic signatures (SES)
+● Advanced electronic signatures (AES)
+● Qualified electronic signatures (QES)
+Therefore, scanned wet signatures (hand-written signatures) are not considered eligible.
+The European Commission proposes a demo of DSS (Digital Signature Services), a tool that enables the
+signature of documents. More information about qualified digital signatures is available here.
+The request of the above listed documentation by the COPILOT consortium will be sent to the
+applicants, including deadlines by which information and documentation should be sent.
+7.2 Sub-grant agreement signature
+The sub-grant agreement will be signed between the COPILOT consortium represented by its
+Coordinator (BBEPP), the Treasurer (F6S), and the selected applicant.
+8Guidelines for applicants – OC3
+8 Mandatory actions and reporting
+Mandatory action Travel Report Payment
+Attend selected COPILOT event Provide travel report After the confirmation of the
+and participate in the feedback (Annex 5 to sub-grant report
+survey/evaluate the event agreement - Travel Report) (Annex 6 to sub-grant
+agreement - Payment Request)
+9 Confidentiality
+During implementation of the activities and for four years after their end the parties must keep
+confidential any data, documents or other material (in any form) that is identified as confidential at
+sub-contract signing time (‘confidential information’).
+If a selected beneficiary requests, the Commission and the COPILOT Consortium may agree to keep
+such information confidential for an additional period beyond the initial four years. This will be explicitly
+stated at the sub-contract.
+If information has been identified as confidential during the sub-project execution or only orally, it will
+be considered to be confidential only if this is accepted by the COPILOT coordinator and confirmed in
+writing within 15 days of the oral disclosure. Unless otherwise agreed between the parties, they may
+use confidential information only to implement the sub-grant agreement.
+10 Contact information
+Any official correspondence connected with OC3 can be conducted at copilot@f6s.com.
+9

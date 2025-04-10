@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum number of pages allowed for document 1 (part B1) in the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 34
+        },
+        {
+            "question": "What is the minimum font size allowed for the main text in the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 11
+        },
+        {
+            "question": "What is the minimum font size allowed for the tables in the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 9
+        },
+        {
+            "question": "How many publication can be listed in the list, widely-used datasets, software, goods, services, or any other achievements relevant to the HORIZON-MSCA-2025-COFUND-01-01 call content?",
+            "answer": 5
+        },
+        {
+            "question": "How many most relevant previous projects or activities, connected to the subject of the proposal, can be listed for the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 5
+        },
+        {
+            "question": "What is the maximum upload size (in MB) allowed for each document in the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 10
+        },
+        {
+            "question": "How many pages the start page must consist of for the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 1
+        },
+        {
+            "question": "How many pages the table of contents must consist of for the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 1
+        },
+        {
+            "question": "How many pages the general description of the programme must consist of for the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 2
+        },
+        {
+            "question": "What is the minimum gross remuneration, in EUR, for a Doctoral fellow per month regarding the HORIZON-MSCA-2025-COFUND-01-01 call?",
+            "answer": 3300
+        }
+    ]
+}

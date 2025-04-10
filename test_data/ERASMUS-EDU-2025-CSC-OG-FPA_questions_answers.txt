@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the text, what is the minimum number of EU Member States and third countries associated to the Programme required for a European Non-Governmental Organisation (ENGO) under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 9
+        },
+        {
+            "question": "According to the text, what is the minimum number of staff members (understood as full-time equivalent) required for an EU-wide network under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 7
+        },
+        {
+            "question": "According to the text, what is the character page limit for Part B proposals under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 40
+        },
+        {
+            "question": "According to the text, what is the number of years for the Framework Partnership Agreement to support Civil Society Cooperation in the field of Education and Training (2026-2027) under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 2
+        },
+        {
+            "question": "According to the text, what is the number of minimum member organizations that a EU-wide network must have in the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 20
+        },
+        {
+            "question": "According to the text, what is the minimum number of independent experts in selection panels required to select user groups in the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 3
+        },
+        {
+            "question": "Based on the text, how many actions do the legal text mentions, could be signed between the number expected and qualified of signed framework partnerships under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 25
+        },
+        {
+            "question": "Based on the text, how many is the maximum of framework partnerships that the call mentions can be signed, based on the number expected and qualified of signed framework partnerships under the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 40
+        },
+        {
+            "question": "According to the text, what is the minimum number of EU Member States and third countries associated to the Programme required, in order to be considered a ENGO, and to have a proven statutory link with the European body/secretariat, in the ERASMUS-EDU-2025-CSC-OG-FPA call?",
+            "answer": 9
+        },
+        {
+            "question": "According to the text, how many months should be open for submission (minimum), under the ERASMUS-EDU-2025-CSC-OG-FPA call, for the financial support to third parties in Co-funded Partnerships?",
+            "answer": 2
+        }
+    ]
+}

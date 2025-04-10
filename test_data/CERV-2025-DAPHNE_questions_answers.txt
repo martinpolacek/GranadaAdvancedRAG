@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the page limit for Part B of the CERV-2025-DAPHNE application for projects under Priority 1, according to the call?",
+            "answer": 70
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the minimum amount of funding requested for projects in Priorities 2 and 3, in EUR?",
+            "answer": 100000
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, how many days after the pre-information letter does the coordinator have to submit observations in case of recoveries?",
+            "answer": 30
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the maximum amount of financial support that can be given to each third party under regranting scheme in Priority 1, in EUR?",
+            "answer": 60000
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the estimated available budget for priority 1, in EUR?",
+            "answer": 10000000
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the standard minimum number of work packages a project should normally have?",
+            "answer": 2
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the maximum grant amount for a project in priority 4, in EUR?",
+            "answer": 1000000
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the page limit for Part B of the application for projects under Priority 2?",
+            "answer": 45
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the minimum duration for projects in Priority 2, in months?",
+            "answer": 12
+        },
+        {
+            "question": "According to the CERV-2025-DAPHNE call, what is the duration to submit a periodic report after reporting period, in days?",
+            "answer": 60
+        }
+    ]
+}

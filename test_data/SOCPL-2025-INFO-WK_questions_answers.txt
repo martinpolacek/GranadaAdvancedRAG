@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the expected minimum number of projects funded under the SOCPL-2025-INFO-WK call?",
+            "answer": 15
+        },
+        {
+            "question": "What is the latest duration in months accepted for projects under the SOCPL-2025-INFO-WK call?",
+            "answer": 36
+        },
+        {
+            "question": "What is the available call budget in EUR for the SOCPL-2025-INFO-WK call?",
+            "answer": 5661382
+        },
+        {
+            "question": "What is the maximum amount in EUR for project budgets under the SOCPL-2025-INFO-WK call?",
+            "answer": 700000
+        },
+        {
+            "question": "What is the minimum amount in EUR for project budgets under the SOCPL-2025-INFO-WK call?",
+            "answer": 150000
+        },
+        {
+            "question": "According to the text, What is the value in points of award criteria 'relevance' under the SOCPL-2025-INFO-WK call?",
+            "answer": 30
+        },
+        {
+            "question": "According to the text, what's the individual minimum pass score in points for 'Quality \u2014 Project design and implementation' in SOCPL-2025-INFO-WK call?",
+            "answer": 13
+        },
+        {
+            "question": "What's the total number of point to pass for proposal, in SOCPL-2025-INFO-WK call?",
+            "answer": 60
+        },
+        {
+            "question": "What is the VAT funding rate in percentage for SOCPL-2025-INFO-WK call?",
+            "answer": 90
+        },
+        {
+            "question": "How many days a formal notifications that have not been accessed after sending in SOCPL-2025-INFO-WK call is considered to have been accessed?",
+            "answer": 10
+        }
+    ]
+}

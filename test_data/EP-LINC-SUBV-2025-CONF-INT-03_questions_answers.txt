@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the indicative budget in EUR for the entire \"EP-LINC-SUBV-2025-CONF-INT-03\" call ?",
+            "answer": 734000
+        },
+        {
+            "question": "For \"EP-LINC-SUBV-2025-CONF-INT-03\", what is the maximum percentage of total accepted eligible costs that the European Parliament may co-finance?",
+            "answer": 75
+        },
+        {
+            "question": "How many priorities of languages are listed for active languages in the \"EP-LINC-SUBV-2025-CONF-INT-03\" call?",
+            "answer": 5
+        },
+        {
+            "question": "For the \"EP-LINC-SUBV-2025-CONF-INT-03\" call, at least how many officials from different European Parliament services will be in the Evaluation Committee?",
+            "answer": 3
+        },
+        {
+            "question": "For \"EP-LINC-SUBV-2025-CONF-INT-03\" Topic 3 courses, what is the indicative budget in EUR?",
+            "answer": 150000
+        },
+        {
+            "question": "According to \"EP-LINC-SUBV-2025-CONF-INT-03\" call, what is the maximum financial support in EUR that third parties can receive, if financial support is NOT the primary aim of the action?",
+            "answer": 60000
+        },
+        {
+            "question": "Within how many days of the grant agreement's entry into force will a pre-financing payment (70%) be paid according to \"EP-LINC-SUBV-2025-CONF-INT-03\" call?",
+            "answer": 30
+        },
+        {
+            "question": "According to \"EP-LINC-SUBV-2025-CONF-INT-03\" what is the transfer budget limit between different budget categories?",
+            "answer": 10
+        },
+        {
+            "question": "Within how many days of the end of the action as specified in Article I.2 reports and statements must be submitted according to \"EP-LINC-SUBV-2025-CONF-INT-03\" call?",
+            "answer": 60
+        },
+        {
+            "question": "For successful projects under \"EP-LINC-SUBV-2025-CONF-INT-03\", what is the maximum percentage beneficiaries' indirect costs can be of the total direct costs eligible for flat-rate funding?",
+            "answer": 7
+        }
+    ]
+}

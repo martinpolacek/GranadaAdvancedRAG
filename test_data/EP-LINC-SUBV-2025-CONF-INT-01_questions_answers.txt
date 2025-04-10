@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the indicative budget in EUR for Topic 1 in call EP-LINC-SUBV-2025-CONF-INT-01?",
+            "answer": 434000
+        },
+        {
+            "question": "What is the maximum percentage of European Parliament co-financing for activities under call EP-LINC-SUBV-2025-CONF-INT-01?",
+            "answer": 75
+        },
+        {
+            "question": "According to call EP-LINC-SUBV-2025-CONF-INT-01, what is the maximum amount in EUR of financial support that a beneficiary can give to a third party?",
+            "answer": 60000
+        },
+        {
+            "question": "What is the indicative budget in EUR foreseen for the proposals submitted to topic EP-LINC-SUBV-2025-CONF-INT-02?",
+            "answer": 150000
+        },
+        {
+            "question": "What is the total indicative budget in EUR foreseen for the proposals submitted to topic EP-LINC-SUBV-2025-CONF-INT-03?",
+            "answer": 150000
+        },
+        {
+            "question": "According to call EP-LINC-SUBV-2025-CONF-INT-01, how many points is the 'Quality and efficiency of the project management' worth?",
+            "answer": 5
+        },
+        {
+            "question": "In call EP-LINC-SUBV-2025-CONF-INT-01, what is the percentage above which budget transfers between budget categories requires an amendment to the grant agreement?",
+            "answer": 10
+        },
+        {
+            "question": "What is the maximum percentage of flat-rate funding for indirect costs that are eligible under call EP-LINC-SUBV-2025-CONF-INT-01?",
+            "answer": 7
+        },
+        {
+            "question": "According to call EP-LINC-SUBV-2025-CONF-INT-01, what is the lowest percentage of maximum possible points a proposal should obtain to be accepted?",
+            "answer": 60
+        },
+        {
+            "question": "According to call EP-LINC-SUBV-2025-CONF-INT-01, what is the number of officials from different European Parliament services in Evaluation Committee?",
+            "answer": 3
+        }
+    ]
+}

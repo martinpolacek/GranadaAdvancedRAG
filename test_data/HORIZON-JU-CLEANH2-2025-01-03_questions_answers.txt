@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "In the HORIZON-JU-CLEANH2-2025-01-03 call, how many days-equivalents are used to calculate the daily rate?",
+            "answer": 215
+        },
+        {
+            "question": "According to the text, what is the date of Annotated Grant Agreement V2.0\u2013 in the HORIZON-JU-CLEANH2-2025-01-03 call?",
+            "answer": 1
+        },
+        {
+            "question": "According to Article 6.2.E of the HORIZON-JU-CLEANH2-2025-01-03 call, what is standard indirect costs as a flat rate? (number only with %)",
+            "answer": 7
+        },
+        {
+            "question": "According to article 21.3 of the HORIZON-JU-CLEANH2-2025-01-03 call, what is direct conversion option?",
+            "answer": 0
+        },
+        {
+            "question": "According to Article 21.4 of the HORIZON-JU-CLEANH2-2025-01-03 call, how many language regime options for RELEX are allowed?",
+            "answer": 1
+        },
+        {
+            "question": "According to Article 22 of the HORIZON-JU-CLEANH2-2025-01-03 call, what is the Financial Regulation number updated in General changes 2.0?",
+            "answer": 2024
+        },
+        {
+            "question": "According to the Data Sheet, what's the bookmark of the call  HORIZON-JU-CLEANH2-2025-01-03?",
+            "answer": 0
+        },
+        {
+            "question": "How many years of confidentiality after final payment in the call HORIZON-JU-CLEANH2-2025-01-03?",
+            "answer": 5
+        },
+        {
+            "question": "According to Article 6.2.A.1 of the HORIZON-JU-CLEANH2-2025-01-03 call, how many days of parental leave are for a person in this formula?",
+            "answer": 215
+        },
+        {
+            "question": "In the call HORIZON-JU-CLEANH2-2025-01-03, how many years of record-keeping for grants of not more than EUR 60 000?",
+            "answer": 3
+        }
+    ]
+}

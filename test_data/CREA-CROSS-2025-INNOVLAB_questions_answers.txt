@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the approximate budget in EUR for the call CREA-CROSS-2025-INNOVLAB?",
+            "answer": 5001863
+        },
+        {
+            "question": "What is the maximum financial support in EUR for each third party that is mentioned in the CREA-CROSS-2025-INNOVLAB call?",
+            "answer": 60000
+        },
+        {
+            "question": "What is the page limit for proposals in the CREA-CROSS-2025-INNOVLAB call?",
+            "answer": 70
+        },
+        {
+            "question": "What is the funding rate in percent (%) for the call CREA-CROSS-2025-INNOVLAB?",
+            "answer": 70
+        },
+        {
+            "question": "How many months should the calls in call CREA-CROSS-2025-INNOVLAB normally not exceed?",
+            "answer": 24
+        },
+        {
+            "question": "What is the minimum number of applicants that are needed when applying to CREA-CROSS-2025-INNOVLAB call (single beneficiaries)",
+            "answer": 1
+        },
+        {
+            "question": "What is the minimum number of applicants that are needed when applying to CREA-CROSS-2025-INNOVLAB call (multi-beneficiaries; not affiliated entities)",
+            "answer": 2
+        },
+        {
+            "question": "What flat rate in percent (%) of the eligible direct costs will be reimbursed as indirect costs in the call CREA-CROSS-2025-INNOVLAB?",
+            "answer": 7
+        },
+        {
+            "question": "How many months must open calls for financial support to third parties remain open as described in call CREA-CROSS-2025-INNOVLAB?",
+            "answer": 2
+        },
+        {
+            "question": "How many days do the beneficiaries have to submit observations if they disagree with a rejection during CREA-CROSS-2025-INNOVLAB call?",
+            "answer": 30
+        }
+    ]
+}

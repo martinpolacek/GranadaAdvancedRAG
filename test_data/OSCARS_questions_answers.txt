@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the provided text, what is the number of European entities collaborating in the OSCARS initiative?",
+            "answer": 15
+        },
+        {
+            "question": "According to the text, what is the minimum grant amount (in EUR) that the third parties should receive for their Project implementation in the OSCARS project?",
+            "answer": 100000
+        },
+        {
+            "question": "According to the text, what is the maximum grant amount (in EUR) that the third parties should receive for their Project implementation in the OSCARS project?",
+            "answer": 250000
+        },
+        {
+            "question": "What is the percentage of the final grant installment that will be paid to the Third Parties after deliverables are submitted and approved in the OSCARS project?",
+            "answer": 15
+        },
+        {
+            "question": "After what time period, according to the text, at the end of the project and the submission and approval of the final deliverables, will the remaining 15% be paid for the OSCARS project?",
+            "answer": 14
+        },
+        {
+            "question": "As per the text regarding the OSCARS Third-Party Project Agreement, for how many years should the Third-Party keeps the documentation for audit trail?",
+            "answer": 5
+        },
+        {
+            "question": "In the OSCARS project, what is the least number of months that the selection call should be open for applications from the financial support recipients?",
+            "answer": 1
+        },
+        {
+            "question": "After being notified with the disagreement of the termination, within what number of days should the Parties response according to the text, during the OSCARS project?",
+            "answer": 30
+        },
+        {
+            "question": "Based on the document, how many entities collaborated in the OSCARS intiative, that are listed with short name and Country?",
+            "answer": 15
+        },
+        {
+            "question": "What number of months should the beneficiaries present the Projects according the call according to the OSCARS project?",
+            "answer": 3
+        }
+    ]
+}

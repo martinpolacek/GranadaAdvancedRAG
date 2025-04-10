@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the voucher amount each selected applicant will receive in the COPILOT Open Call 3?",
+            "answer": 500
+        },
+        {
+            "question": "In COPILOT Open Call 3, what is the minimum distance in kilometers an applicant should be away from the event location to be eligible for a voucher?",
+            "answer": 300
+        },
+        {
+            "question": "In COPILOT Open Call 3, how many vouchers are reserved for applicants from Central & Eastern European countries?",
+            "answer": 15
+        },
+        {
+            "question": "According to the COPILOT Open Call 3, what is the highest score an applicant can receive regarding motivation?",
+            "answer": 5
+        },
+        {
+            "question": "According to the confidentiality rules, for how many years after the activities end must the parties keep confidential any data, documents or other material in COPILOT Open Call 3?",
+            "answer": 4
+        },
+        {
+            "question": "Applicants that received funding under the COPILOT OC1 and OC2, how many times can apply to OC3?",
+            "answer": 0
+        },
+        {
+            "question": "According to the COPILOT Open Call 3, how many applications per applicant can be submitted?",
+            "answer": 1
+        },
+        {
+            "question": "In the COPILOT Open Call 3 application evaluation process, what is the lowest score an applicant can receive regarding motivation?",
+            "answer": 1
+        },
+        {
+            "question": "How many open call did COPILOT Project have?",
+            "answer": 3
+        },
+        {
+            "question": "How many annexes have the sub-grant agreement template for the COPILOT Open Call 3?",
+            "answer": 6
+        }
+    ]
+}

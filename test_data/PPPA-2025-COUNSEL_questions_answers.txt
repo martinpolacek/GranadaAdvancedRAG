@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated available call budget for the project call PPPA-2025-COUNSEL?",
+            "answer": 1200000
+        },
+        {
+            "question": "In the project call PPPA-2025-COUNSEL, what is the minimum number of applicants (beneficiaries, not affiliated entities) required in a consortium?",
+            "answer": 3
+        },
+        {
+            "question": "In the project call PPPA-2025-COUNSEL, what is the minimum number of eligible countries from which the applicants have to be?",
+            "answer": 2
+        },
+        {
+            "question": "What is the funding rate (%) for eligible costs in the project call PPPA-2025-COUNSEL?",
+            "answer": 90
+        },
+        {
+            "question": "In the project call PPPA-2025-COUNSEL, what is the maximum number of projects expected to be funded?",
+            "answer": 1
+        },
+        {
+            "question": "What is the maximum project duration in months mentioned in the project call PPPA-2025-COUNSEL?",
+            "answer": 18
+        },
+        {
+            "question": "According to the project call PPPA-2025-COUNSEL, what is number of months that open calls have to be held open?",
+            "answer": 2
+        },
+        {
+            "question": "In the call PPPA-2025-COUNSEL, how many days after receiving notification must a party submit observations for payment review?",
+            "answer": 30
+        },
+        {
+            "question": "According to the project call PPPA-2025-COUNSEL, what's the number of years, for which benefits are expected to show good use of their results?",
+            "answer": 4
+        },
+        {
+            "question": "According to the text, what is the number of members a selection panel set up by the consortium in the project call PPPA-2025-COUNSEL must be composed by?",
+            "answer": 3
+        }
+    ]
+}

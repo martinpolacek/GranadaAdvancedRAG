@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "How many processors or groups of processors will UP-RISE Open call for fermented food processors select in total?",
+            "answer": 10
+        },
+        {
+            "question": "How many akpan processors in Benin will UP-RISE Open call for fermented food processors select?",
+            "answer": 2
+        },
+        {
+            "question": "How many coca baca processors in Ivory Coast will UP-RISE Open call for fermented food processors select?",
+            "answer": 2
+        },
+        {
+            "question": "How many maziwa mala processors in Kenya will UP-RISE Open call for fermented food processors select?",
+            "answer": 2
+        },
+        {
+            "question": "How many kunun-zaki processors in Nigeria will UP-RISE Open call for fermented food processors select?",
+            "answer": 2
+        },
+        {
+            "question": "How many umqombothi processors in South Africa will UP-RISE Open call for fermented food processors select?",
+            "answer": 2
+        },
+        {
+            "question": "What is the minimum number of installments payments will be made in, according to the UP-RISE Open call for fermented food processors?",
+            "answer": 2
+        },
+        {
+            "question": "According to the UP-RISE Open call for fermented food processors, how many African Union member states are the focus of the project?",
+            "answer": 5
+        },
+        {
+            "question": "According to the UP-RISE Open call for fermented food processors, what is the minimum percentage of female-owned businesses or businesses with daily operation conducted mostly by women that will be selected?",
+            "answer": 51
+        },
+        {
+            "question": "According to the UP-RISE Open call for fermented food processors, what is the maximum funding in EUR that each African university partner will be responsible for?",
+            "answer": 100000
+        }
+    ]
+}

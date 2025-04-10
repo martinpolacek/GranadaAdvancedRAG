@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "How many changes were made to the 'EUBA-EFSA-2025-PREV-02' Annotated Grant Agreement before version 2.0?",
+            "answer": 1
+        },
+        {
+            "question": "According to the text, what is the maximum number of annual day-equivalents that can be declared in EU grants for a person for a year under the 'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 215
+        },
+        {
+            "question": "In the 'EUBA-EFSA-2025-PREV-02' call, what is the maximum financial support to third parties (FSTP) amount for each recipient, if selected?",
+            "answer": 60000
+        },
+        {
+            "question": "According to the provided text, How many years after the final payment does the record-keeping have to be kept for grants of not more than EUR 60 000 in 'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 3
+        },
+        {
+            "question": "What is the maximum number of months after the Framework Partnership Agreement expires can the terms continue to apply to the implementation of the grant agreements in 'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 6
+        },
+        {
+            "question": "What is the overall envelope amount in EUR for implementation via grant agreements under the 'EUBA-EFSA-2025-PREV-02' FPA?",
+            "answer": 2500000
+        },
+        {
+            "question": "What is the required number of independent experts to assist in the assessment of proposals under Co-funded Partnership, single international peer review in the call  'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 3
+        },
+        {
+            "question": "What is the duration in months of the Framework Partnership Agreement 'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 48
+        },
+        {
+            "question": "According to the provided text, what number of key milestones does the 'EUBA-EFSA-2025-PREV-02' project have?",
+            "answer": 0
+        },
+        {
+            "question": "What number of minimum independent experts is required to form a selection panel under virtual access conditions in project 'EUBA-EFSA-2025-PREV-02'?",
+            "answer": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the document, how much clean hydrogen production capacity via water electrolysis was in operation in Europe in June 2024, in metric tons?",
+            "answer": 50
+        },
+        {
+            "question": "According to the text, what is the natural gas price used in the call  HORIZON-JU-CLEANH2-2025-01-06 for sensitivity analysis (EUR/MWh) scenario?",
+            "answer": 20
+        },
+        {
+            "question": "What is the target global clean hydrogen production capacity estimated by BNEF for 2040 according to the document linked to call HORIZON-JU-CLEANH2-2025-01-06, in metric tons?",
+            "answer": 34
+        },
+        {
+            "question": "In the base case scenario for low-temperature electrolysis under call HORIZON-JU-CLEANH2-2025-01-06, how many hours per year is electricity sourced from a renewable PPA?",
+            "answer": 3850
+        },
+        {
+            "question": "The report mentions replacing coke in steelmaking. According to this report, call HORIZON-JU-CLEANH2-2025-01-06 states approximately how many kg of CO2 would each kg of hydrogen displace?",
+            "answer": 26
+        },
+        {
+            "question": "According to call HORIZON-JU-CLEANH2-2025-01-06, what is the assumed CO2 transportation and storage cost in EUR per ton?",
+            "answer": 100
+        },
+        {
+            "question": "According to the information in the text, in the call HORIZON-JU-CLEANH2-2025-01-06, by what percentage can the final LCOH of methane splitting be reduced by solid carbon by-product revenues?",
+            "answer": 34
+        },
+        {
+            "question": "According to the text, how many Mt/year of clean hydrogen are global projects announced by 2030 and deployment by 2030 related with Reforming with carbon capture, announced to call HORIZON-JU-CLEANH2-2025-01-06?",
+            "answer": 14
+        },
+        {
+            "question": "In the context of water electrolysis, water electrolysis for call HORIZON-JU-CLEANH2-2025-01-06 are mature technologies rated at TRL9 having achievedcommercialoperation in awhat percentage according to the IEA?",
+            "answer": 9
+        },
+        {
+            "question": "According to call HORIZON-JU-CLEANH2-2025-01-06 document, approximately how many km of transmission pipelines for gas are in Europe?",
+            "answer": 200000
+        }
+    ]
+}

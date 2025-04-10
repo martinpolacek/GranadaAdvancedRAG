@@ -1,0 +1,3222 @@
+Joint Transnational Call for Investigator-Initiated Clinical Studies
+(JTC IICS) – 2025
+“Fostering Pragmatic Comparative-Effectiveness Trials in Non-communicable
+Diseases” (EffecTrial)
+Call Text
+DEADLINES
+January 28th, 2025 (16:00 CET) - SUBMISSION OF PRE-PROPOSALS
+June 17th, 2025 (16:00 CEST) - SUBMISSION OF INVITED FULL PROPOSALS
+Link to the electronic proposal submission:
+https://ptoutline.eu/app/EffecTrial
+The submission system will be open by November 28th, 2024
+For further information, please visit us on the website: https://era4health.eu/
+or contact the Joint Call Secretariat (JCS):
+Institute of Health Carlos III (ISCIII)
+Astrid Valencia Quiñónez / Sara García-Rodríguez
++34 918 222 227 / +34 918 222 868
+EffecTrial@isciii.es
+1History of modifications :
+27/11/2024 :
+- Updated information for HRB’s eligibility criteria regarding the Maximum/ Minimum
+funding per grant awarded to a clinical study partner.
+- Updated information for FR-MOH’s eligibility criteria (Annex I).
+- Inclusion of the link to the electronic proposal submission (PT-Outline).
+- Removal of the mention «Pending for official confirmation» for NCBR Funding
+Organisation.
+03/12/2024:
+- Removal of the mention «Pending for official confirmation» for IT-MOH Funding
+Organisation.
+11/12/2024:
+- Updated information for FR-MOH’s eligibility criteria (Annex I).
+2Content
+Definitions ................................................................................................................................ 5
+Aim and ambition of ERA4Health ............................................................................................. 7
+Rationale .................................................................................................................................. 7
+Aim of the call........................................................................................................................... 8
+Expected Impact ..................................................................................................................... 11
+General conditions for application ......................................................................................... 11
+Participating countries and respective funding organisations ............................................... 12
+Application ............................................................................................................................. 13
+ELIGIBILITY CRITERIA .......................................................................................................... 13
+Size of the consortium ................................................................................................................ 13
+Financial and legal modalities ..................................................................................................... 15
+Submission of joint proposals ............................................................................................ 15
+Further information ........................................................................................................... 17
+Evaluation and decision .......................................................................................................... 17
+Eligibility check and evaluation procedure ........................................................................ 17
+Formal check and evaluation of pre-proposal ............................................................................ 17
+Formal check and evaluation of full proposals ........................................................................... 17
+Evaluation Criteria.............................................................................................................. 18
+Proposals not relevant to the call topic and objectives (out of the scope) will be declared
+ineligible and will not be funded and forwarded to full proposal stage independently of their
+scientific quality. ......................................................................................................................... 18
+Pre-proposal ............................................................................................................................... 18
+Full proposal ............................................................................................................................... 19
+Scoring system ................................................................................................................... 21
+Rebuttal stage .................................................................................................................... 21
+Interview of the sponsor .................................................................................................... 21
+PRP meeting ....................................................................................................................... 22
+Ethical clearance ................................................................................................................ 22
+Clinical study selection and reconfiguration process ........................................................ 22
+Redress procedure ................................................................................................................. 23
+Procedure ........................................................................................................................... 24
+Responsibilities, Reporting requirements and Dissemination ................................................ 24
+Consortium Agreement ..................................................................................................... 24
+Open Science ...................................................................................................................... 25
+Monitoring ......................................................................................................................... 25
+3Communication .................................................................................................................. 26
+Confidentiality ........................................................................................................................ 27
+General Data Protection Regulation ....................................................................................... 27
+4Definitions
+Types of clinical studies:
+Clinical study refers to any systematic prospective or retrospective collection and analysis of health
+data obtained from individual patients or healthy persons to address scientific questions related to
+the understanding, prevention, diagnosis, monitoring or treatment of a disease, mental illness, or
+physical condition. It may include investigation on medicinal products, clinical investigation and
+clinical evaluation on medical devices, performance studies and performance evaluation on in vitro
+diagnostic medical devices (Source: Information on clinical studies (HE): V4.1 –13.05.2022).
+Clinical trial is any research study that prospectively assigns human participants or groups of humans
+to one or more health-related interventions to evaluate the effects on health outcomes.
+Interventions include but are not restricted to drugs, cells and other biological products, surgical
+procedures, radiologic procedures, devices, behavioral treatments, process-of-care changes,
+preventive care, etc. Clinical trials may also be referred to as interventional trials.
+Comparative effectiveness research is defined as the generation and synthesis of high-quality
+evidence that compares the benefits and harms of alternative methods to prevent, diagnose, treat
+and monitor a clinical condition or to improve the delivery of care. These include comparisons of
+interventions, such as approved therapies, different surgical protocols or lifestyle changes and
+comparisons between these different interventions. Those studies are patient-centered and
+outcome-based trials will compare benefits and risks of therapeutic interventions to inform clinical
+and/or policy decision making.
+Implementation clinical studies are scientific studies of methods to promote the uptake of research
+findings into routine healthcare.
+Interventional clinical studies, also called experimental studies, are those where the researcher
+intervenes at some point throughout the study. These evaluate the effects of the interventions on
+biomedical or health-related outcomes, and include early phase (up to phase II), phase II-phase III,
+and phase IV. The most common and strongest interventional study design is a randomized
+controlled trial.
+Investigator-Initiated Clinical Study (IICS), is a clinical study conceived, initiated, conducted and
+sponsored under the full responsibility of a non-industrial body as sponsor, such as an individual
+investigator, research performing institution, university, collaborative group, cooperative group or
+association.
+Low intervention clinical trial means a clinical trial on medicinal product (or other types of medical
+interventions) which fulfils all of the following conditions: (a) the investigational medicinal products,
+excluding placebos, are authorised; (b) according to the protocol of the clinical trial, (i)the
+investigational medicinal products are used in accordance with the terms of the marketing
+authorisation; or (ii) the use of the investigational medicinal products or medical interventions are
+evidence-based and supported by published scientific evidence on the safety and efficacy of those
+investigational medicinal products in any of the Member States concerned; and (c) the additional
+diagnostic or monitoring procedures do not pose more than minimal additional risk or burden to the
+safety of the subjects compared to normal clinical practice in any Member State concerned (Source:
+Clinical Trial Regulation, EU 536/2014 )
+5Non-interventional study/observational clinical study is a type of study in which individuals are
+observed, or certain outcomes are measured. No attempt is made to affect the outcome (for
+example, no treatment is given) (US National Institutes of Health -NIH- definition). Observational
+studies include case reports and case series, ecological studies, cross-sectional studies, case-control
+studies and cohort studies.
+Pilot studies are small-scale studies conducted in preparation for a larger investigation.
+Pragmatic trials are designed to evaluate the effectiveness of interventions in real-life routine
+practice conditions. Clinical trials that are considered “pragmatic” are designed to study a health
+intervention in a real-world setting that is similar or identical to the one in which the intervention
+will be implemented.
+Randomised Controlled Trial: The most common and strongest interventional study design is a
+randomized controlled trial. In a clinical trial, participants receive specific interventions according to
+the research plan or protocol created by the investigators. These interventions may be medical
+products, such as drugs or devices; cell or other biological products; procedures; preventive care; or
+changes to participants' behavior, such as diet. Clinical trials may compare a new medical approach
+to a standard one that is already available, to a placebo that contains no active ingredients, or to no
+intervention.
+Roles in the consortium and other definitions:
+Associated partner is a recruitment site who has a collaboration agreement or a subcontract with
+one of the partners of the IICS consortium.
+Coordinating investigator: the person who takes primary responsibility for the design conduct and
+reporting of the study who will be responsible for the overall project coordination.
+Cross-cutting activities: activities that have to be managed transnationally because they go beyond
+the national boundaries, such as financing of intervention/study drug, trial authorization, data
+collection and management, statistical analysis, safety, study design and protocol development and
+the overall management activities.
+Principal Investigator (PI): each partner organisation is represented by a Principal Investigator who
+is responsible leader of a team of investigators who conduct a clinical study at a clinical trial site.
+Recruitment/recruiting site – facility where potential participants/patients are identified for and
+enrolled in clinical trials.
+Responsible Research and Innovation (RRI) - is the process of engaging with the social, political,
+environmental or ethical complexities of research and innovation. Further information can be found
+in ERA4Health's Guidelines for RRI.
+Service provider: an external entity responsible of cross-cutting activities who will provide all
+recruitment sites with specific expertise in these activities.
+Sponsor: Sponsor will mean the non-for-profit institution or organisation which takes responsibility
+for the initiation, the management and setting up the financing of the clinical trial. For IICS, usually
+the sponsor is the institution that host the coordinating investigator.
+6Aim and ambition of ERA4Health
+The Partnership “Fostering a European Research Area for Health” (ERA4Health) aims at establishing
+a flexible and effective coordination between funding organisations in the European Research Area
+(ERA) for Health and Well-being. This Partnership brings the opportunity to increase European
+transnational collaborative research funding by creating a funding body for joint programming in
+priority areas addressing European Public Health needs.
+The general objective of ERA4Health is to reach an effective joint approach and generate knowledge
+and products (e.g. preventive guidelines, medical protocols) in the identified research areas as
+outlined in ERA4Health Strategic Research and Innovation Agenda (SRIA)1. To achieve this, a
+comprehensive network will be created which aims at strengthening and expanding the existing
+conducive eco-system.
+In this light, ERA4Health gathers public funders of health research in the European Research Area
+including the European Commission that jointly identify and implement a common funding strategy
+in priority areas to advance health research and develop innovation.
+ERA4Health has 4 specific objectives:
+• SO1. Support relevant medical research including clinical fields and intervention areas
+(prevention, diagnosis, treatment),
+• SO2. Improve the utilisation of existing health technologies in clinical practice,
+• SO3. Build capacity, in particular in conducting IICS at European scale,
+• SO4. Implement and advance the practice of Responsible Research and Innovation (RRI)
+across the breadth of the programme.
+Rationale
+Investigator-Initiated Clinical Studies (IICS), also referred to as non-commercial, academic or
+independent clinical studies, are studies initiated by investigators that address important research
+questions that would not normally offer a strong commercial interest to private industry. They are
+usually driven by scientific opportunities and pressing public health needs with high societal value.
+IICS are led by investigators, who conceive the research, develop the protocol and are usually
+supported by public funding.
+Whereas they represent almost half of clinical research activities in Europe, IICS are mostly conducted
+in a single country. Therefore, there is a specific need for supporting these multi-country IICS, given
+the added value that they can provide compared to single country ones.
+Taking advantage of Europe’s half-billion population size, its medical expertise, high quality
+healthcare systems, harmonised regulatory framework and scientific potential, enhanced
+multinational cooperation in clinical studies would boost clinical research in Europe. Additionally,
+1https://era4health.eu/wp-content/uploads/2022/11/ec_rtd_he-partnerships-era-for-health-1.pdf
+7European studies allow rapid patient recruitment and spread best practices, thus enhancing Europe
+competitiveness and healthcare equity for the benefit of patients and of healthcare systems.
+Such IICS require appropriate public or charity funding, and a multinational trial management
+capacity as the European legislation requires a sponsor for multi-country trials in Europe. For IICS,
+academic institutions (usually the Institution of the principal investigator) act as the sponsor
+(academic-sponsored trials).
+Comparative-effectiveness studies are a particularly important type of IICS.
+In clinical practice, many treatments have not been thoroughly evaluated, making it unclear whether
+a patient with a particular condition would benefit from a particular treatment or whether another
+treatment would be more effective. In comparative-effectiveness studies, the benefits and side-
+effects of different methods to prevent, diagnose, treat and/or monitor a clinical condition are
+compared.
+A key outcome of these studies is to provide stakeholders (patients, caregivers, providers, payers,
+policy makers) with useful knowledge to make an informed decision between two or more diagnostic
+tests, treatments, treatment combinations, interventions, care delivery systems or policies.
+In addition, comparative effectiveness studies can be conducted in a very pragmatic way. Pragmatic
+clinical studies enable investigation of whether a treatment works in the clinical setting, preferably
+on all types of relevant patients. In a pragmatic clinical study, only the necessary data will be
+collected, resulting in lower cost even with a high number of patients.
+Comparative effectiveness studies are low intervention studies as they will compare approved
+interventions that are already being used in everyday clinical practice and in accordance with the
+marketing authorization. These studies should pose no more than a minimal additional safety risk or
+burden to participants compared to usual clinical practice.
+Aim of the call
+The aims of the call are:
+- to support randomised, interventional and pragmatic comparative-effectiveness multi-
+country Investigator-Initiated Clinical Studies (IICS).
+- to encourage and enable transnational collaboration between clinical/public health
+research teams (from hospital/ public health, healthcare settings and other healthcare
+organisations) that conduct comparative-effectiveness multi-country IICS.
+Proposals should address all the 4 following points :
+1) Be a pragmatic comparative effectiveness trial, designed as randomised interventional
+trial.
+2) Compare the use of currently approved healthcare interventions either to each other or to
+the current standard of care.
+83) They shall consider healthcare interventions which could include but would not be limited
+to: diagnostic, screening, prevention and treatment interventions. The interventions can be
+pharmacological as well as non-pharmacological procedures like nutrition and/or lifestyle
+interventions, surgery, prognosis methods, use of medical devices, eHealth and digital
+interventions and other health interventions. 2
+4) These interventions shall have high public relevance only in the fields of these specific
+diseases or conditions (that are of equal importance):
+o Cardiovascular diseases
+o Metabolic disorders
+o Nutrition and lifestyle-related diseases
+o Non-communicable respiratory diseases
+The focus of the multi-country Investigator-Initiated Clinical Studies should primarily address at least
+one of the abovementioned principal diseases/conditions, although the proposals can also address
+several of the mentioned diseases/conditions and/or other related comorbidities.
+Beyond the research topics, the following requirements and recommendations should be considered,
+including approaches to Responsible Research and Innovation (RRI) (see RRI guidelines provided in
+the Guidelines for applicants document).
+Requirements:
+• Proposals must clearly demonstrate the potential health and/or economic impact(s) as well
+as the added value of transnational clinical collaboration.
+• Proposals must include an early involvement of ‘end users’ (e.g. patients, care providers,
+healthcare professionals, etc.) in the design of the study (integrating patient valued
+outcomes) and in the research process. This is to ensure acceptability of the healthcare
+intervention and utility of the studies’ knowledge for healthcare decision making. Patient
+organisations or other end-users can participate as partners (if eligible for funding by a
+national/regional funding organisation), as collaborators (participation with own budget) or
+as part of an advisory board.
+• Special consideration must be given to fulfilling all ethical requirements (See ethical
+requirements and clearance section in the call documents, including reference to Reference
+to EU Regulation 2021/695 and ethical self-assessment).
+• The consortia shall ensure the management of research data according to FAIR data
+principles (Findability, Accessibility, Interoperability and Reuse) and in compliance with the
+General Data Protection Regulation (GDPR).
+• The proposed research shall consider sex and gender aspects, whenever applicable.
+• Partners in the consortia, especially the coordinating PI, should have a proven track record
+in delivery of clinical trials to ensure the feasibility of the clinical trial.
+2 Please note that proposals that include a partner applying for funding from BMBF/DLR (Germany) are only eligible if the
+comparison includes the use of at least one nutritional and/or lifestyle intervention. The comparison of e.g. two
+pharmacological interventions would not be eligible in this case and would lead to an immediate exclusion of this proposal
+without further review. Please note that dietary supplements in pharmacological doses are not considered a
+nutritional intervention.
+9• The consortia should consider the gender balance in their composition and to balance the
+responsibilities between them.
+• Additionally, proposals should take into account the diversity of health systems in different
+regions of Europe to allow large-scale uptake.
+• The consortia are requested to ensure inclusiveness aspects in patient recruitment
+(minorities, ethnical aspects…), to include underrepresented and vulnerable populations
+that could be specifically relevant in a certain medical area and consider issues of particular
+relevance for the target population, for example, gender specificities, age, multimorbidity,
+complex chronic conditions, polypharmacy, substance misuse, vaccine efficacy, compliance,
+and diseases with high societal burden.
+• For the chosen population, clinical and safety parameters, as well as health and socio-
+economic outcomes (e.g. quality of life, patient mortality, (co)morbidity, costs, and
+performance of the health system) should be assessed. Consider using new instruments and
+methods for determining the burden of disease and for evaluating the effects of the
+interventions. Low-cost innovations should also be considered.
+Recommendations:
+• Additionally, proposals are encouraged to show how the outcomes of the trial could
+generate further impact in the future (e.g. through a socioeconomic evaluation and to
+demonstrate how the evidence shown by the comparative-effectiveness clinical trial could
+be very valuable for future Health Technology Assessments (HTA).
+• The consortia are encouraged to take into consideration existing multinational networks,
+platforms or existing cohorts in the respective medical field that they have access to ensure
+the feasibility of the trial.
+• Applicants could make use of existing biobanks, existing cohorts, information from previous
+observational studies, systematic reviews, and/or metadata repositories, although their
+clinical studies should not be based only on this type of approaches.
+Out of scope:
+• Studies in other medical areas different from the ones mentioned above (cardiovascular
+diseases, metabolic disorders, nutrition and lifestyle-related diseases and non-
+communicable respiratory diseases).
+• Particularly, those clinical trials that are focused on rare diseases, cancer and/or infectious
+diseases are out of the scope of this call, even if these diseases are studied with one of the
+eligible diseases/conditions
+• Proposals focused on observational studies, cohort studies, translational/clinical approval
+studies, creation of large databases, systematic reviews and meta-analysis.
+• Basic biomedical research
+• Development of a new healthcare intervention
+• Phase I and phase II studies
+• Placebo randomized controlled trials
+10Expected Impact
+Pragmatic practice-oriented comparative-effectiveness publicly funded clinical studies can provide
+answers to highly relevant health research questions, both in terms of clinical effectiveness and cost-
+effectiveness of interventions, which are less likely to be answered by trials funded by the
+pharmaceutical and other health industry. In case of comparison with the current standard of care,
+the impact on the public policies and the healthcare systems will be enhanced.
+These types of pragmatic trials are a key element for Health Technology Assessments (HTA) and to
+assist decision-makers from health ministries and other public institutions, to promote value-based
+health care, evidence-based health policies and prioritize health interventions that have a substantial
+public health impact.
+Through the early involvement of patients or patient representatives in the clinical studies the
+patient’s need in those medical areas will be adequately addressed and will assure better
+acceptability and adherence to the healthcare interventions. This will further contribute to patient-
+centred decision-making process and to enhance the societal impact and transfer of clinical research.
+Overall, the patients’ quality of life will be improved.
+General conditions for application
+The initial duration of the clinical studies will be 48 months.
+Any IICS must clearly demonstrate the potential health, economic, and/or policy impacts, as well
+as the added value of transnational collaboration.
+Proposals should follow the principles of Responsible Research and Innovation (RRI). Consortia
+must show how they will engage with and address the relevant social, political, equity, environmental
+or cultural dimensions of the proposed research. The proposal template and ERA4Health RRI
+Guidelines further elaborate on how RRI dimensions can be approached (see our recommendation
+in the guidelines for applicants).
+IICS supported by ERA4Health must respect fundamental ethical principles. Applicants must fill an
+ethical grid and describe any potential ethical aspects of the work to be carried out, and how the
+clinical study will fulfil applicable requirements in institutional, national and European Union
+legislation (including the ethical standards and guidelines of Horizon 2020/Europe 3).
+The individual partners of the joint applications should be complementary in their expertise and the
+proposed work should pursue a high implementation potential to benefit of end-
+users/patients/citizens.
+Furthermore, additional aspects need to be considered in the application:
+3 https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-
+your-ethics-self-assessment_en.pdf
+11• The design of the clinical study (sample collection, statistical power, interpretation,
+relevant models for hypothesis validation) must be well justified and should be part of
+the proposal.
+• Strategies for recruitment, retention, assessment, and analysis must be included. The
+clinical study design and objectives should take into consideration the population that
+would be needed to reach the objective of the study.
+• Gender equality as well as inclusiveness of the diversity of the population in the
+recruitment.
+• Involvement of patient/patients' representatives and other relevant users in the co-
+creation and implementation of the tasks
+Please take in note that clinical studies conducted for direct commercial purposes are excluded from
+support by the ERA4Health programme.
+Participating countries and respective funding organisations
+The following participating funding organisations have agreed to fund this call for transnational
+clinical studies:
+Country Funding organisation Acronym Contribution (€)
+Austria Austrian Science Fund FWF 2.000.000
+Czech Ministry of Health / Czech Health Research MZCR /AZVCR 500.000
+Republic Council
+France Ministry of Health Fr-MoH 2.000.000
+Germany Federal Ministry for Education and Research BMBF/DLR 2.000.000
+(BMBF)/DLR Project Management Agency
+(DLR)
+Ireland Health Research Board HRB 1.200.000
+Israel Ministry of Health CSO-MOH 320.000
+Italy Ministry of Health IT MOH 2.000.000
+Latvia Latvian Council of Science LCS 800.000
+Lithuania Research Council of Lithuania LMT 1.000.000
+Norway Research Council of Norway RCN 900.000
+Poland National Centre for Research and NCBR 2.500.000
+Development
+Slovakia Slovak Academy of Sciences SAS 240.000
+12Spain Institute of Health Carlos III ISCIII 3.000.000
+Spain Regional Ministry of Health and Consumer CSCJA 4 250.000
+Affairs of Andalusia 4
+Table 1: Participating funding organisations
+The partners will be funded by their relevant national/regional funding organisations. Eligible costs
+and funding rules vary between the respective funding organisations (see Annex I).
+Application
+ELIGIBILITY CRITERIA
+Applicants must demonstrate that the research team contains the necessary breadth and depth of
+expertise in all the methodological areas required to deliver the proposed study.
+PIs should demonstrate experience and expertise in the conduct and delivery of clinical trials.
+Size of the consortium
+The number of participants and their research contribution should be appropriate for the aims of IICS
+and be reasonably balanced in terms of international participation. Each IICS should represent the
+critical mass to achieve ambitious scientific goals and should clearly demonstrate an added value
+from working together.
+Only transnational studies will be funded. The following conditions apply to the composition of
+consortia:
+A. A minimum of 3 (three) and a maximum of 5 (five) countries should be represented in the
+consortium (the countries of the collaborators (see below) are not considered in this number)
+B. If a partner is eligible by a funding organisation, which will grant a single partner (see Annex I
+and table in the funding mechanism section from the guidelines for applicants), only one
+national partner should be a part of the consortium. This partner will have the opportunity to
+establish a collaboration agreement with other additional national recruiting sites and
+allocate a budget to the recruitment sites. Those recruitment sites will be associated partners
+to the consortium. If actual patient recruitment is lower than expected during the runtime of
+the clinical study, initial recruiting sites may be substituted by additional ones, if it is possible
+under the national/regional regulations of the respective national funding agency for that
+specific partner.
+4 During the lifetime of this call, funding authority CSCJA could be replaced (Partial Takeover) by the new entity
+Instituto de Salud de Andalucía / Andalusian Health Institute (created by Law 1/2024 of June 21) which, in such
+case, would assume CSCJA’s rights and obligations by means of the corresponding amendment to the Grant
+Agreement 101095426.
+13C. If there are partners eligible by a funding organisation, which will fund several partners for
+this country/region in the consortium, the consortium can be composed with a maximum of
+3 (three) partners eligible by this funding organisation. In this case, there will be no
+collaboration agreement between those partners, and they will all be granted individually by
+the funding organisation and have their own budget. These 3 partners will be counted as 1
+(one) country for the maximum number of countries represented in the consortia.
+D. The maximum number of countries can be increased to 6 (six) or 7 (seven) if they include 1
+(one) or 2 (two) countries, respectively, from the following list: Czech Republic, Latvia.
+E. The maximum number of funding organisations from the same country represented in each
+research consortium will be 2 (two). If in the same consortium are participating eligible
+applicants applying funding each of them to a different funding organisation from the same
+country, they should respect the maximum number of partners, stated in bullet point B and C
+according to the financial mode of those 2 (two) funding organisations. Please see national
+guidelines for details.
+F. A maximum of 3 (three) collaborators per consortium is allowed. Collaborators are self-
+funded partners: i.e., partners that do not request funds from any of the participating funding
+organisations (i.e., partners from non-funding countries or partners which are not fundable
+according to national/regional regulations of the participating funding organisations). The
+following conditions apply for collaborators:
+o Clear added value for the IICS. This should be demonstrated in the proposal.
+o Secure their own funding for participation with clear evidence in the proposal that
+this is already in place.
+o A letter of commitment of the collaborator(s) needs to be included as an annex to
+the pre-proposal / full proposal.
+o A collaborator cannot be work package leader.
+o A collaborator cannot be a recruitment site for the study.
+Number of countries
+3-5 6 7
+in the consortium
+Number of
+underrepresented
+No constraints At least 1 At least 2
+countries in the
+consortium
+Maximum number
+of collaborators (be
+aware it corresponds 3 3 3
+to organisations not
+countries)
+Table 3: Possible composition of consortium
+Each study consortium must nominate a clinical study coordinator among its partners (NOT a
+collaborator). The clinical study coordinator cannot be an enterprise. The representative of the
+clinical study coordinator, the coordinating investigator, will represent the consortium externally,
+14will act as contact person for the Joint Call Secretariat (JCS) and will be responsible during the entire
+process for the internal scientific management such as controlling, overseeing intellectual property
+rights (IPR) issues, overseeing the work of a service provider responsible for the transversal activities
+of the study (i.e. clinical study management activities at consortium level) as well as reporting to the
+JCS.
+Each Principal Investigator can submit only 1 (one) pre-proposal as coordinator or as simple partner
+(i.e. the coordinator or the partner of a proposal cannot be partner in another proposal).
+Financial and legal modalities
+Clinical study partners will be funded by their relevant national/regional funding organisations.
+Therefore, eligible costs, funding rules and other specific aspects allowed may vary between the
+respective funding organisations (see Annex I). Due to these differences, it is recommended that each
+clinical study partner defines its own budget in accordance with the funding rules of its own
+country/region.
+For information on the specific funding rules and eligibility criteria of the national/regional funding
+organization, please carefully read Annex I and the national/regional announcements of the call and
+the guidelines for applicants.
+Applicants are consequently strongly encouraged to contact their national/regional contact points
+to check their national/regional eligibility rules before submission (see Annex I). Please note in
+some countries/regions this may be mandatory.
+In addition, and with the respect of specific conditions detailed in the guidelines for applicants, an
+additional budget representing up to 15% of the total budget requested to the national/regional
+funders could be requested for covering the conduction of cross-cutting management activities (i.e.
+clinical study management activities at consortium level) such as trial authorizations, drug, safety and
+data management under the responsibility of the coordinating investigator and his/her legal entity.
+See section "Funding Mechanism” in the guidelines for applicants for more details.
+Please note that if a partner is found to be non-eligible at any step of the process by one of the
+funding organisations, the entire proposal could be rejected without further review. Therefore,
+please make sure to carefully read and follow the respective national/regional regulations in Annex
+I.
+Submission of joint proposals
+There will be a two-step submission and evaluation procedure for joint applications, i.e. pre-
+proposals, with invitation of successful consortia to submit a full proposal. In addition, the full
+proposal review process will be complemented by a rebuttal phase and an interview jointly with the
+coordinating investigator and a representative of the sponsor. The representative from the sponsor
+that will be interviewed shall be identified by the consortia in the full proposal. This representative
+shall be aware of the responsibilities of the sponsor in clinical trials and how the sponsor guarantees
+the compliance with Good Clinical Practice and applicable regulation, as well as able to provide
+information regarding the previous experience of the institution as sponsor.
+15For both submission steps, one joint proposal document (in English) shall be prepared by the partners
+of a transnational consortium following a pre-defined template and must be submitted to the JCS by
+uploading it on the electronic submission system by the coordinating investigator.
+The two-step application process will have the following timeline:
+20 November, 2024 Publication of EffectTrial call
+27 November, 2024 Webinar Info Day
+28 January, 2025 Deadline for pre-proposal submission
+15 April, 2025 Communication of the results of the pre-proposal
+assessment (invitation for full proposal)
+17 June, 2025 Deadline for full proposal submission
+25 August – 5 September, 2025 Rebuttal stage
+25 August – 5 September, 2025 Interview to assess the study feasibility
+End of October, 2025 Communication of the funding decisions to the applicants
+January – May 2026 Expected project start (subject to national procedures)
+Table 1: Timeline application process
+The pre-proposal template is available on the ERA4Health website (https://era4health.eu/pre-
+announcement-of-effectrial-call/).
+An application template for the full proposal stage will be sent to the coordinating investigator by
+the JCS with the invitation to submit a full proposal.
+The pre-proposals or full proposals submitted without using the relevant template will be declared
+non-eligible. In addition, the limit of the length of the different sections of the template should be
+strictly respected.
+For applicants from specific countries/regions it might be mandatory to submit an additional
+national/regional proposal and/or other information, in some cases before the deadline of this call,
+directly to the national/regional funding organisations. Therefore, applicants are strongly advised to
+check their funding organisations specific regulations. See Annex I for more details.
+For the submission of full proposals, the widening concept will be applied. It will therefore be
+possible, but not mandatory, to add partners that are eligible for funding by certain funding
+organisations (with low number of eligible applicants at the first step). The inclusion of new partner(s)
+should be relevant for your proposal, and the new partner(s) should be well integrated in your
+consortium. The list of the participating funding organisations/countries will be provided by the JCS
+when the results of the first step will be communicated to the coordinators. The maximum of 7
+countries within the consortium should still be respected. Finally, it is mandatory for the new
+partner(s) to contact her/his national funding organizations and obtain approval before the
+submission of the full proposal (see contact details in Annex I of the call text).
+16Further information
+For additional information, please contact the JCS, or your national/regional funding organisation
+Contact Person (see Annex I).
+Evaluation and decision
+Eligibility check and evaluation procedure
+Formal check and evaluation of pre-proposal
+After submission, the JCS will check all pre-proposals to ensure that they meet the call’s formal
+criteria (date of submission; number of participating countries; inclusion of all necessary information
+in English; appropriate limits on length). In parallel, the JCS will give access to the pre-proposals to
+the national/regional funding organisations, which will perform a check for compliance with
+national/regional regulations.
+The pre-proposal of each consortium passing the eligibility check (JCS and country/region) will be
+evaluated by external reviewers. Evaluation of a pre-proposal will be made by three reviewers with
+a scientific/clinical background. Potential conflicts of interests of the evaluators will be taken into
+consideration during the allocation of the proposals. The reviewers will perform the assessment of
+the pre-proposals and complete a written evaluation form with scores and comments for the
+evaluation criteria that they should evaluate. The evaluation will include an eligibility check that the
+proposal is included in the call scope (e.g. disease area, type of trial, etc). Based on the scores in the
+written evaluations, a ranking list will be established. The Clinical Study Steering Committee (CLSC)
+members will meet to decide which proposals will be invited to submit a full proposal based on the
+reviewers’ recommendations and to ensure a reasonable balance of requested and available
+national/regional budgets. Pre-proposals which do not pass this assessment will not be invited for
+the full proposal stage. All consortia will receive the full evaluation reports, excluding the evaluation
+scores.
+Formal check and evaluation of full proposals
+After submission, the JCS will check the full proposals to ensure that they meet the call’s formal
+criteria and have not changed substantially from the respective pre-proposals before sending them
+to the reviewers. Any fundamental change between the two-stage evaluation, e.g. concerning the
+composition of the consortium, the objectives of the study or the requested budget must be
+communicated to the JCS and to the national/regional involved funding organisations. In exceptional
+cases, these changes may be approved if detailed justification is provided and if they are accepted by
+the CLSC.
+17Each full proposal will be allocated to three reviewers with a scientific/clinical background and taking
+into consideration the potential conflicts of interest between the reviewers and the applicants. One
+of these three reviewers will have specific expertise in clinical trial methodology and biostatistics.
+The reviewers will perform the assessment of the full proposal and complete a written evaluation
+form with scores and comments for each criterion (see evaluation criteria below).
+Additionally, a Patient Advocacy Committee will assess the patient involvement and relevance for
+patient needs in the full proposals and will complete a written review.
+Each coordinator is provided with the opportunity of getting acquainted with the assessments and
+commenting on the arguments and evaluations of the reviewers (see section “Rebuttal”) before the
+Peer Review Panel (PRP) members meet to discuss each full proposal in a PRP meeting.
+In addition, an online interview of the coordinator and the person responsible for the
+implementation of clinical studies in the sponsor organisation, according to the organisation's legal
+structure and identified by the consortia in the full proposal, will take place. This interview will
+evaluate the capacity of the sponsor and the coordinator to implement the clinical study. Apart from
+the coordinator and the representative of the sponsor, a maximum of two other additional
+representatives of the research consortium can attend this online interview, in case that their specific
+expertise is needed to demonstrate the capacity to implement the clinical study (e.g. biostatistician
+of the research consortium).
+During the PRP meeting, the reviewers will discuss all proposals and produce a ranking list of
+proposals recommended for funding. Two representatives of the Patient Advocacy Committee will
+be invited to take part in the discussion and present their assessment of the patient involvement of
+each proposal during the PRP meeting. They will have voting rights similar to the scientific evaluators
+attending the PRP, in case that a voting procedure is needed to take the final decision.
+Evaluation Criteria
+Proposals not relevant to the call topic and objectives (out of the scope) will be declared ineligible
+and will not be funded and forwarded to full proposal stage independently of their scientific quality.
+Pre-proposal
+1. Excellence
+• Scientific relevance, scientific quality and target of an unmet clinical need.
+• Previous research and evidence, supporting the objective of the trial and the estimated effect
+size (i.e. background, state of the art); adequacy of search strategy to previous research
+evidence.
+2. Impact
+18• Impact on patient benefit, clinical practice, and the healthcare system (e.g. socio-economic
+impact)
+• Transnational added value rather than a national/regional study
+• Involvement of patients and other relevant stakeholders the design and execution of the IICS
+and the dissemination of its results.
+• Quality of the approach to RRI in realising the scientific and clinical objectives.
+3. Quality and efficiency of the implementation
+• Adequacy of study design, suitability of methodological approach
+• Ethical acceptability, feasibility of the project
+• Quality of the research team (complementarity of expertise, expertise in relation to the
+project, expertise in multicentric clinical studies).
+Full proposal
+1. Excellence
+• Innovation and scientific relevance of the study and how it will contribute to extend the
+knowledge beyond the state of the art, potential to change the current medical/clinical
+practice.
+• Relevance for patient needs.
+• Scientific quality and pertinence of the objectives
+• Soundness of the evidence presented (supported by an adequate search strategy) in support
+of the medical need, the study rationale, and the estimated effect size; including
+presentation of other existing trials addressing a comparable question (if applicable) and
+documentation of clinical safety of the agent(s), if applicable.
+2. Impact
+• Added value of transnational collaboration
+• Expected impact of the study at short-term and long-term level related with the duration and
+budget. Potential of the expected results in terms of potential impact for: patients, public
+health, clinical practice and/or other socio-economic health relevant applications and
+potential commercial exploitation.
+• Effectiveness of proposed measures to exploit and disseminate the study results (including
+engagement with patients and other public groups) and manage research data
+• Substantive involvement of pertinent patient organisations or patient representatives or
+other relevant stakeholders (in planning and execution of the trial, and dissemination of the
+results).
+• Appropriate integration of RRI dimensions within the study design.
+193. Quality and efficiency of the implementation
+• Adequacy, coherence and feasibility of the study design to verify the hypothesis(es) and to
+respond to the medical need
+• Feasibility of the study according to the planned duration and available budget
+• Coherence and effectiveness of the work plan and study design (appropriateness of the
+allocation of tasks, resources, timeframe, infrastructural support to the clinical trial
+• Feasibility of recruitment (Feasibility of recruitment rates; Feasibility of the trial in the
+proposed population/time frame; Adequateness of the site selection criteria; Adequateness
+of the documented feasibility of the recruitment by the recruiting centres.
+• Appropriateness of the management structures and procedures, including risk and
+innovation management and the communication flow among partners and among the
+different boards/committees.
+• Description of potential risks, including the recruitment risks, and adequate pre-planned
+counter measures, including involvement of and charter for independent data monitoring
+and safety committee where relevant
+• Adequacy of resources, staff and activities dedicated to RRI, including ELSI (Ethical, Legal and
+Social Issues) aspects, in design and implementation of the clinical study.
+• Adequacy of the plan for compliance with regulatory requirements and international
+standards (GCP, Declaration of Helsinki, CONSORT-Statement).
+• Management of research data according to FAIR data principles and where relevant,
+adequateness of planned strategies for long-term accessibility and potential re-use of study
+data.
+4. Competence of the research team and quality of research environment
+• Competence and experience of participating partners (previous work in the field, specific
+technical expertise, proven track record in multicentre clinical trials)
+• Complementarity and completeness of skills within the consortium (clinical, methodological,
+biostatistical expertise)
+• Meaningful links to multinational networks and existing infrastructures.
+5. Methods and Design of the clinical trial
+• Relevance and adequateness of the outcome measures with respect to the overall objectives
+of the trial; Relevance of chosen primary and secondary outcomes for patients.
+• Adequacy of the target and study population and of the controls and/or comparators
+• Adequacy of the consideration of the potential clinical and epidemiological consequences of
+the trial results
+• Adequacy of randomisation criteria
+• Adequacy of methods against bias and the proposed strategy for statistical and biostatistical
+analysis and sample size calculation
+• Impact of non-compliance and missing values on the sample size.
+A consortium will not be funded if the sponsor does not present the capacity to implement the
+clinical study, independently of the scientific quality of its proposal.
+20Scoring system
+Evaluation scores will be awarded for each main criterion. Each criterion will be scored out of five.
+The weight of each main criterion is equal.
+0 = Failure. The proposal fails to address the criteria or cannot be assessed due to missing or
+incomplete information.
+1 = Poor. The criteria are inadequately addressed, or there are serious inherent weaknesses.
+2 = Fair. The proposal broadly addresses the criteria, but there are significant weaknesses.
+3 = Good. The proposal addresses the criteria well, but a number of shortcomings are present.
+4 = Very Good. The proposal addresses the criteria very well, but a small number of shortcomings
+are present.
+5 = Excellent. The proposal successfully addresses all relevant aspects of the criteria. Any
+shortcomings are minor.
+Only integer values are accepted.
+The maximum scoring for pre-proposals will be 15 points and for full proposals 25 points.
+Full proposal will be considered fundable if the threshold score for individual criterion is 3 points
+and the overall score is at least 17 points.
+Rebuttal stage
+Before the PRP members meet to discuss the full proposals in a PRP meeting, each coordinator is
+provided with the complete reviewers’ assessments. This stage allows applicants to comment on
+factual errors or misunderstandings that may have occurred in the review process and to reply to
+reviewers’ questions. However, issues not related to reviewers’ comments or questions cannot be
+addressed and the work plan cannot be modified at this stage.
+The applicants will have up to 12 calendar days (25th August to 5th September, 2025) for this
+optional response to the reviewers’ comments. Answers sent after the notified deadline, or not
+related with reviewers’ comments or questions will be disregarded.
+Interview of the sponsor
+The coordinating investigator and the representative of the sponsor will be jointly interviewed by an
+interview committee (formed by 3 experts that will be part of the PRP) to determinate the capacity
+of the coordinator to implement the proposed clinical study and of the sponsor to manage it. The JCS
+will attend the interviews as observer.
+During the interview, a qualitative assessment of the feasibility of the trial will be performed, taking
+into account:
+- The previous experience of the coordinating investigator and the sponsor in conducting
+multicentre and/or multinational clinical trials
+- Daily management and operational aspects of the study
+21- Risk identification and planned mitigation measures
+- the governance and communication flows among the committees that they will put in place
+to ensure the feasibility of the trial
+All PRP members will receive the feedback of the interview committee (which will be a qualitative
+gradual assessment of the feasibility of the study) which will be considered during the PRP discussion
+in the PRP meeting.
+PRP meeting
+The JCS will give the PRP members access to all full proposals, reviews and rebuttals, outcomes of
+the interview of the coordinators and sponsors, avoiding any conflicts of interest. The PRP will meet
+to discuss each proposal and, after consideration of the evaluation criteria, external reviews (patient
+representatives), rebuttals, interview outcomes, their own reviews and discussions, the PRP will
+assign final scores, make a classification of the proposals, and rank proposals recommended for
+funding. The final summary review report prepared by the PRP members will be sent to the respective
+coordinating investigators.
+Ethical clearance
+After the PRP meeting, ethics experts will remotely check the full proposals, which are recommended
+for funding by the PRP and selected for funding by the CLSC, for alignment with ethical norms and
+regulations5. A meeting will also be organised for a discussion between the different ethics experts,
+if necessary. The ethics experts may ask the consortium for clarifications on the ethical points related
+to the proposed research approaches. The Ethics experts may highlight some vigilance points that
+need to be monitored during the implementation of the funded clinical study. Only those proposals
+approved by both the scientific evaluation and ethical assessment (complying with all central Horizon
+Europe and regional/national ethical requirements), will be funded.
+Clinical study selection and reconfiguration process
+A first selection of the clinical studies for funding identified as the main list will be made by the
+national/regional funding organisations based on the ranking list established by the PRP, available
+funding and the ethical clearance outcomes.
+After the establishment of the main list, additional clinical studies that have been assessed to be of
+good quality by the evaluation process could be invited to restructure their consortia, if there is any
+remaining funding budget. Research consortia will be provided 10 calendar days for this
+reconfiguration process.
+Restructuring may take place with the following boundary conditions:
+• Invitation for restructuring will take place only when availability of certain national/regional
+funding is the limiting factor
+5 Reference to EU Regulation 2021/695 and how-to-complete-your-ethics-self-assessment_en.pdf
+(europa.eu)
+22• Restructuring is possible only in cases where changes affect only one partner of the clinical
+study consortium; and in this step only a partner that serves as recruiting site of the clinical
+study or a service provider can be replaced.
+• Restructuring cannot lead to the change of the coordinating investigator
+• The central eligibility criteria of at least 3 funded partners from 3 different countries is
+respected
+• Restructuring can take effect either through non-funded participation of the partner (this
+partner would act as a self-funded collaborator, being possible to increase to a maximum
+number of 4 collaborators in the consortium at this stage, in case that there are already 3
+collaborators involved) or through finding a replacement partner eligible for funding from a
+funding organisation that still has funds available.
+The clinical studies that are invited to resubmit their proposal with a restructured consortium must
+still meet the eligibility criteria of the call. In principle, the JCS will check the restructuring process.
+Only if needed, it will be checked by an independent expert(s) or PRP member(s) to ensure that there
+is no loss of quality in the proposal. The selection of the clinical studies to be funded among the
+resubmitted proposals will be guided by the outcome of the evaluation process and the availability
+of national budgets. After the approval of the CLSC, a second selection of studies for funding can be
+established.
+IMPORTANT: If at any point of the proposal selection phase, or the clarification and negotiation
+phase, a clinical study partner or collaborator with a crucial role in the study (e.g. to ensure the
+number of patient recruitment, drug/intervention provider) withdraws from the clinical study, is
+ineligible or not able to fulfil its commitment as stated in the proposal, the proposal is irrevocably
+disqualified without the opportunity of restructuring. Furthermore, if at any point, the coordinating
+investigator withdraws from the clinical study, is ineligible or not able to fulfil its commitment as
+stated in the proposal, the clinical study proposal is irrevocably disqualified without the opportunity
+of restructuring. In any case, a restructuring of the consortium can lead to a re-evaluation of the
+proposal.
+Coordinating investigators having submitted an eligible proposal will be informed about the funding
+recommendation regarding their proposal by the JCS. Coordinating investigators are responsible to
+communicate this information to their clinical study partners.
+Redress procedure
+Applicants can appeal against the evaluation outcome if they suspect a breach in the application of
+the evaluation and selection procedures. This redress procedure only covers the procedural aspects
+of the evaluation and/or central formal eligibility checks.
+Requests for redress on national/regional eligibility decisions will not be handled by the JCS and need
+to be addressed to the responsible national contact point. A mere disagreement with peer reviewers
+or panel members’ comments are not grounds for an appeal. The redress procedure will not call into
+question the scientific or technical judgement of appropriately qualified experts.
+23In this case the applicants shall submit their appeal to the JCS via email (EffecTrial@isciii.es) up to 7
+calendar days after the date of the eligibility check or evaluation outcome email notifications by the
+call secretariat at the end of each step (eligibility check, first or second evaluation stage).
+Admissibility of appeals
+For an appeal to be admissible the following conditions must be met:
+- The appeal must be submitted by the coordinator of the proposal to which the appeal relates
+- Only one appeal per proposal can be submitted after each step
+- The appeal must be submitted via email within the 7 calendar days deadline. The appeal must
+contain the following minimum information:
+• The name of the call for proposals
+• The proposal acronym
+• The title of the proposal
+• A description of the alleged shortcomings of the evaluation procedure
+The appeal must demonstrate a procedural irregularity, factual or manifest errors in the evaluation
+process, misuse of powers, or a conflict of interests. Appeals that do not meet the above conditions,
+or do not deal with the evaluation of a specific proposal or express mere disagreement with the result
+or the reasoning of the evaluation will be judged as not suitable for redress.
+Procedure
+Upon receipt of an appeal, an acknowledgement of receipt will be sent by the call secretariat as soon
+as the email is read. The acknowledgement shall report the redress process and the anticipated date
+by which a decision on the appeal will be communicated to the appellant.
+All appeals received by the 7 calendar days deadline will be processed together by a designated
+Redress Committee and the decision will be communicated to the appellant within 10 calendar days
+after the deadline for submitting the appeals.
+Responsibilities, Reporting requirements and Dissemination
+Consortium Agreement
+The coordinating investigator will be responsible for drawing up a Consortium Agreement (CA)
+suitable to the study partners to manage the delivery of the study activities, finances, Intellectual
+Property Rights (IPR), to handle confidential data (e.g. patient data) and to avoid disputes which
+might be detrimental to the completion of the study. The consortium is strongly encouraged to sign
+this CA before the official study start date, and in any case the CA should be signed in the first 6
+months of the clinical study. Please note that national regulations may apply concerning the
+requirement for a CA (e.g. certain funding organisations may need the signed CA to release some
+funds). Further instructions will be provided by the JCS to the coordinators of the clinical studies
+selected for funding.
+24Open Science
+Importantly, all funding recipients must ensure that all outcomes (publications, etc.) of transnational
+ERA4Health-funded clinical studies are published with Open Access. Clinical studies funded by
+ERA4Health are eligible to publish on Open Research Europe (ORE), the Platform of the EC 6 at no
+cost.
+The new research data resulting from the study should be treated according to the FAIR 7 principles,
+and deposited and shared, according to the national rules of the countries involved. To make
+research data findable, accessible, interoperable and re-usable (FAIR), a Data Management strategy
+for the full proposals is mandatory in the second evaluation stage. Studies selected to receive funding
+in the current call, will be requested to present a more detailed Data Management Plan (DMP) before
+month 6 from the official start of the study and an update of the DMP will be asked at the end of the
+clinical studies.
+Monitoring
+Project coordinators are required upon notification to deliver an abstract of their project suitable for
+communication and dissemination purposes.
+The coordinating investigator is required to submit an annual scientific progress report on behalf of
+the consortium to the JCS in March of each year following a pre-defined template, detailing how the
+study is progressing in relation to planned objectives, with an additional progress report at month 6
+of the project. In this 6-month progress report it will be included detailed information about the
+recruitment (total recruitment and recruitment broken down for all partners by trial site).
+Furthermore, a final scientific report must be sent to the JCS within a period of two months after the
+study has ended. In addition to the reports, information related to some indicators related to the
+study may be collected on a platform/survey. The project coordinator is requested to justify the
+accomplishment of several critical milestones that will ensure the correct performance of the clinical
+study. It will be required periodic reporting on the following milestones that have to be defined in
+the full proposal (including an update on M1 milestones when all approvals and agreement are in
+place to facilitate First Patient First Visit (FPFV)):
+M1: The Project has obtained all Milestone 1.1. Proof of registration
+administrative and regulatory
+Milestone 1.2. Final approved version of the study protocol
+authorisations
+(referring to the one that will be submitted to National Competent
+Authorities (NCA) and EC / the one that will be sent for publication)
+Milestone 1.3. Final approved version of the Data
+Management Plan
+6https://open-research-europe.ec.europa.eu/
+7 https://www.nature.com/articles/sdata201618
+25Milestone 1.4. Establishment of Governance Boards, including
+Data Safety Monitoring Board
+Milestone 1.5. Data Management System
+Milestone 1.6. Agreements in place*
+M2: First Patient First Visit (FPFV)
+M3: 25% final target recruitment
+M4: 50% final target recruitment
+M5: 75% final target recruitment
+M6: 100 % final target recruitment
+M7: Last Patient Last Visit (LPLV)
+M8: Analysis of results
+M9: Publication of results
+*Including:
+- Sponsor-site agreements with all participating recruiting sites
+- Sponsor-vendor agreements, including drug supplier, drug distributor and all other applicable (Contract
+Research Organization -CROs-, Clinical Trials Unit -CTUs- for monitoring, data and/or project management and
+vigilance) agreements
+- Insurance (if applicable)
+The description of status and dates for all agreements in all countries should be stated.
+National funding organisations may also request additional financial and/or scientific annual progress
+reports and/or a final report on the study from the partners from their respective country.
+In addition, the coordinators of each consortium may be asked to participate in a kick-off meeting
+and present two progress updates, one mid-term and one final status symposium organised by
+ERA4Health. An appropriate travel budget should be included and justified in the financial plan of the
+proposal. In the case that some of the events are organised as an online conference, all partners of
+the consortia will be encouraged to participate.
+Communication
+The coordinating investigator will represent the consortium externally and will be responsible for all
+communication with the relevant ERA4Health bodies. The coordinator must promptly inform the JCS
+in case of any significant changes in the work plan or the consortium’s composition. The JCS will
+inform the relevant funding organisations, who will decide upon the proper action to be taken.
+Coordinating investigators, upon notification, are required to deliver an abstract of their study
+suitable for communication and dissemination purposes.
+26For the effective contribution of the study to the objectives of the ERA4Health, the coordinating
+investigator should be available to participate in meetings/workshops with the aim of:
+• Exchanging study results
+• Developing a joint strategy to coordinate and facilitate integration of the planned activities
+of ERA4Health
+• Communicating results across ERA4Health
+Importantly, all funding recipients must ensure that all outcomes (publications, etc.) of transnational
+ERA4Health funded studies include proper acknowledgement of the ERA4Health partnership and the
+respective funding partner organisations.
+“This study received funding from [name of funding organisations, or an acknowledgment as
+requested by your national/regional funding organisations] under the umbrella of the Partnership
+Fostering a European Research Area for Health (ERA4Health) (GA N° 101095426 of the EU Horizon
+Europe Research and Innovation Programme).”
+Confidentiality
+The Clinical Study Steering Committee (CLSC, composed of one representative from each funding
+organisation participating in the call) and the JCS will take all lawful steps to ensure confidentiality of
+the information and documents obtained during the evaluation and selection procedure of the joint
+call.
+The proposals will be handled confidentially by the JCS and by the national/regional funding
+organisations. In selecting the international experts for the PRP, the ethical experts and the patient
+representatives, the JCS shall endeavour to avoid any possible Conflicts of Interest (CoI).
+Each expert will have to sign a declaration of confidentiality and absence of conflict of interest. In
+case of a CoI, the reviewer will be withdrawn from evaluating the respective proposal. Conflicts of
+interest are managed and recorded throughout the evaluation process.
+General Data Protection Regulation
+The following Data Privacy Notice applies:
+By submitting an application, the applicants consent to the use, processing and retention of their
+personal data8, in accordance with article 6.1 (e) and (c) of the General Data Protection Regulation
+(GDPR) (2016/679) and for the purposes of:
+8 Last name, first name of the researchers, date of birth, professional contact information, degree(s), position (current and
+previous), fields of activity, place of work, organisation, address(es), curriculum vitae, ORCID number, name and reference
+of studys, LoIs, study proposals (scientific document, administrative and financial appendix).
+27• Processing and evaluating the application where processing shall be lawful only if and to the
+extent that processing is necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the controller
+• Administering any subsequent funding award
+• Managing the funding organisations relationship with them
+• Analysing and evaluating the call
+• Providing aggregate data to national and European surveys and analyses on the funded
+clinical studies
+• Complying with audits that may be initiated by the funding organisations and the European
+Commission (or its agencies).
+The members of the CLSC may share applicant’s data with third parties (some of which may be based
+outside the European Economic Area) in relation to the above activities including evaluators, auditors
+and the European Commission (or its agencies).
+The members of the CLSC may link the data that funding recipients provide in the application with
+national, bibliographic or external research funding data which are available through public
+subscription-based databases (e.g. Scopus, Web of Science, etc.) or other national / open datasets.
+28ANNEX I
+Country Austria
+Austrian Science Fund (FWF)
+Funding organisation
+www.fwf.ac.at
+Markus Kubicek
+Tel.: +43 1 505 67 40 - 8202
+E-Mail: markus.kubicek@fwf.ac.at
+National contact person
+Stefanie Schagginger
+Tel.: +43 1 505 67 40 - 8213
+E-Mail: stefanie.schagginger@fwf.ac.at
+Funding commitment € 2.000.000€,00
+Anticipated number of The FWF anticipates funding of 5 projects, given an average amount of
+fundable proposals funding per partner of approx. 400.000.
+Maximum/ Minimum The FWF generally does not have any minimum or maximum limits but,
+funding per grant given the limited nature of the financial commitment of the FWF to this Call
+awarded to a clinical (see above), we do expect Austrian participations not to exceed the average
+study partner range of an FWF stand-alone Project (typically € 300.000 to €450.000 ).
+For the FWF, both options are theoretically possible:
+- All participating organisations will be granted and should be part of the
+clinical study consortium. A maximum of 3 partners are authorised.
+- Or only one organisation will be granted and this organisation will
+Funding mechanism
+establish a collaboration with other recruitment sites via subcontracting
+or a collaboration agreement
+Please contact the FWF office for a detailed clarification which approach
+would be the most appropriate for your proposal.
+The proposed research must be carried out in Austria under the auspices of
+the Austrian lead research institution The principal investigator must be
+employed at the Austrian research institution applying for funding at the
+time the project is scheduled to begin. All Austrian research institutions are
+eligible to apply if they are registered in the FWF's research institution
+portal. Applications are to be submitted by the research institution where
+the project is to be carried out. Neither a specific academic degree nor
+Eligibility of partners
+Austrian citizenship is required to act as principal investigator. The principal
+investigator must, however, have appropriate scientific qualifications (see
+section 1.4) and sufficient time resources to carry out the proposed
+research. The research institution must provide the necessary
+infrastructure.
+Please refer to the general FWF Application Guidelines and the respective
+Application and project number limit
+Project-specific costs are eligible for funding. These include personnel and
+non-personnel costs that are needed to carry out the project and that are
+Eligibility of costs, types
+not included in the infrastructure provided by the research institution. The
+and their caps
+FWF does not finance the infrastructure or basic equipment of research
+institutions.The current FWF Personnel Costs and Salary Rates scale indicates the
+salaries that may be requested. The FWF grants an annual salary adjustment
+to compensate for inflation, which is applied automatically to all contracts
+of employment in Principal Investigator projects that are valid when the
+adjustment takes effect.
+Please refer to the FWF Application Guidelines
+Duration of the clinical
+Funding requested for FWF Principal Investigator Projects is limited to a
+study
+maximum of 48 months.
+Specific rules for A cost-neutral extension of up to 12 months is possible and must be applied
+potential extensions for at the FWF before the official end date of the project.
+In addition to the application at the ERA4Health level, administrative data
+(in accordance with the FWF Guidelines for Principal Investigator Projects)
+must be submitted online to the FWF at https://elane.fwf.ac.at/
+This is required already at the pre-proposal stage via the programme
+category “PIK – International Projects preproposal” no later than January
+29, 2024, 14:00 CET. For the full proposal stage applicants must choose the
+programme category “PIN– International Projects” (Deadline June 18,
+2024, 14:00 CET. Both steps are mandatory.
+All proposals must be submitted using the elane online portal. Project
+funding is administered through the research institution (PROFI mode); for
+Submission of the this reason, the submission must be approved in the application portal
+proposal at the national both by the applicant and by the respective research institution before the
+level respective deadlines (see above).
+Please note that the number of ongoing/approved projects in which one
+researcher can serve as principal investigator is limited to three in the
+Stand-Alone Projects Programme, International Programmes, Clinical
+Research and Arts-Based Research Programmes. Information on the limit
+of the number of ongoing/approved projects and the limit of applications
+that can be submitted can be found at project_number_limit.pdf
+(fwf.ac.at)
+For information on submitting an application from abroad please refer to he
+the FWF Website Applying from Abroad.
+Submission of other
+information at the See above
+national level
+Annual Status Report: The principal investigators of ongoing projects are
+required to report published research results on an annual basis. For further
+information, please refer to the information on Annual Status Reports.
+Submission of financial
+Final Project Report: After completion of the project, in addition to the
+and scientific reports at
+research results, information on statistical and program-specific issues as
+the national level
+well as any changes to the project as originally planned are also documented
+in Researchfish. Principal investigators are notified by email and provided
+with initial information about Researchfish and their reporting obligations.The FWF requests annual updates to include subsequently published results
+for up to 5 years after the end of the project.
+The FWF expects the start of the project within six months from the date of
+Staring date of the
+of approval notification. Any further delays of up to 12 months after
+clinical study
+notification must be justified, otherwise the funding approval may be
+rescinded.
+The principal investigator’s publication record over the last five years must
+be internationally visible and commensurate with the expected career path
+in their field. The following criteria apply for the assessment of an applicant’s
+publication record and initiation of the review process:
+Quality assurance: Most relevant in assessing the applicant’s publication
+record are those publications that have been subject to a quality assurance
+procedure in line with international standards (peer review or an equivalent
+procedure; in the natural and life sciences, peer review is expected). Journals
+must usually be listed in Web of Science, Scopus, or the Directory of Open
+Access Journals (DOAJ). For journals not listed in those databases, or for
+monographs, edited volumes, contributions to edited volumes, or other
+publication types, the applicant must provide a link to the publisher’s
+website which contains a description of the applicable quality assurance
+procedure. Should no such description be available on the website, it is the
+applicant’s responsibility to provide evidence that the publication has been
+subject to a quality assurance procedure in accordance with the standards
+of the field.
+International visibility: The majority of the applicant’s publications must
+Further guidance
+have a wider than national reach. In the natural sciences, life sciences, and
+social sciences, most of the publications listed must be in English.
+Number/scope and quality of the publications must be commensurate with
+the researcher’s expectable career path and the respective discipline. At
+least two publications must be quality-assured and internationally visible
+publications with a substantial and independent contribution by the
+applicant. At least one publication with first, last, or corresponding
+authorship is required, with the exception of publications in journals (or
+disciplines) that rank authors alphabetically. If any such publications are
+included in the required document PI_publication.pdf, the applicant’s
+contribution must be specified.
+If there is any uncertainty about general application requirements or about
+accounting for career interruptions, the FWF recommends contacting the
+FWF Office or the FWF Equal Opportunities and Diversity in Research
+Funding unit in good time before submitting the application to confirm that
+all requirements are met and that any career interruptions can be
+accounted for. In cases of doubt, the appropriate decision-making bodies of
+the FWF shall decide on applicants’ eligibility.Country Czech Republic
+Funding organisation Ministry of Health of the Czech Republic
+National contact person Monika Kocmanova
+Funding commitment 500 000 EUR
+Anticipated number of
+2
+fundable proposals
+The maximum funding per grant awarded to a clinical study partner is
+250,000 EUR. However, the final decision about the maximum funding per
+Maximum/ Minimum grant will depend on the number of proposals submitted to the pre-proposal
+funding per grant stage or the number of proposals with Czech participation recommended
+awarded to a clinical for funding by the international evaluation committee. In the case of only
+study partner one Czech project proposal being recommended for funding, the amount of
+finance support per project may be increased.
+Only one organisation will be granted and this organisation will establish a
+collaboration with other recruitment sites via subcontracting or a
+Funding mechanism collaboration agreement
+Research Organisations, Enterprises. All eligibility rules and criteria can be
+found on the Czech Health Research website (AZV ČR – Agentura pro
+Eligibility of partners zdravotnický výzkum České republiky (azvcr.cz). It is recommended to
+contact the responsible person at the Czech Health Research Council (prior
+to submission regarding the eligibility criteria).
+All eligibility of costs, types and their caps can be found on the Czech Health
+Research website (AZV ČR – Agentura pro zdravotnický výzkum České
+Eligibility of costs, types
+republiky (azvcr.cz)). It is recommended to contact the responsible person
+and their caps
+at the Czech Health Research Council prior to submission regarding the
+eligibility criteria.
+Duration of the clinical
+48 months
+study
+Specific rules for
+An optional cost-neutral extension of 1 year if needed
+potential extensions
+Submission of the
+proposal at the national NO
+level
+Prior to submission of the pre-proposal to IICS, Czech researchers need to
+submit to the Czech Health Research Council the following documents:
+Submission of other 1. Sworn statement
+information at the 2. Sworn statement of composition consortium
+national level 3. Application form
+All these documents are available on the website at the Czech Health
+Research Council AZV ČR – Agentura pro zdravotnický výzkum České
+republiky (azvcr.cz).Prior to submission of the full proposal to IICS, Czech researchers need to
+submit to the Czech Health Research Council the following documents:
+1. Ethics documents
+2. Updated budget table
+More information about ethics documents is available on the website of
+the Czech Health Research Council AZV ČR – Agentura pro zdravotnický
+výzkum České republiky (azvcr.cz); and also part of the document
+“Methodology for European Partnerships in Health” in the chapter 7.2.1
+Eligibility requirement for applicants.
+In case the projects of Czech participants are recommended for funding
+based on the results of the international evaluation and after the approval
+of the representatives of the funding authorities of the countries
+participating in IICS, the Ministry of Health of the Czech Republic / the Czech
+Health Research Council may ask the successful Czech participants to submit
+additional documents in order to issue a decision on the provision of
+purpose-special support according to the rules established by the Ministry
+of Health of the Czech Republic/ the Czech Health Research Council.
+Submission of scientific and financial reports will be required according to
+Submission of financial
+the national rules. All necessary information is part of the document called
+and scientific reports at
+“Methodology for European Partnerships in Health,” available on the
+the national level
+website.
+Starting date of the In line with the start date of the project as stated in the “Contract” or
+clinical study “Decision” on the provision of support or the issuance of a decision.
+Further guidance AZV ČR – Czech Health Research Agency (azvcr.cz)FRANCE
+Country
+Funding organisation FR MOH – Ministry of Health
+National contact person DGOS-era4health@sante.gouv.fr
+Funding commitment 2.000.000 €
+Anticipated number of
+3 to 4
+fundable proposals
+Maximum/ Minimum
+funding per grant
+700.000 € Maximum
+awarded to a clinical
+study partner
+Only one organisation will be granted and this organisation will establish
+a collaboration with other recruitment sites via subcontracting or a
+Funding mechanism
+collaboration agreement
+Eligible institutions: French ministry of Health (Fr MoH) funds French
+healthcare institutions defined by public health regulation articles L.611-
+1 and further, L.6141-1 and further, L6161-1 and further (établissements
+de santé), L6133-1 to 8 (groupements de coopération sanitaire), L6323-3
+(maisons de santé) and L6323-1 (centres de santé) of the Code de la Santé
+Publique.
+A partner must be composed of a physical leader and of a health care
+institution, which manages the financing.
+Eligibility of partners
+The physical leader must be contractually linked to a healthcare
+institution and get its approval to be part of the project. For example,
+leaders can be private health professionals if they have a binding
+agreement with a French healthcare institution.
+Minimum funding per awarded to a partner: 10 000 €
+Fr MoH will avoid double funding and will not finance projects or parts of
+projects that have been funded through other calls.
+Funds are reserved for the exclusive use of French healthcare institutions
+involved in the project. Transfer for part of these funds to other French
+structures, organisations or physical or legal person may be allowed
+provided they are not eligible for funding by another financing body of
+Eligibility of costs, types the partnership. The healthcare institution would also have to
+and their caps demonstrate that they do not have the necessary skills. If so, public
+tenders rules including call of bides applies.
+Investment expenses giving rise to depreciation are not eligible.
+Management costs up to 10% of personal expenses are eligible.
+Duration of the clinical
+48 months
+study
+Extension is not automatic. A report explaining the project extension
+request must be submitted to the FR MOH with all supporting documents at
+Specific rules for
+least 6 months before the project end date. The extension may not exceed
+potential extensions
+1 year and cannot give rise to additional funding payments. The extension
+cannot exceed the end date of the partnership.Submission of the The certificate and budget grid available on Fr MoH website page must be
+proposal at the national fulfilled and sent before submission deadline. See online for further
+level instructions.
+Submission of other
+information at the
+national level
+A report on expenses is submitted to FR MOH each year by the funded
+Submission of financial
+institutions. The expenses reported must be in direct relation with the
+and scientific reports at
+project. They must be necessary for project implementation and conform to
+the national level
+the selected project.
+The project begins as soon as possible after the results of the Call have been
+Starting date of the
+confirmed. The official project start date must be communicated to the FR
+clinical study
+MOH by the funded institution as soon as it is known.
+Funds delegation will be performed through budgetary circulars of the Fr
+Further guidance
+MoH. Funds will be allowed regarding project progression.Country Germany
+Federal Ministry for Education and Research (BMBF) represented by the
+Funding organisation Programme Management Agency in the German Aerospace Centre (DLR-
+PT)
+Name : Dr. Svenja Finck
+Dr. Kristina Foterek
+Phone: +49 228 3821 1877
++49 228 3821 1161
+E-mail: era4health@dlr.de
+National contact
+Address: DLR PT, on behalf of the BMBF
+person
+Heinrich-Konen-Str. 1
+53227 Bonn
+Germany
+Prior the submitting of the proposal, it is highly recommended to get in
+touch with the national contact persons to clarify the specific requirements
+o f this call.
+Up to 2.0 Mio €
+Only consortia whose research question includes at least the use of one
+Funding commitment nutrition and/or lifestyle interventions are eligible for funding from
+BMBF/DLR-PT. The comparison of e.g. two pharmacological interventions
+cannot be funded by BMBF/DLR-PT. Please note that dietary supplements
+in pharmacological doses are not considered a nutrition intervention.
+Anticipated number of
+4-5
+fundable proposals
+Up to 350.000 € for regular German partners; up to 500.000 € for German
+Maximum/ Minimum partners in the role of the sponsor (overhead costs included). Only one
+funding per grant German partner per consortium is allowed. The applicants (PI) are not
+awarded to a clinical allowed to participate in more than one research proposal. The number of
+study partner recruitment sites in Germany depends on the intended sample size and the
+structure of the consortium and is not restricted.
+Only one German partner per proposal will be granted and this organisation
+Funding mechanism will establish a collaboration with other German recruitment sites via case
+payments based on collaboration agreements.
+Eligible applicants are researchers or research groups from German
+universities, German university hospitals and German non-university
+Eligibility of partners research institutes. Enterprises in the commercial sector are only eligible to
+apply in exceptional cases if they are also a healthcare organisation. For
+specific conditions see also link to German version of the call below.
+The following costs are eligible for funding (details see German version of
+the call):
+- Personnel (e.g. project management, clinical project management,
+Eligibility of costs, types
+coordination and quality assurance);
+and their caps
+- case payments;
+- patient and target group involvement;
+- materials;- Fees and Insurance;
+- Travel & networking costs;
+- Communication, Dissemination and Publication costs;
+- Overhead costs (“Projektpauschale”).
+Overheads are eligible according to standard BMBF regulations.
+Funding rates for universities, university hospitals and non-university
+research institutes can be up to 100% of their costs.
+Duration of the clinical
+Up to 48 months
+study
+Specific rules for
+Cost neutral runtime extensions can only be granted in exceptional cases.
+potential extensions
+Submission of the
+proposal at the national On request in case of a positive funding recommendation.
+level
+Submission of other
+information at the On request in case of a positive funding recommendation.
+national level
+Submission of financial
+and scientific reports at On request in case of a positive funding recommendation.
+the national level
+Starting date of the
+April 2026 (the earliest)
+clinical study
+Further guidance https://www.gesundheitsforschung-bmbf.de/de/18037.phpCountry Ireland
+Funding organisation Health Research Board
+Dr Karen Crowley
+National contact
+Dr Fiona Manning
+person
+Email: EUTrials@hrb.ie
+Funding commitment €1,200,000 (inclusive of overhead contribution)
+Anticipated number of
+1-2
+fundable proposals
+Maximum funding is:
+Up to €1,000,000 including overhead contribution of 30% of Total Direct
+Maximum/ Minimum
+Modified Costs (TDMC).
+funding per grant
+awarded to a clinical
+Please see HRB’s dedicated scheme page on HRB’s funding page for
+study partner
+further Guidance and FAQ specific to applicants based in Ireland.
+HRB will contract with a single Host Institution (Lead Applicant).
+Additional national recruiting sites (associate partners) are permitted to
+join the consortium. The Lead Applicant will be responsible for
+appropriate distribution of funds to the associated partner(s) via
+Funding mechanism
+collaboration and/or consortium agreements.
+The HRB does not have a limit on the number of associated partners
+that will act as clinical study sites.
+Lead Applicants (Principal Investigators) based in Ireland must be from a
+recognised HRB Host Institution in the Republic of Ireland
+(Policy on Approval of HRB Host Institutions).
+Eligibility of partners Partners classed as ‘Enterprise’ cannot be in receipt of HRB funding.
+Please see HRB’s dedicated scheme page on HRB’s funding page for
+Guidance and FAQ specific to eligibility for applicants based in Ireland.
+Funding available is inclusive of overheads and pension contributions
+• Salary related costs
+• Direct running costs, including patient-related costs and costs to support
+interventional studies
+• Patient and Public Involvement (PPI) costs
+• Small equipment costs (€10,000)
+Eligibility of costs, types
+• Travel
+and their caps
+• FAIR data management costs
+• Dissemination and knowledge exchange costs
+For more information please see HRB’s guidance on the dedicated scheme
+page on HRB’s funding page.
+Duration of the clinical
+48 months
+study
+Specific rules for
+12-month no cost extension (NCE) permissible
+potential extensionsSubmission of the
+proposal at the national No additional requirements
+level
+Applicants will have to complete HRB’s Budget and Deliverables
+Submission of other templates. These will be supplied after submission.
+information at the
+national level Applicants must submit a short information form at submission to provide
+details on PI’s track record for eligibility checks.
+HRB grant holders are required to submit grant reports as outlined in
+their grant contracts and the most recent HRB General Terms and
+Conditions for Research Awards.
+For clinical trials or interventional studies, PIs are required to submit an
+approvals package to confirm all ethical and regulatory approvals, and
+Submission of financial
+contractual agreements are in place before patient recruitment
+and scientific reports at
+commences. The PI must notify the HRB that the first patient first visit
+the national level
+(FPFV) has occurred and subsequently furnish a three-month recruitment
+report. Thereafter, the PI must submit bi-annual progress reports for the
+duration of the grant. Financial reports must be submitted annually. A
+final report must be submitted at the end of the grant.
+Starting date of the
+Jan - May 2026
+clinical study
+All Irish partners who are undertaking interventional studies must adhere
+to the HRB Clinical Trial and Interventions Research Governance Policy.
+Further guidance
+All applicants should contact the HRB with any queries regarding the
+requirements of this policy.Country Israel
+Funding organisation CSO-MOH
+Dr. Irit Allon
+irit.allon@moh.health.gov.il
++972 (0)2 5082167
+National contact person
+Netta Koren
+netta.koren@moh.health.gov.il
++972 (0) 545889393
+Funding commitment Up to 320,000 €, depending on budget availability
+Anticipated number of
+1-2
+fundable proposals
+Maximum/ Minimum
+funding per grant
+Up to 160,000 €
+awarded to a clinical
+study partner
+All participating organisations will be granted and should be part of the
+Funding mechanism clinical study consortium. A maximum of 3 partners are authorised.
+Researchers will only be able to participate as partners in consortia.
+Sponsors will be considered and approved only in exceptional cases
+where funding is secured from other sources.
+Position in a university, research center or hospital. Research authority
+must approve position prior to submission.
+Eligibility of partners
+PI should hold a Ph.D., M.D., D.M.D., D. Sc or equivalent degree and
+employed by an eligible institution. Research will not be funded
+simultaneously by CSO-MOH on more than one grant (Era-NET or
+national). Researchers can not apply for more than one grant from any
+ERA-NET funded by CSO-MOH or submit more than one proposal for any
+programme.
+Materials and consumables; Travel and hosting (up to 5%); No salaries for
+Eligibility of costs, types applicants; No heavy equipment,
+and their caps
+Institutional overhead 10%.
+Duration of the clinical
+Up to 4 years
+study
+Specific rules for
+See national guidelines
+potential extensions
+Prior to submission, researchers will submit to CSO-MOH an abstract
+Submission of the approved by their research authority including budget distribution. No
+proposal at the national submission of abstract can result in declaration of the consortium as
+level
+ineligible.
+Submission of other
+Bioethics approvals must be submitted with the application or up to 4
+information at the
+months later.
+national levelSubmission of financial
+and scientific reports at Yes
+the national level
+Staring date of the
+NA
+clinical study
+Please see detailed instructions of application at the national level and
+Further guidance
+reporting at http://www.health.gov.il/research-fundCountry Italy
+Funding organisation Italian Ministry of Health (IT MoH)
+Chiara Ciccarelli – c.ciccarelli@sanita.it
+National contact
+person
+Francesca Turco – f.turco@sanita.it
+Funding
+€ 2.000.000,00
+commitment
+Anticipated number of
+3
+fundable proposals
+Maximum/ Minimum
+funding per grant
+Max. € 650.000 per project
+awarded to a clinical
+study partner
+Simultaneous PI participation in different 2025 JTCs funded by the
+Ministry of Health is not allowed. No more than two Italian PIs (Principal
+Investigators) are eligible to apply for the same project.
+Italian PAOs can be funded as a sub-contractor of an IRCCS if they fulfil
+Funding mechanism
+the eligibility criteria of the EC. The maximum amount eligible for a sub-
+contract is < 10% of the total budget (from the IRCCS Budget).
+Italian PAOs can still participate in Consortia as “Collaborators” with
+their own funds.
+Only IRCCS (Istituti di Ricovero e Cura a Carattere Scientifico)
+Eligibility of partners
+researchers are eligible to apply.
+Direct Costs:
+• Personnel (only temporary contracts or permanent contracts for
+the amount of hours dedicated to the project, < 60%);
+• Consumables/Supplies;
+• Animals/Model costs;
+• Equipment (only on leasing or rent);
+Eligibility of costs,
+types and their caps • Travel ( < 30%);
+• Dissemination activities ( < 1%);
+• Publication costs: < 2%; open access < 5%;
+• Patients recruitment costs;
+• IT Services and Data Bases;
+• Coordination costsIndirect Costs:
+• Overhead ( < 10%, included in the total);
+Other indirect costs are not eligible.
+Transfer of eligible funds abroad is not allowed.
+Subcontracts are allowed only upon approval, by presenting via
+Workflow – code ER, a request together with the National
+preelegibility form, the latest 20 days before the deadline of the pre-
+proposal submission.
+Duration of the
+Up to 48 months.
+clinical study
+Specific rules for
+Max 1 year
+potential extensions
+In order to expedite the eligibility check process, the Ministry of Health
+will grant an eligibility clearance to the applicant prior to the
+submission of the proposals. To this end, it is mandatory that the
+applicants fill out and return to the IT-MoH a pre-submission eligibility
+check form through their IRCCS, using WFR System-> ER
+Submission of the communication code, before submitting their proposal to the Joint Call
+proposal at the Secretariat. It is strongly recommended that the form, completed and
+national level duly signed, is returned at least 10 working days before the proposal
+submission deadline. Applicants will be sent written notification of their
+eligibility status. Changes in acronyms and budgets provided in the pre-
+submission eligibility check are not allowed. The pre-eligibility form can
+be downloaded here:
+https://www.salute.gov.it/imgs/C_17_pagineAree_4441_0_file.pdf
+Submission of other
+information at the
+national level
+Submission of Submission of annual scientific and financial reports at the national
+financial and level will be required according to the rules of the Ministry of Health
+scientific reports at (Ricerca Finalizzata). Further information on the rules of the Ministry of
+the national level Health can be requested to the national contact persons
+Staring date of the
+clinical study
+Further guidanceCountry Latvia
+Funding organisation Latvian Council of Science
+Maija Bundule
+E‐mail: Maija.Bundule@lzp.gov.lv
+Tel: +371- 26514481
+National contact person
+Uldis Berkis
+E-mail: Uldis.Berkis@lzp.gov.lv
+Tel.: +371-29472349
+Funding commitment 0,8M EUR
+Anticipated number of
+2
+fundable proposals
+Maximum funding for a funded partner is 100.000 EUR per year
+Maximum/ Minimum Funding rates under Regulation EC 651/2014 shall be respected in case of
+funding per grant state aid
+awarded to a clinical Maximum 2 Latvian partners per proposal allowed, they must be fully
+study partner independent on legal, financial and personnel basis
+Maximum duration of a funded project – 4 years
+The funded Latvian partner must be in possession of necessary resources,
+and can use subcontracting up to the established maximum rate,
+following the public procurement laws. Subcontracting shall not exceed
+25% of the total direct costs. There are no exemptions to this rule.
+Subcontracting to members of the consortium is not funded by LCS.
+Funding mechanism
+Maximum 2 funded Latvian partners per proposal allowed, they must be
+fully independent on legal, financial and personnel basis.
+Any kind of business enterprise can be supported only according to the
+regulations for state aid. LCS is not using de-minimis aid.
+Only the following legal persons are eligible:
+1) Research institutions registered in the Latvian Registry of Scientific
+Institutions, e.g.
+- Research Institutes
+- Universities
+And must have the status of Research and knowledge dissemination
+organization (Regulation EC 651/2014)
+Eligibility of partners 2) Business enterprises entered into the Latvian Commercial registry as
+companies, assumed they are eligible to do the specific research and have
+specific capacity and resources to do the research in Latvia and have their
+main activity in Latvia. Limitations of EU legislation apply (R651/2014)
+together with financial reporting requirements, in this case this is state aid.
+Two previous statements with sworn auditor’s approval should be provided
+and they must reflect the correspondence to the regulation as well as prove
+the evidence of previous scientific activity and presence of capacity.
+Enterprises not having closed two annual financial periods are not eligible.
+Eligibility of costs, types • Personnel costs incl. taxes;
+and their caps • Consumables;• Subcontracts (up to 25% of direct costs), needs detailed
+justification, includes all external services, project core activities
+cannot be subcontracted;
+• Equipment (only depreciation costs during project directly
+attributable to project tasks);
+• Replaceable and fully consumable during project elements
+of equipment (e.g. electrodes);
+• Travels (according to travel plan);
+Indirect costs (up to 25% of direct costs excluding subcontracting).
+Any type of clinical trials is experimental development according to the Art.
+25 of the Regulation EC 651/2014. Therefore, maximum aid intensity
+according to the part 4. of the aforementioned article is 25%. This value of
+aid intensity can be increased by up to 25% if the conditions of part 6., (d)
+are fulfilled. According to part 6. (a) aid intensity can be increased further by
+10 percentage points for medium-sized enterprises and by 20 percentage
+point for small enterprises. Total state aid intensity can not exceed 70% for
+small enterprises, 60% for medium-sized and 50% for large enterprises
+provided all requirements are fulfilled.
+For pragmatic clinical trials the healthcare costs must be carried by the
+national healthcare system. LCS funding is not allowed to create additional
+demand in the healthcare system, nor to cover standard healthcare costs,
+nor to reduce waiting lines. The funding for LCS is for the research going
+outside of the normal healthcare services provided in the case of a specific
+ailment.
+LCS is not funding postmarket activities. LCS is not funding any activity
+beyond experimental development.
+Duration of the clinical
+Maximum 4 years
+study
+Specific rules for
+Extensions can be without funding only
+potential extensions
+Submission of the
+proposal at the national Not at the application phase
+level
+Applicants for State aid must send before the call deadline (both 1st and
+2nd stages) to the e-mail address lzp@lzp.gov. lv, stating the acronym
+and the title of the project, applicant name and registration number, the
+following document: a certification that the applying entity does not
+correspond to the criteria laid down in laws and regulations to be subject
+Submission of other
+to insolvency proceedings at the request of the creditor. It must be
+information at the
+electronically signed by valid legal representative (s).
+national level
+Upon request applicants for State aid must provide all requested
+documents to evaluate the financial situation and financial viability.
+Undertakings in difficulty are not eligible for funding. (Regulation
+651/2014)In case of State aid the undertakings are assessed for eligibility at each
+of the application stages and at the conclusion and during execution of
+the contract with LCS for project funding. If the eligibility criteria are not
+fulfilled, project funding can not be approved or continued.
+To receive funding by LCS, Consortium agreement duly signed should be
+presented. Enterprises shall provide audited statements of 2 previous
+closed financial periods on request.
+Submission of financial
+Final audit according to the LCS regulations.
+and scientific reports at
+the national level
+Annual or in some cases half-annual financial and scientific reporting is
+mandatory.
+Staring date of the Application for the state aid must be submitted before the start of the
+clinical study project which is stated in the consortium agreement
+Support is provided according to Provisions Nr 259, 26.05.2015 of the
+Latvian Cabinet of Ministers (http://likumi.lv/ta/id/274671-atbalsta-
+pieskirsanas-kartiba-dalibaistarptautiskas-sadarbibas-programmas-
+petniecibas-un-tehnologiju-joma)
+These provisions should be respected without exceptions. The maximum
+rates should respect the Provisions. The requirements in the provisions to
+Further guidance
+specific applicant groups must be respected.
+LCS cannot fund implementation support, nor training activities.
+LCS is funding only research
+The project must respect national regulations for clinical trials, including
+the biomedical ethics permission from an authorised ethical committee
+for clinical trialsCountry Lithuania
+Funding organisation Research Council of Lithuania
+National contact person Živilė Ruželė
+Funding commitment 1 Mln Eur
+Anticipated number of
+2
+fundable proposals
+Maximum/ Minimum
+funding per grant Within a single project proposal, the maximum funding can be up to EUR 500
+awarded to a clinical 000
+study partner
+only one organisation will be granted, and this organisation will establish
+a collaboration with other recruitment sites via subcontracting or a
+Funding mechanism collaboration agreement (as associated project partner, see section
+“Eligibility of partners”)
+Eligible for funding institutions are Lithuanian research and higher education
+institutions that are included in the Register of Education and Research
+institutions, public healthcare institutions, university hospitals. Eligible
+beneficiary institution (grant holder) manages the state budget funds
+allocated to the project following the rules stated in the legal acts, as well as
+representing the associated project partners (if applicable ‘project partner’
+means public or private legal entity that, together with the eligible
+institution, created the conditions for project implementation).
+Eligibility of partners Principal Investigator must be a PhD holder.
+Principal investigators from Lithuania cannot be involved in more than 1 proposal
+submitted to this call.
+The beneficiary institution employs the principal investigator to work in the project
+and his workload must be at least 20 hours multiplied by the number of months to
+execute the project. Hourly rates approved by the Chairman of the Lithuanian
+Research Council must be applied for the personnel costs. All other general rules
+for competitive funding of Research Council of Lithuania apply:
+https://www.e-tar.lt/portal/lt/legalAct/0a8bead0577611e9975f9c35aedfe438/asr
+All costs mentioned in the Call text as Investigational costs are eligible: site
+costs (personnel, clinical procedure, site services, patient/participant
+renumeration), country management sites (site selection and coordination
+at the country level), and clinical study management costs at national or
+regional level (e.g. monitoring and insurance).
+Additional cross-cutting trial management costs can also be eligible if some
+Eligibility of costs, types of the sponsor’s tasks are delegated to Lithuanian team.
+and their caps Only costs generated during the lifetime of the project, related to the
+project, are eligible. Eligible cost types: personnel, consumables,
+subcontracting, equipment and instruments, other direct costs, costs for
+dissemination of results, data handling and analysis, overheads (up to 20 %
+from direct costs).
+More details about eligibility of costs: https://www.e-
+tar.lt/portal/lt/legalAct/0a8bead0577611e9975f9c35aedfe438/asr
+Duration of the clinical
+48 Months
+study
+Specific rules for
+During the implementation of the project, the reasoned amendments of the
+potential extensions
+agreement may be initiated, including extensions. Amendments to theagreement shall be made in accordance with the procedures and within the
+time limits specified in the agreement.
+Submission of the
+proposal at the national The submission of the proposal at the national level is not required.
+level
+Following funding decision, grant signing institution and the PI must
+complete and submit the national document (the template can be found
+Submission of other
+following this link) containing this information: more detailed planed
+information at the
+budget, foreseen dissemination and communication activities and expected
+national level
+outputs from clinical study results with the granted research team
+contribution (scientific papers, patents, etc.)
+Submission of financial
+Midterm and final scientific reports nationally are required as well as the
+and scientific reports at
+yearly financial reports.
+the national level
+Starting date of the It must be in 2026, no later than the common start date of the study agreed
+clinical study upon by the consortium partners.
+For any information, please refer to contact person. All information about
+the call is published on LMT website under Calls webpage.
+Further guidance
+General information for applicants submitting proposals to European
+Partnerships calls can be found here.Norway
+Country
+The Research Council of Norway
+Funding organisation
+Henrietta Blankson
+hbl@rcn.no
+National contact person
+tel : +47 92233762
+900 000 EUR
+Funding commitment Depending on the volume of submitted and eligible projects, up to 25 %
+additional funding may be allocated to the call to fund additional projects
+on the ranking list.
+Anticipated number of
+2-3
+fundable proposals
+Maximum/ Minimum Within a single project, the maximum funding can be up to 300 000 EUR. If
+funding per grant the participant has a coordinator role, the maximum funding can be up to
+awarded to a clinical 450 000 EUR.
+study partner
+Only one organisation will be granted, and this organisation will establish
+a collaboration with other recruitment sites via subcontracting or a
+Funding mechanism collaboration agreement.
+Principal investigators must come from an approved Norwegian research
+organization.
+Eligibility of partners User/patient organizations may participate under the umbrella of the
+principal investigator (with a collaboration agreement or subcontracting).
+Payroll expenses, consumables, operating expenses, network measures.
+PhD fellowships are not eligible within the RCN funding. For postdoctoral
+fellowships, duration of the support is limited to a minimum of three years
+Eligibility of costs, types and a maximum of four years. The overhead cost is included in the rates
+and their caps for personnel.
+For funded projects, the contractual budget will be in NOK using the
+exchange rate (European Central Bank) from the pre-proposal deadline.
+Duration of the clinical
+Max 48 months
+study
+Specific rules for A cost-neutral extension based on a request with justification and an
+potential extensions agreement in the whole project consortium may be considered.
+Submission of the If the proposal is granted, information about national registration will be
+proposal at the national given.
+levelSubmission of other
+information at the On request in case of a positive funding recommendation.
+national level
+Submission of financial
+and scientific reports at On request in case of a positive funding recommendation.
+the national level
+Staring date of the
+From January 2026
+clinical study
+For medical and health-related studies involving human participants, the
+Research Council stipulates special requirements and guidelines for regis-
+tration and disclosure of medical and health-related studies involving hu-
+Further guidance
+man participants.Poland
+Country
+National Centre for Research and Development (NCBR)
+Funding organisation
+Dr Marcin Chmielewski
+T: +48 22 39 07 109
+National contact person
+M: +48 571 226 666
+marcin.chmielewski@ncbr.gov.pl
+2 500 000 EUR
+Funding commitment
+Anticipated number of 1-5
+fundable proposals
+Maximum/ Minimum
+funding per grant Maximum 500 000 €
+awarded to a clinical
+study partner
+Only one organisation will be granted and this organisation will establish
+a collaboration with other recruitment sites via subcontracting or a
+Funding mechanism
+collaboration agreement.
+Following entities are eligible to apply:
+Research organization (research and knowledge-dissemination
+organisations)1.
+Eligibility of partners
+Entities must be established as a legal person2 and must conduct its
+business, R&D or any other activity on the territory of the Republic of
+Poland, confirmed by an entry into the relevant register3.
+The eligible costs shall be the following:
+1. personnel costs
+2. consumables
+3. equipment
+4. travel
+5. other direct costs
+Eligibility of costs, types 6. subcontracting - this cost type cannot account for more than 70% of all
+and their caps
+eligible costs of a project
+7. additional overheads incurred indirectly as a result of the research
+project; that costs are exactly 25% of eligible project costs and are counted
+as a multiplication by percentage given above and the rest of direct costs,
+excluding subcontracting (6); It means 7 = (1+2+3+4+5)*25%
+1 Defined in Commission Regulation (EU) No 651/2014 of 17 June 2014 declaring certain categories
+of aid compatible with the internal market in application of Articles 107 and 108 of the Treaty
+(hereinafter referred to as “Commission Regulation (EU) No 651/2014”);
+2 Legal person (juridical person) - an entity that is capable of having and amend legal rights and
+obligations within a certain legal system, such as to enter into contracts, sue, and be sued, excluding
+natural persons;
+3 if applicable.Please refer to cost eligibility guide (przewodnik kwalifikowalności kosztów)
+for details. Guide is available on the NCBR webpage:
+https://www.gov.pl/web/ncbr
+Research
+organization
+Fundamental/Basic
+Not eligible
+Research
+Industrial/Applied
+Not eligible
+Research
+Experimental
+Up to 100 %
+development
+Please note that only Experimental Development will be funded.
+Fundamental/Basic research or Industrial/Applied research are not eligible
+for funding.
+Duration of the clinical
+Up to 48 months
+study
+Specific rules for
+-
+potential extensions
+Submission of the Polish Participants will be informed and invited to submit Polish proposal
+proposal at the national once the international evaluation and the ranking list will be established.
+level
+After international evaluation of full proposals and the selection of projects
+to be funded, Polish participants will be invited to submit a National
+Submission of other Application Form (NAF). The NAFs will be examined for the appropriateness
+information at the of funding requested. The Polish participants are obliged to use the rate of
+national level
+exchange of the European Central Bank dated on the day of opening of the
+call.
+Submission of financial
+Annual scientific reports are obligatory.
+and scientific reports at
+the national level
+Staring date of the
+clinical study
+Sample documents are available at:
+https://www.gov.pl/web/ncbr/wniosek-krajowy
+We encourage you to learn about and use our "PartFinder" (Partner Search
+Tool), which allows you to match science and industry entities from around
+Further guidance the World with each other. The search engine is available at:
+https://partfinder.ncbr.gov.pl/
+Relevant documents:
+All proposals must be aligned with national regulations, inter alia:• The Act of 20 July 2018 - Law on Higher Education and Science;
+• The Act of 30 April 2010 on the National Centre for Research and
+Development;
+• The Regulation of the Minister of Science and Higher Education of 17
+September 2010 on the detailed mode of performance of tasks of the
+National Centre for Research and Development.Country Slovakia
+Funding organisation Slovak Academy of Sciences (SAS)
+Katarina BIBOVA
+National contact bibova@up.upsav.sk
+person Silvia KECEROVÁ
+kecerova@up.upsav.sk
+Funding commitment 240.000€
+Anticipated number of
+1
+fundable proposals
+Maximum/ Minimum
+funding per grant
+240.000€
+awarded to a clinical
+study partner
+SAS allows the 1st funding mechanism, which means, that only one
+organisation will be granted and this organisation will establish a
+Funding mechanism collaboration with other recruitment sites via subcontracting or a
+collaboration agreement.
+Only research Institutes of the Slovak Academy of Sciences are eligible
+Eligibility of partners organisations for funding by SAS (up to 100%). SAS can fund only Principal
+Investigator (PI), not a Coordinating Investigator in this call.
+Total eligible costs = Direct costs + Indirect costs (DC + IC)
+• Direct costs (DC): Personnel (max. 15% of DC for the Project Partner)
+• Consumables and Travel costs
+Eligibility of costs, types
+• Indirect costs (IC, Overheads): max. 20 % of DC.
+and their caps
+https://oms.sav.sk/wp-content/uploads/Financne-pravidla-na-udelovanie-
+grantov-SAV-na-medzinarodne-vyskumne-projekty-platne-na-vyzvy-
+zverejnene-od-1.12.2023.pdf
+Duration of the clinical
+48 months
+study
+If necessary, the possibility of a cost-neutral extension based on a
+Specific rules for
+request with justification and an agreement in the whole project
+potential extensions
+consortium.
+Submission of the
+proposal at the national No
+level
+Submission of the proposal at the national level will be required once the
+international evaluation has taken place and the ranking list has been
+endorsed by the Joint Call Steering Committee (CSC). The Slovak partner will
+Submission of other be informed about recommendation for funding by the project consortium
+information at the coordinator and invited by SAS to submit the national proposal form (MVTS
+national level form). The Presidium of SAS makes the final decision concerning the approval
+of funding (according to internal rules of SAS).
+Resolution of the SAS Presidency no. 936. C.
+Submission of financial
+and scientific reports at On annual basis (financial and scientific)
+the national levelStarting date of the Based on the agreement in the consortium in the consortium agreement
+clinical study (CA)
+133 Act of February 19, 2002 on the Slovak Academy of Sciences,
+Further guidance Principles of allocation of funds for the institutes of SAS to support projects
+in the field of international scientific cooperationCountry Spain
+Funding organisation Institute of Health Carlos III (ISCIII)
+Astrid Valencia Quiñónez / Sara García-Rodríguez
+National contact
+91 822 22 27 / 91 822 28 68
+person
+EffecTrial@isciii.es
+Funding commitment 3.000.000,00 € (pending of approval of Spanish State Budget)
+Anticipated number of
+3-4
+fundable proposals
+PEICTI 2024-2027 “Líneas Estratégicas de Investigación en
+National Programme
+Salud”
+Maximum funding from ISCIII per awarded Spanish project:
+• If a Spanish Partner requesting funding to the ISCIII IS the
+Coordinator (at international level) of the clinical study:
+Max. 1.000.000,00 € per project.
+• If a Spanish Partner requesting funding to the ISCIII IS NOT
+Maximum/ Minimum
+the Coordinator (at international level) of the clinical study:
+funding per grant
+Max. 750.000,00 € per project.
+awarded to a clinical
+study partner Overheads according to the national programme “Líneas
+Estratégicas de Investigación en Salud” 2025: 25%
+The level of funding will take into account the evaluation of the
+collaborative proposal, the scientific quality of the Spanish
+group, the added value of the international collaboration, and the
+financial resources available.
+Only ONE eligible partner (represented by one PI) can request
+funds to ISCIII per consortium.
+It can be a multicentric study but only with one beneficiary entity
+requesting funds to ISCIII. The beneficiary entity must be the
+Institution to which the PI belongs (according to the rules
+Funding mechanism established by “Líneas Estratégicas de Investigación en Salud”
+2025).
+This partner will have the opportunity to establish a collaboration
+agreement with other additional national recruiting sites and
+allocate a budget to the recruitment sites. These additional
+national recruiting sites need to be specified in the proposal.
+The involvement of Spanish primary health care centers in the
+Eligibility of partners
+clinical studies is encouraged if relevant for the clinical research.Eligible Institutions:
+- Accredited Health Research Institutes (Institutos de In-
+vestigación Sanitaria acreditados, IIS). Accredited ac-
+cording to the RD 279/2016 (These institutions may man-
+age research via a foundation regulated according to the
+Spanish Act 50/ 2002, of December 26th). See the list of
+IIS in this link.
+- Hospitals, primary health care or public health admin-
+istration of the Spanish National Health System (SNS).
+These institutions may manage research via a foundation
+regulated in accordance to the Spanish Act 50/2002, of
+December 26th (a copy of the foundation’s statutes may
+be submitted).
+- CIBER: Only one PI can be eligible by ISCIII per consor-
+tium, fulfilling that the team members applying to the call
+must be from at least two groups belonging to CIBER in
+two different home institutions and one of these two
+should be a hospital, primary health care or public health
+administration of the Spanish National Health System
+(SNS) or Accredited Health Research Institutes (Institutos
+de Investigación Sanitaria acreditados, IIS). Please con-
+tact CIBER (pai@ciberisciii.es) for more information re-
+lated to CIBER’s eligibility.
+- Public R&D Centres legally constituted on a mono-
+graphic basis and which are exclusively working in the
+field of the priority medical areas included in the call
+(cardiovascular diseases, metabolic disorders, nutrition
+and lifestyle-related diseases and non-communicable
+respiratory diseases).
+NOT eligible institutions:
+- Applicants not related with the National Health System
+from non-profit research organizations such Public Re-
+search Institutions (OPIs) as defined in article 47 of Law
+14/2011, of 1 June, in accordance with the provisions of
+Royal Decree 202/2021, of 30th March and other public
+R&D centers that are not monographic and exclusively
+working in the field of the priority medical areas of the call,
+private health entities and institutions and public and pri-
+vate universities, technological centres and other pri-
+vate non-profit institutions performing RDI activities in
+Spain.- Those declared by “Líneas Estratégicas de Investigación
+en Salud” 2025 as ineligible to receive funds by ISCIII.
+• Principal Investigators (PI) shall mandatory have PhD de-
+gree.
+• Principal Investigators (PI) can only participate in one
+project proposal per call.
+• Principal Investigators (PIs) belonging to an Accredited
+Health Research Institutes (IIS) could apply ONLY
+from the IIS as applicant Institution.
+• The Principal Investigator (PI) and all members of the re-
+search group must belong to the eligible institutions in
+the call.
+Eligibility of PI and team • For additional incompatibilities please review “Líneas Es-
+members tratégicas de Investigación en Salud” 2025.
+Excluded personnel as Principal Investigator (PI):
+• Those undergoing a postgraduate training in Health
+Specialization (MIR, EIR, FIR, QIR, BIR, PIR, RFIR)
+• Those undergoing research training (e.g. PhD students, or
+“Río Hortega” contracts).
+• Those undergoing postdoctoral training (e.g. “Sara Borrell” or
+“Juan de la Cierva” contracts).
+• Researchers contracted by a RICORs and platforms funded
+by ISCIII.
+- In case of a Spanish group coordinating at international
+level the clinical trial and applying funding to ISCIII, it must
+involve a member from their scientific node of the Spanish
+Clinical Trials Network (SCReN) or if it does not exist, a
+member from the personnel of their Clinical Research
+Specific requirements Supporting Platform of their institutions (UIC).
+for clinical studies
+- In case of a Spanish group not coordinating at
+international level the clinical trial and applying funding
+to ISCIII, it is considered necessary and recommended to
+involve a member from their scientific node of the Spanish
+Clinical Trials Network (SCReN) or if it does not exist, a
+member from the personnel of their Clinical Research
+Supporting Platform of their institutions (UIC).• Personnel costs:
+- Personnel costs will be eligible for contracts with the
+needed professional category (superior technician, BSc
+(grado), MSc (máster), PhD (doctor) for the project
+development accordingly to the published salary tables in
+ISCIII’s webpage / “Líneas Estratégicas de Investigación en
+Salud” 2025. Personnel cost will precisely adhere to the
+salary tables, no other amount will be considered, either
+upper nor lower.
+- Contracts for PhD students will be done in the framework of
+National Subprogramme for Training (scholarships are not
+eligible).
+- Personnel costs will NOT be eligible when they correspond
+to civil servants or the equivalent personnel (as specified in
+the art. 3.4 of “Líneas Estratégicas de Investigación en
+Salud” 2025) either employed by the beneficiary entities or
+belonging to the research team.
+- The hiring of permanent personnel already belonging to the
+Eligibility of costs, beneficiary entity or members of the research team will not
+types and their caps be considered eligible expenses, unless that applies the
+exception stated in “Líneas Estratégicas de Investigación
+en Salud” 2025 for eligible personnel costs, for contracts
+framed under the Law 17/2022, 5 September, article 23bis
+in the specified Entities of Public sector.
+• Other eligible costs: Current costs, small scientific
+equipment, disposable materials, travelling expenses,
+complementary expenses (use of central and general
+research support services of the beneficiary entity),
+publication and dissemination of results, costs of external
+service providers directly involved in the development of the
+clinical study, specific clinical studies related costs (e.g.
+administrative fees for civil responsibility insurance, taxes for
+regulatory approvals, clinical study monitoring costs) and
+other costs as included in “Líneas Estratégicas de
+Investigación en Salud” 2025, that can be justified as
+necessary to carry out the proposed activities.
+• Overheads, according to “Líneas Estratégicas de
+Investigación en Salud” 2025 (25%).
+• Double funding of the same concept is not allowed.
+Duration of the clinical
+The initial duration of the clinical studies will be 48 months.
+study
+Potential extensions could be provided according to the national
+Specific rules for
+Regulation and “Líneas Estratégicas de Investigación en Salud”
+potential extensions
+2025.National phase: national applications will be required by ISCIII
+to the full proposal applicants according to the timeline
+established in “Líneas Estratégicas de Investigación en Salud”
+2025.
+Due to administrative and legal regulations, the Institute of
+Health Carlos III establishes the 31st October 2025 as the
+national deadline for the decision on fundable project consortia
+which includes Spanish partners to be funded by ISCIII, which
+must present their national application in the period stated in
+“Líneas Estratégicas de Investigación en Salud” 2025.
+Any concerned applicant in a proposal for which no final
+decision has been made by the deadline of 31/10/2025, could
+Submission of the be declared not fundable by ISCIII.
+proposal at the national
+level Submission of financial and scientific reports as specified by
+the call text at international level and additionally at the national
+level as specified by ISCIII’s instructions (please check ISCIII’s
+webpage).
+Additional clause regarding the available grant: After the
+evaluation process, depending on its budgetary availability, of
+the requested funding of the selected projects, and giving
+priority to projects requesting funding from ISCIII, ISCIII and
+other Spanish funding agencies may exchange applicants with
+each other in order to optimize the available funds, provided
+that the respective eligibility rules are met. Such applicants
+must submit their application to the national phase of ISCIII, in
+time and form.
+As specified by “Líneas Estratégicas de Investigación en Salud”
+2025.
+Submission of other In order to expedite the eligibility check process, it is mandatory
+information at the that all the applicants submit the CVA-ISCIII of the PI.
+national level
+This document shall be submitted by the PI by electronic email
+before the pre-proposal submission deadline to:
+EffecTrial@isciii.es
+Submission of financial
+As specified by ISCIII’s instructions (please check ISCIII’s
+and scientific reports at
+webpage).
+the national level
+The starting date of the grant for the clinical study will be
+Starting date of the
+established in the national grant resolution (most probably will
+clinical study
+be beginning of 2026).
+Requirements on • Researchers funded by ISCIII must make public the human
+data and genomic data, as well as relevant data (phenotype and
+repositories exposition data) generated inside the funded project and willuse open access repositories. Researchers must also make
+public all the necessary information for the interpretation of
+these genomic data, including lab protocols, data instruments
+survey tools. Regarding genomic data it is understood:
+association of complete genomes (GWAS), matrixes of
+polymorphism of a single nucleotide (SNP) and sequence of
+genome, and transcriptomic, metagenomic, epigenomic and
+gene expression data. The researchers whose projects are
+funded by ISCIII are recommended to store their scientific data
+at the "ELIXIR Core Data Resources", or if non-European
+repositories or data bases are to be used they must be certified
+by ELIXIR or the US National Center for Biotechnology
+Information (NCBI).
+• ISCIII may not fund any project that may require a repository
+and/or a data base without a plan ensuring sustainability and
+decommissioning after the end of funding
+Researchers funded by ISCIII are encouraged to make use of the
+Use of Research resources available through the European Research
+infrastructures Infrastructures and the Spanish Platforms funded by ISCIII for
+and platforms supporting the biomedical and health R&I.
+Any publication, data base, product or event protected with IPR
+or not, resulting from the granted project must acknowledge
+“Award no. XX by Instituto de Salud Carlos III (ISCIII) through
+“Líneas Estratégicas de Investigación en Salud” 2025 and within
+Acknowledgements the ERA4Health Partnership” even after the end of the project,
+including other specific acknowledgments that could be
+requested by ISCIII to the granted project. For more information
+please see ISCIII’s ROR here.Country Spain
+Funding organisation Andalusian Regional Ministry of Health and Consumer Affairs (CSCJA)
+Alicia Milano Curto Tel: +34 955040450
+National contact person
+ep.fps@juntadeandalucia.es
+Funding commitment 250.000€
+Anticipated number of
+1-2
+fundable proposals
+Maximum/ Minimum
+funding per grant
+125.000€, 250.000€ if coordinator (including 21% indirect costs)
+awarded to a clinical
+study partner
+All participating organisations will be granted and should be part of the
+Funding mechanism clinical study consortium. A maximum of 3 partners are authorised.
+Eligible organisation must be Andalusian Non-profit entities registered as
+Agents of the Andalusian Knowledge System (Registro de Agentes Andaluces
+del Conocimiento) with research and innovation activity in Biomedicine and
+Health Sciences, ie: Research managing foundations of the Andalusian Public
+Health System.
+Eligibility criteria established in Orden de 10 de agosto de 2023 de la
+Consejería de Salud y Consumo de la Junta de Andalucía.
+• Principal investigators must be linked through a civil servant, statutory or
+labour relationship with the applicant or performing centre. For Health
+Research Institutes (Institutos de Investigación Sanitaria, IIS), the link may
+Eligibility of partners be with any of the public or private law entities that are part of the IIS
+provided that the entity meets all the specific requirements determined in
+each action, and, in any case, be personnel assigned to the IIS.
+• More than one partner from Andalusia may participate in the same project
+• A PI can only participate in one application per call.
+• For receiving regional funding, the final funding decision issued by the
+corresponding program's decision-making body must be accredited.
+• The duration of the projects shall be determined by the corresponding JTC.
+In any case, this period shall be stated in the award resolution.
+a. Goods and services: consumables, bibliographic material, equipment
+rentals, software licenses and external services.
+b. Personnel costs: specifically hired for the project, including salaries,
+employer Social Security contributions, legally established compensation
+Eligibility of costs, types
+and other duly justified expenses derived.
+and their caps
+c. Travel, accommodation and subsistence according to the maximum
+amounts of compensation for service established in Decree 54/1989, of
+March 21, on compensation for service of the Junta de Andalucía, exclusively
+for people who are part of the research group or hired under the fundedproject. Exceptionally, any expense outside these amounts, or for people
+other than those listed before, must be authorised by the granting body.
+d. Registration fees for congresses or conferences for the presentation and
+dissemination of the results. Publication costs
+e. Other expenses duly justified and necessary for carrying out the project.
+f. Indirect costs 21%
+g. Subcontracting costs: cannot exceed 50% of the funding and need prior
+authorization from the granting body. Nor Scientific aspects nor the
+management of the project should be subcontracted.
+The following are not considered eligible expenses
+- Equipment or Equipment repair and maintenance
+- Items or amounts that, after analysis, are not considered justified
+- Amounts paid to persons participating in the project, except for expenses
+necessary for special attention to patients that involve compensation for
+their participation in the project not derived from an employment
+relationship.
+The sum of the funding or income received for the same purpose may in no
+case exceed the cost of the funded activity.
+Duration of the clinical The duration of the projects shall be determined by the corresponding
+study Call. In any case, this period shall be stated in the award resolution
+Specific rules for The maximum extension is limited to half of the initial duration of the
+potential extensions project.
+• The deadline for the submission of regional applications will be established
+in the regional call and will be informed through the website of the Regional
+Submission of the Ministry of Health and Consumer Affairs.
+proposal at the national
+level • Regional applications must be submitted to the General Secretariat of
+Public Health and R&D&I in Health exclusively by telematic means (please
+see section 10.c Orden de 10 de agosto de 2023)
+• Beneficiaries must submit financial and scientific reports to Consejería de
+Salud y Consumo de la Junta de Andalucía (please see section 22.b) 3º and
+25.f) 1º Orden de 10 de agosto de 2023)
+Submission of other
+information at the • Additionally, for projects involving invasive procedures on human beings,
+national level their biological material and/or clinical data, a favourable report or a
+document accrediting the request for its evaluation by the Biomedical
+Research Ethics Committee must be provided.The documents to be provided are detailed in section 14 of the Orden de 10
+de agosto de 2023.
+Submission of financial Beneficiaries must submit financial and scientific reports to Consejería
+and scientific reports at de Salud y Consumo de la Junta de Andalucía (please see section 22.b) 3º
+the national level and 25.f) 1º Orden de 10 de agosto de 2023)
+Starting date of the
+The starting date will be stated in the award resolution.
+clinical study
+The projects must respect the fundamental principles established in national
+and international declarations, protocols and conventions on research
+ethics, as well as respect the requirements established in national and
+regional legislation in the field of biomedical research, development and
+innovation, personal data protection and bioethics.
+Further guidance
+When the results are not susceptible to protection of industrial or
+intellectual property rights, the scientific publications resulting from the
+funding granted must be made available in open access, in accordance with
+article 37 of Law 14/2011, of June 1.Joint Transnational Call Investigator-Initiated Clinical Studies (JTC
+IICS) 2025
+“Fostering Pragmatic Comparative-Effectiveness Trials in Non-communicable
+Diseases”
+(EffecTrial)
+Guideline for applicants
+DEADLINES
+January 28th, 2025 (16:00, CET) - SUBMISSION OF PRE-PROPOSALS
+June 17th, 2025 (16:00, CEST) - SUBMISSION OF INVITED FULL PROPOSALS
+Link to the electronic proposal submission:
+https://ptoutline.eu/app/EffecTrial
+The submission system will be open by November 28th, 2024
+For further information, please visit us on the website: https://era4health.eu/
+or contact the Joint Call Secretariat (JCS):
+Institute of Health Carlos III, Spain
+Astrid Valencia Quiñónez / Sara García-Rodríguez
++34 918 222 227 / +34 918 222 868
+EffecTrial@isciii.esHistory of modifications:
+27/11/2024 :
+- Updated information for HRB’s eligibility criteria regarding the Maximum/
+Minimum funding per grant awarded to a clinical study partner.
+- Updated information for FR-MOH’s eligibility criteria.
+- Updated link to ERA4Health Deliverable for: “Organizations supporting
+multicountry Investigator-initiated clinical studies”.
+- Inclusion of the link to the electronic proposal submission (PT-Outline).
+11/12/2024 :
+- Updated information for FR-MOH’s eligibility criteria.
+2Content
+General ....................................................................................................................................... 4
+Eligibility ...................................................................................................................................... 4
+Composition of the consortium .................................................................................................. 6
+Example of consortia: ............................................................................................................. 9
+Smallest consortia: .......................................................................................................................... 9
+Larger consortia: .............................................................................................................................. 9
+Funding mechanism .................................................................................................................. 10
+Example of a requested budget for a consortium: .............................................................. 16
+Duration and start date of the IICS ........................................................................................... 17
+APPENDIX RESOURCES, USEFUL LINKS ..................................................................................... 18
+1. Study design ..................................................................................................................... 18
+2. Patient engagement ......................................................................................................... 19
+ERA4Health Responsible Research and Innovation (RRI) Guidelines ........................................ 19
+3General
+This call uses a two-step submission procedure (pre-proposals and full proposals), including a rebuttal
+stage and an online interview.
+All proposals must be written in English and submitted exclusively by using the PT-Outline electronic
+submission system, and this before January 28th, 2025 for the pre-proposals and before the June 17th,
+2025 for the full proposals.
+It is recommended to carefully read the call text and the guidelines for applicants prior to starting an
+application.
+Eligibility
+Before being included in a consortium, all Principal Investigators should self-assure that her/his
+organisation is eligible for funding by one of the funding organisations participating in the call. All
+funding rules from a specific funding organisation are available in the Annex I of the call text. Here we
+will present the Eligible Partners for the different funding organisations to have an overview of country
+for a specific rule.
+The below table shows the eligibility of partners for each funding organization participating to the call:
+Country Funding Eligibility of Partners
+Organisation
+Austria FWF The proposed research must be carried out in Austria under the
+auspices of the Austrian lead research institution The principal
+investigator must be employed at the Austrian research institution
+applying for funding at the time the project is scheduled to begin.
+All Austrian research institutions are eligible to apply if they are
+registered in the FWF's research institution portal. Applications are
+to be submitted by the research institution where the project is to be
+carried out. Neither a specific academic degree nor Austrian
+citizenship is required to act as principal investigator. The principal
+investigator must, however, have appropriate scientific
+qualifications (see
+section 1.4) and sufficient time resources to carry out the proposed
+research. The research institution must provide the necessary
+infrastructure.
+Please refer to the general FWF Application Guidelines and the
+respective Application and project number limit
+Czech Republic MZCR /AZVCR Research Organisations, Enterprises. All eligibility rules and
+criteria can be found on the Czech Health Research website (AZV
+ČR – Agentura pro zdravotnický výzkum České republiky
+(azvcr.cz). It is recommended to contact the responsible person at
+the Czech Health Research Council (prior to submission regarding
+the eligibility criteria).
+France Fr-MoH Eligible institutions: French ministry of Health (Fr MoH) funds
+French healthcare institutions defined by public health regulation
+articles L.611-1 and further, L.6141-1 and further, L6161-1 and
+further (établissements de santé), L6133-1 to 8 (groupements de
+coopération sanitaire), L6323-3 (maisons de santé) and L6323-1
+(centres de santé) of the Code de la Santé Publique.
+4A partner must be composed of a physical leader and of a health
+care institution, which manages the financing.
+The physical leader must be contractually linked to a healthcare
+institution and get its approval to be part of the project. For example,
+leaders can be private health professionals if they have a binding
+agreement with a French healthcare institution.
+Minimum funding per awarded to a partner: 10 000 €
+Fr MoH will avoid double funding and will not finance projects or
+parts of projects that have been funded through other calls.
+Germany BMBF/DLR Eligible applicants are researchers or research groups from German
+universities, German university hospitals and German non-
+university research institutes. Enterprises in the commercial sector
+are only eligible to apply in exceptional cases if they are also a
+healthcare organisation. For specific conditions see also link to
+German version of the call below.
+Only consortia whose research question includes at least the use of
+one nutrition and/or lifestyle interventions are eligible for funding
+from BMBF/DLR-PT. The comparison of e.g. two pharmacological
+interventions cannot be funded by BMBF/DLR-PT. Please note that
+dietary supplements in pharmacological doses are not considered a
+nutrition intervention.
+Prior the submitting of the proposal, it is highly recommended to
+get in touch with the national contact persons to clarify the specific
+requirements of this call.
+Ireland HRB Lead Applicants (Principal Investigators) based in Ireland must be
+from a recognised HRB Host Institution in the Republic of Ireland
+(Policy on Approval of HRB Host Institutions).
+Partners classed as ‘Enterprise’ cannot be in receipt of HRB
+funding.
+Please see HRB’s dedicated scheme page on HRB’s funding page
+for Guidance and FAQ specific to eligibility for applicants based in
+Ireland.
+Israel CSO-MOH Researchers will only be able to participate as partners in consortia.
+Sponsors will be considered and approved only in exceptional cases
+where funding is secured from other sources.
+Position in a university, research center or hospital. Research
+authority must approve position prior to submission.
+PI should hold a Ph.D., M.D., D.M.D., D. Sc or equivalent degree
+and employed by an eligible institution. Research will not be funded
+simultaneously by CSO-MOH on more than one grant (Era-NET or
+national). Researchers can not apply for more than one grant from
+any ERA-NET funded by CSO-MOH or submit more than one
+proposal for any programme.
+Italy IT MOH Only IRCCS (Istituti di Ricovero e Cura a Carattere Scientifico)
+researchers are eligible to apply. (Further details in Annex I)
+Latvia LCS Only the following legal persons are eligible:
+1) Research institutions registered in the Latvian Registry of
+Scientific Institutions, (e.g. Research Institutes, Universities)
+And must have the status of Research and knowledge dissemination
+organization (Regulation EC 651/2014)
+2) Business enterprises entered into the Latvian Commercial
+registry as companies, assumed they are eligible to do the specific
+5research and have specific capacity and resources to do the research
+in Latvia and have their main activity in Latvia.
+(Further details in Annex I)
+Lithuania LMT Eligible for funding institutions are Lithuanian research and higher
+education institutions that are included in the Register of Education
+and Research institutions, public healthcare institutions, university
+hospitals. (Further details in Annex I)
+Norway RCN Principal investigators must come from an approved Norwegian
+research organization.
+User/patient organizations may participate under the umbrella of the
+principal investigator (with a collaboration agreement or
+subcontracting).
+Poland NCBR Research organization (research and knowledge-dissemination
+organisations). Entities must be established as a legal person and
+must conduct its business, R&D or any other activity on the territory
+of the Republic of Poland, confirmed by an entry into the relevant
+register. (Further details in Annex I)
+Slovakia SAS Only research Institutes of the Slovak Academy of Sciences are
+eligible organisations for funding by SAS (up to 100%). SAS can
+fund only Principal Investigator (PI), not a Coordinating
+Investigator in this call.
+Spain ISCIII Eligible Institutions :
+- Accredited Health Research Institutes
+- Hospitals, primary health care or public health administration of
+the Spanish National Health System (SNS).
+- CIBER
+- Monographic public R&D Centres, exclusively working in the
+field of the priority medical areas included in the call
+Principal Investigators (PI) shall mandatory have PhD degree.
+Principal Investigators (PI) can only participate in one project
+proposal per call.
+(Further details about eligibility of partners and eligibility of PIs in
+Annex I)
+Spain CSCJA Eligible organisation must be Andalusian Non-profit entities
+registered as Agents of the Andalusian Knowledge System with
+research and innovation activity in Biomedicine and Health
+Sciences. (Further details and eligibility of PIs in Annex I)
+Composition of the consortium
+Each consortium should have a coordinator, and he/she will be the unique contact point of the
+ERA4Health Joint Call Secretariat during the application process.
+The maximum size of the consortium is detailed in the Call Text and examples are given below.
+The consortium should include only one main partner/organisation eligible by each national/regional
+funding organisation. Then this partner/organisation will coordinate additional recruiting sites at
+national/regional level via subcontracting or collaboration agreements (see table for the possibility
+offered by each funding organisation). These additional recruiting sites do not receive funding directly
+from the funding organization, but from the main partner. In case of issues regarding the
+6patient/participant recruitment during the runtime of the clinical study, these additional recruiting
+sites could be substituted by different ones if it is possible under the national/regional regulations of
+the respective national funding agency for that specific partner. This could allow flexibility in
+opening/closing the recruitment sites during the clinical study.
+An exception exists for the following funder(s): CSO-MOH, IT-MOH, LCS and CSCJA. For FWF both
+options are possible.
+In this case, the consortium can include a maximum of 3 national/regional partners eligible by each of
+those funding organisation(s) (Check Annex I for specific national/regional regulation). The funding
+organisations will fund the 2 or max. 3 national/regional partners directly and there will be no
+subcontracting or collaboration agreements between them.
+The below table shows the requirement by each funding organization participating to the call:
+Country Funding Funds one partner or If one partner is funded this type of
+organisation several partners per agreement/contract need to be
+consortium established
+Austria FWF For the FWF, both options
+are theoretically possible:
+- All participating
+organisations will be granted
+and should be part of the
+clinical study consortium. A
+maximum of 3 partners are
+authorised.
+- Or only one organisation
+will be granted and this
+organisation will establish a
+collaboration with other
+recruitment sites via
+subcontracting or a
+collaboration agreement.
+Please contact the FWF
+office for a detailed
+clarification which approach
+would be the most
+appropriate for your
+proposal.
+Czech MZCR /AZVCR Only one organisation will be This organisation will establish a
+Republic granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement
+France Fr-MoH Only one organisation will be This organisation will establish a
+granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement.
+Germany BMBF/DLR Only one German partner per This organisation will establish a
+proposal will be granted collaboration with other German
+recruitment sites via case payments based
+on collaboration agreements.
+Ireland HRB HRB will contract with a Additional national recruiting sites
+single Host Institution (Lead (associate partners) are permitted to join
+Applicant). the consortium. The Lead Applicant will
+7be responsible for appropriate distribution
+of funds to the associated partner(s) via
+collaboration and/or consortium
+agreements.
+Israel CSO-MOH All participating
+organisations will be granted
+and should be part of the
+clinical study consortium. A
+maximum of 3 partners are
+authorised.
+Italy IT MOH Simultaneous PI
+participation in different
+2025 JTCs funded by the
+Ministry of Health is not
+allowed.
+No more than two Italian PIs
+(Principal Investigators) are
+eligible to apply for the
+same project.
+Italian PAOs can be funded
+as a sub-contractor of an
+IRCCS if they fulfil the
+eligibility criteria of the EC.
+Latvia LCS Maximum 2 funded Latvian
+partners per
+proposal allowed, they must
+be fully independent on legal,
+financial and personnel basis.
+Lithuania LMT Only one organisation will be This organisation will establish a
+granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement.
+Norway RCN Only one organisation will be This organisation will establish a
+granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement.
+Poland NCBR Only one organisation will be This organisation will establish a
+granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement.
+Slovakia SAS Only one organisation will be This organisation will establish a
+granted collaboration with other recruitment sites
+via subcontracting or a collaboration
+agreement.
+Spain ISCIII Only one eligible partner will Collaboration agreements with other
+be granted additional national recruiting sites
+Spain CSCJA All participating
+organisations will be granted
+and should be part of the
+clinical study consortium. A
+maximum of 3 partners are
+authorised.
+8The consortium can have a maximum of 3 self-funded collaborators. Those collaborators can be patient
+organisations, enterprises or other entities with different roles, e.g. drug provider, an important
+stakeholder to implement the outcomes of the clinical study at its term.
+Example of consortia:
+Smallest consortia:
+Consortium 1: the funding organisations involved are funding each one a single partner, who will
+establish collaboration agreements with additional national recruitment sites.
+Partner A from country 1 (Supported by additional recruitment sites)
+Partner B from country 2 (Supported by additional recruitment sites)
+Partner C from country 3 (Supported by additional recruitment sites)
+Consortium 2: in this case one of the funding organisation should grant several partners within the
+same consortium:
+Partner A from country 1 (Supported by additional recruitment sites)
+Partner B from country 2 (Supported by additional recruitment sites)
+Partner C from country 3 (no possibility to be supported by additional recruitment sites, since the
+funding organization does not allow the establishment of a collaboration agreement with other
+national recruitment sites, additional recruiting sites will be added as additional partner for this
+country)
+Partner D from country 3 (no possibility to be supported by additional recruitment sites, since the
+funding organization does not allow the establishment of a collaboration agreement with other
+national recruitment sites, additional recruiting sites will be added as additional partner for this
+country)
+Partner E from country 3 (no possibility to be supported by additional recruitment sites, since the
+funding organization does not allow the establishment of a collaboration agreement with other
+national recruitment sites, additional recruiting sites will be added as additional partner for this
+country)
+Larger consortia:
+Consortium 1: the funding organisations involved are funding each one a single partner, who will
+establish collaboration agreements with additional national recruitment sites.
+Partner A from country 1 (Supported by additional recruitment sites)
+Partner B from country 2 (Supported by additional recruitment sites)
+Partner C from country 3 (Supported by additional recruitment sites)
+Partner D from funder X in country 4 (Supported by additional recruitment sites)
+Partner E from funder Z in country 4 (Supported by additional recruitment sites), here the partner D
+and partner E are eligible by different funding organisations from country 4; it can be regional and
+national funding organisations.
+Partner F from country 5 (Supported by additional recruitment sites)
+9Partner G from country 6 (Supported by additional recruitment sites), belonging to the list of countries
+that allow an additional partner
+Partner H from country 7 (Supported by additional recruitment sites), belonging to the list of countries
+that allow an additional partner
+Collaborator 1
+Collaborator 2
+Collaborator 3
+Consortium 2: in this case, one of the funding organisation should grant several partners within the
+same consortium:
+Partner A from country 1 (Supported by additional recruitment sites)
+Partner B from country 2 (Supported by additional recruitment sites)
+Partner C from country 3 (Supported by additional recruitment sites)
+Partner D from country 4
+Partner E from country 4
+Partner F from country 4 (Since the funding organisation of country 4 does not allow the establishment
+of collaboration agreements with other national recruiting sites, there can be 3 partners from country
+4: D, E, and F)
+Partner G from funder X in country 5 (Supported by additional recruitment sites)
+Partner H from funder Z in country 5 (Supported by additional recruitment sites), here the partner G
+and partner H are eligible by different funding organisations from country 5; it can be a regional and a
+national funding organisations
+Partner I from country 6 (Supported by additional recruitment sites), belonging to the list of countries
+that allow an additional partner
+Partner J from country 7 (Supported by additional recruitment sites), belonging to the list of countries
+that allow an additional partner
+Collaborator 1
+Collaborator 2
+Collaborator 3
+These are examples of potential large consortia, but the consortia could be even larger. In the last
+example, in case that funders from country 1, 2 and 3 do not allow the establishment of collaboration
+agreements with other national recruiting sites, there could exist up to 3 maximum partners from each
+of those countries (1, 2 and 3) in the same consortia.
+Funding mechanism
+This funding mechanism is a pilot scheme and demands special attention from the applicants.
+The clinical study tasks are composed of two different types of costs:
+• Investigational costs covered by each country/region: site costs (personnel, clinical procedure,
+site services, patient/participant renumeration), country management sites (site selection and
+coordination at the country level), and clinical study management costs at national or regional
+level (e.g. monitoring and insurance).
+10The investigational costs should be requested to the national/regional funding organisations
+by only one eligible partner or a maximum of 3 partners in the same region/country according
+to the mode of funding of the specific funding organisation (see section “composition of the
+consortium” above). The requested funds and the eligible costs are the following for the
+funding organisations participating to the call (see below table).
+Country Funding Maximum/ Eligibility of costs, types and their caps
+organisation Minimum funding
+per grant awarded
+to a clinical study
+partner
+Austria FWF Austrian Project-specific costs are eligible for funding.
+participations are These include personnel and non-personnel
+expected not to costs that are needed to carry out the project
+exceed the average and that are not included in the infrastructure
+range of an FWF provided by the research institution. The FWF
+stand-alone Project does not finance the infrastructure or basic
+(typically € 300.000 equipment of research institutions.
+to €450.000 ). The current FWF Personnel Costs and Salary
+Rates scale indicates the salaries that may be
+requested. The FWF grants an annual salary
+adjustment to compensate for inflation, which
+is applied automatically to all contracts of
+employment in Principal Investigator projects
+that are valid when the adjustment takes effect.
+Please refer to the FWF Application Guidelines
+Czech MZCR /AZVCR The maximum All eligibility of costs, types and their caps can
+Republic funding per grant be found on the Czech Health Research website
+awarded to a clinical (AZV ČR – Agentura pro zdravotnický
+study partner is výzkum České republiky (azvcr.cz)). It is
+250,000 EUR. recommended to contact the responsible
+person at the Czech Health Research Council
+prior to submission regarding the eligibility
+criteria.
+France Fr-MoH 700.000 € Maximum Funds are reserved for the exclusive use of
+French healthcare institutions involved in the
+project. Transfer for part of these funds to other
+French structures, organisations or physical or
+legal person may be allowed provided they are
+not eligible for funding by another financing
+body of the partnership. The healthcare
+institution would also have to demonstrate that
+they do not have the necessary skills. If so,
+public tenders rules including call of bides
+applies.
+Investment expenses giving rise to depreciation
+are not eligible.
+Management costs up to 10% of personal
+expenses are eligible.
+Germany BMBF/DLR Up to 350.000 € for The following costs are eligible for funding
+regular German (details see German version of the call):
+partners; up to
+500.000 € for German
+11partners in the role of - Personnel (e.g. project management, clinical
+the sponsor (overhead project management, coordination and quality
+costs included). assurance);
+- case payments;
+- patient and target group involvement;
+- materials;
+- Fees and Insurance;
+- Travel & networking costs;
+- Communication, Dissemination and
+Publication costs;
+- Overhead costs (“Projektpauschale”).
+Overheads are eligible according to standard
+BMBF regulations.
+Funding rates for universities, university
+hospitals and non-university research institutes
+can be up to 100% of their costs.
+Ireland HRB Up to €1,000,000 Funding available is inclusive of overheads and
+including overhead pension contributions
+contribution of 30% • Salary related costs
+of Total Direct • Direct running costs, including patient-
+Modified Costs related costs and costs to support
+(TDMC). interventional studies
+• Patient and Public Involvement (PPI) costs
+• Small equipment costs (€10,000)
+• Travel
+• FAIR data management costs
+• Dissemination and knowledge exchange
+costs
+For more information please see HRB’s
+guidance on the dedicated scheme page on
+HRB’s funding page.
+Israel CSO-MOH Up to 160,000 € Materials and consumables; Travel and hosting
+(up to 5%); No salaries for applicants; No
+heavy equipment,
+Institutional overhead 10%.
+Italy IT MOH Direct Costs:
+Max. € 650.000 per •Personnel (only temporary contracts or
+project permanent contracts for the amount of hours
+dedicated to the project, < 60%);
+•Consumables/Supplies;
+•Animals/Model costs;
+•Equipment (only on leasing or rent);
+•Travel ( < 30%);
+•Dissemination activities ( < 1%);
+•Publication costs: < 2%; open access < 5%;
+•Patients recruitment costs;
+•IT Services and Data Bases;
+•Coordination costs
+Indirect Costs:
+• Overhead ( < 10%, included in the total)
+(Further details in Annex I)
+Latvia LCS Maximum funding for • Personnel costs incl. taxes;
+a funded partner is • Consumables;
+100.000 EUR per • Subcontracts (up to 25% of direct costs),
+year needs detailed justification, includes all
+external services, project core activities cannot
+be subcontracted;
+• Equipment (only depreciation costs during
+project directly attributable to project tasks);
+12• Replaceable and fully consumable during
+project elements of equipment (e.g.
+electrodes);
+• Travels (according to travel plan);
+Indirect costs (up to 25% of direct costs
+excluding subcontracting).
+For pragmatic clinical trials the healthcare
+costs must be carried by the national healthcare
+system. LCS funding is not allowed to create
+additional demand in the healthcare system,
+nor to cover standard healthcare costs, nor to
+reduce waiting lines. The funding for LCS is
+for the research going outside of the normal
+healthcare services provided in the case of a
+specific ailment.
+LCS is not funding postmarket activities. LCS
+is not funding any activity beyond
+experimental development.
+(Further details in Annex I)
+Lithuania LMT Maximum 500.000€ Investigational costs are eligible: site costs
+per project (personnel, clinical procedure, site services,
+patient/participant renumeration), country
+management sites (site selection and
+coordination at the country level), and clinical
+study management costs at national or regional
+level (e.g. monitoring and insurance).
+Additional cross-cutting trial management
+costs can also be eligible if some of the
+sponsor’s tasks are delegated to Lithuanian
+team.
+Only costs generated during the lifetime of the
+project, related to the project, are eligible.
+Eligible cost types: personnel, consumables,
+subcontracting, equipment and instruments,
+other direct costs, costs for dissemination of
+results, data handling and analysis, overheads
+(up to 20 % from direct costs).
+(Further details in Annex I)
+Norway RCN Within a single Payroll expenses, consumables, operating
+project, the maximum expenses, network measures.
+funding can be up to
+300 000 EUR. If the PhD fellowships are not eligible within the
+participant has a RCN funding. For postdoctoral fellowships,
+coordinator role, the duration of the support is limited to a minimum
+maximum funding of three years and a maximum of four years.
+can be up to 450 000 The overhead cost is included in the rates for
+EUR. personnel.
+For funded projects, the contractual budget will
+be in NOK using the exchange rate (European
+Central Bank) from the pre-proposal deadline.
+Poland NCBR Maximum 500 000 € 1. personnel costs
+2. consumables
+3. equipment
+4. travel
+5. other direct costs
+6. subcontracting - this cost type cannot
+account for more than 70% of all eligible costs
+of a project
+137. additional overheads incurred indirectly as a
+result of the research project; that costs are
+exactly 25% of eligible project costs (Further
+details in Annex I)
+Slovakia SAS Max. 240.000€ Total eligible costs = Direct costs + Indirect
+costs (DC + IC)
+• Direct costs (DC): Personnel (max. 15%
+of DC for the Project Partner)
+• Consumables and Travel costs
+• Indirect costs (IC, Overheads): max. 20
+% of DC.
+https://oms.sav.sk/wp-
+content/uploads/Financne-pravidla-na-
+udelovanie-grantov-SAV-na-medzinarodne-
+vyskumne-projekty-platne-na-vyzvy-
+zverejnene-od-1.12.2023.pdf
+Spain ISCIII - Max.
+1.000.000,00 € • Personnel costs (see Annex I for details).
+per project (if • Other eligible costs: Current costs, small
+coordinator) scientific equipment, disposable materials,
+- Max. 750.000,00 € travelling expenses, complementary expenses
+per project (if not (use of central and general research support
+coordinator) services of the beneficiary entity), publication
+(Including and dissemination of results, costs of external
+overheads) service providers directly involved in the
+development of the clinical study, specific
+clinical studies related costs (e.g.
+administrative fees for civil responsibility
+insurance, taxes for regulatory approvals,
+clinical study monitoring costs) and other
+costs as included in “Líneas Estratégicas de
+Investigación en Salud” 2025, that can be
+justified as necessary to carry out the
+proposed activities.
+• Overheads, according to “Líneas Estratégicas
+de Investigación en Salud” 2025 (25%).
+• Double funding of the same concept is not
+allowed.
+(Further details in Annex I)
+Spain CSCJA -Max 125.000€ (if a. Goods and services.
+not coordinator) b. Personnel costs
+-Max. 250.000€ if c.Travel, accommodation and subsistence
+coordinator d. Registration fees for congresses or
+(including 21% conferences for the presentation and
+indirect costs) dissemination of the results. Publication costs
+e.Other expenses duly justified and necessary
+for carrying out the project.
+f. Indirect costs 21%
+g. Subcontracting costs
+(Further details in Annex I)
+Each project partner must oversee the budgeting of their planned tasks.
+• Cross-cutting trial management costs for the whole consortium: Intervention/study drug, trial
+authorization, data collection and management, statistical analysis, safety, study design and
+protocol development, and the overall management activities.
+• To facilitate the multinational trial management tasks, ERA4Health offers trials management
+services performed by ECRIN (or by an entity directly subcontracted by ECRIN, in the case that
+ECRIN cannot provide these services). Only if this option is used, a top-up budget, up to 15%
+14of the budget requested to national/regional funders, will be directly allocated to ECRIN to
+perform cross-cutting trial management activities.
+• The management costs associated to these cross-cutting activities should indeed be requested
+in a different way so that the whole consortium can benefit from these funds, since those costs
+concern all the partners involved. In addition, this system will reduce the administrative
+burden for the coordinator. To benefit from this additional budget (up to 15%), the consortium
+should indicate in the proposal template that they wish that ECRIN (or an entity subcontracted
+by ECRIN) acts as service provider for those cross-cutting activities. If this additional budget is
+requested in the proposal, the consortium shall closely collaborate with ECRIN during the full
+proposal phase to define the details of the service provision (either directly performed by
+ECRIN or by an entity subcontracted by ECRIN, in the case that ECRIN cannot provide these
+services).
+Figure 1: funding mechanisms. Plain arrows show the transfer of money and the two parallel arrows
+the exchange of information. The service provider costs of the crosscutting trial management activities
+performed by ECRIN will be requested as described in the example below.
+15Example of a requested budget for a consortium:
+In this example, the partners from three different countries composed the consortium. The funders of
+two countries are funding one unique partners whereas the funder of the third country will fund
+multiple partners.
+The requested amount for each partner is the following one:
+Partners Total requested budget € Total cost of the project €
+Partner A (Coordinator) requested 1 201 534 1 400 364
+funding to country 1
+Partner B requested funding to country 645 945 645 945
+2
+Partner C requested funding to country 320 000 320 000
+3
+Partner D requested funding to country 153 800 230 432
+3
+Partner E requested funding to country 260 380 260 380
+3
+Total for the consortium 2 581 659 2 857 121
+Such a table is not requested in the proposal, it is just used as an example for the explanation of the
+budget. The total costs include the requested budget to the funding organisations and the in-kind
+contribution of the different partners.
+In addition of the budget requested to the three different funding organisations, additional 15% of the
+total requested budget by the whole consortium can be requested for the management costs required
+for the whole consortium only if ECRIN is selected as service provider of the cross-cutting activities. In
+this example: 15% * 2 581 659 = 387 248 €
+In the example, the consortium decides in close collaboration which ECRIN which services will be
+provided directly by ECRIN and which other entity (xxx) can be subcontracted by ECRIN to act as service
+provider as displayed in the below table (requested in the full proposal).
+Service Provider Amount (<15% of Justification
+total requested
+budget)
+ECRIN 213 594 € management, regulatory submission, data
+management and statistics, safety
+xxx 173 654 € Monitoring
+ATTENTION: The cost requested for hiring ECRIN (or an entity directly subcontracted by ECRIN) as
+service provider for the research consortia should not overlap with the costs requested to the different
+national/regional funding organisations.
+16Duration and start date of the IICS
+The duration of an IICS will be up to 48 months.
+The starting date of the IICS can be different from one funding organisation to the other one. The
+below table summarise the conditions for the different funding organisations.
+Country Funding Duration of the Starting date Possibility for
+organisation IICS potential extension
+Austria FWF A maximum of 48 The FWF expects the A cost-neutral
+months. start of the project extension of up to 12
+within six months from months is possible
+the date of of approval and must be applied
+notification. for at the FWF before
+Any further delays of the official end date of
+up to 12 months after the project.
+notification must be
+justified, otherwise the
+funding approval may
+be rescinded.
+Czech MZCR 48 months In line with the start An optional cost-
+Republic /AZVCR date of the project as neutral extension of 1
+stated in the “Contract” year if needed
+or “Decision” on the
+provision of support or
+the issuance of a
+decision.
+France Fr-MoH 48 months The project begins as Extension is not
+soon as possible after automatic. A report
+the results of the Call explaining the project
+have been confirmed. extension request
+The official project must be submitted to
+start date must be the FR MOH with all
+communicated to the supporting
+FR MOH by the documents at least 6
+funded institution as months before the
+soon as it is known. project end date. The
+extension may not
+exceed 1 year and
+cannot give rise to
+additional funding
+payments. The
+extension cannot
+exceed the end date
+of the partnership.
+Germany BMBF/DLR Up to 48 months April 2026 (the earliest) Cost neutral runtime
+extensions can only
+be granted in
+exceptional cases.
+Ireland HRB 48 months Jan - May 2026 12-month no cost
+extension (NCE)
+permissible
+Israel CSO-MOH Up to 48 months Not specified See national
+guidelines
+Italy IT MOH Up to 48 months Not specified Max 1 year
+Latvia LCS Up to 48 months Application for the state Extensions can be
+aid must be submitted without funding only
+before the start of the
+17project which is stated
+in the consortium
+agreement
+Lithuania LMT 48 Months It must be in 2026, no Reasoned
+later than the common amendments to the
+start date of the study agreement, including
+agreed upon by the extensions shall be
+consortium partners. made in accordance
+with the procedures
+and within the time
+limits specified in the
+agreement.
+Norway RCN Max 48 months From January 2026 A cost-neutral
+extension based on a
+request with
+justification and an
+agreement in the
+whole project
+consortium may be
+considered.
+Poland NCBR Up to 48 months Not specified Not specified
+Slovakia SAS 48 months Based on the If necessary, the
+agreement in the possibility of a cost-
+consortium in the neutral extension
+consortium agreement based on a request
+(CA) with justification and
+an agreement in the
+whole project
+consortium.
+Spain ISCIII 48 months Established in the Potentially cost-
+national grant neutral extensions
+resolution (probably could be provided,
+beginning of 2026) according to national
+regulation.
+Spain CSCJA The duration of the The starting date will The maximum
+projects shall be be stated in the award extension is limited
+determined by the resolution. to half of the initial
+corresponding Call. duration of the
+In any case, this project.
+period shall be
+stated in the award
+resolution:
+APPENDIX
+RESOURCES, USEFUL LINKS
+1. Study design
+• SPIRIT STATEMENT (Standard Protocol Items)
+https://pubmed.ncbi.nlm.nih.gov/23295957/
+• SPIRIT PRO Extension for inclusion of patient-reported outcomes in clinical trials protocols
+https://jamanetwork.com/journals/jama/article-abstract/2671472
+• ICH General considerations for clinical studies E8
+18https://database.ich.org/sites/default/files/E8_Guideline.pdf
+• ICH General principles for planning and design of multi-regional clinical trials
+https://database.ich.org/sites/default/files/E17EWG_Step4_2017_1116.pdf
+• COMET: Core outcome measures in effectiveness trials
+https://www.comet-initiative.org/
+• COSMIN: Database of systematic reviews of outcome measurement instruments
+https://database.cosmin.nl/
+2. Patient engagement
+• EUPATI CONNECT
+https://connect.eupati.eu/
+• European YPAG Network
+https://eypagnet.eu/services/
+3. Reporting
+• CONSORT statement
+https://legacyfileshare.elsevier.com/promis_misc/CONSORT-2010-Checklist.pdf
+https://jamanetwork.com/journals/jama/fullarticle/2799401
+4. Organizations supporting multicountry Investigator-initiated clinical studies
+https://era4health.eu/results/docs/D131.pdf
+ERA4Health Responsible Research and Innovation (RRI) Guidelines
+What is RRI and why do we need it?
+Health research and innovation is crucial for maintaining and improving European public health. In this
+context, it is easy to acknowledge that science is not separate from society but part of it, which confers
+an important social responsibility on science. It is important, therefore, that funders, researchers and
+other key groups involved in the development of science, technology and innovation think about: (i)
+the potential directions of research being taken; (ii) who might benefit from new research and
+inventions and who might not; and (iii) how consideration of the potential social, environmental and
+ethical issues can be considered throughout the science and innovation process. Responsible research
+and innovation (RRI) are not about adjudicating what is ‘good ’or ‘bad’, ‘positive ’or ‘negative’, or
+‘responsible ’or ‘irresponsible’. Instead, RRI offers techniques, tools and frameworks to think about
+questions of social responsibility and ensure scientists, funders and technologists don’t lose sight of
+the context in which they do science, technology and innovation.
+19RRI is closely related to other cross-cutting issues, and actions can be taken that address both RRI and
+other important values, such as public/user engagement, open science or ethical assessments.
+What is ERA4Health’s approach to RRI?
+ERA4Health’s approach to RRI is focused on improving the quality of research and innovation by
+keeping the broader context of your work visible. It encourages you to embed methodologies and
+processes to consider four important dimensions related to research and innovation:
+Anticipation. What might the future desirable and undesirable effects of
+your work be? Who will benefit from it, and who might not? Can decisions be made now
+to encourage the good, while minimising the bad effects? This isn’t about exhaustive
+prediction but about building a sense of preparedness for the future.
+Inclusion. Whose voices and knowledge are shaping your research
+study? In health research, much evidence shows that patient organisations, health care
+users and health professionals (amongst others) can improve the quality of innovation.
+Inclusion is about creating opportunities for two-way exchange of information, co-
+design or knowledge co-production to draw important outside voices into the research
+process.
+Reflection. Are there opportunities for you and your team to pause and
+take stock’ about what you’re doing? Would everyone agree with your goals and the
+decisions you’ve taken so far? Reflection is about making sure there is space and time
+to collectively ask hard questions about a study’s foundations.
+Responsiveness. What are the key decision points in your study? Are
+there opportunities to change course, if you need to? The final dimension is a reminder
+that the work you do under the label of RRI needs to shape the design, governance or
+use of your research or innovation.
+In sum RRI provides a framework to ask how research and innovation should be carried out in order
+to ensure that we achieve the societal goals of research and innovation in an open and inclusive way.
+ERA4Health believes that the RRI methodology improves the quality of research proposals and studys,
+20and substantively engaging with this framework will therefore be rewarded in the proposal evaluation
+process.
+How should you include RRI in your study?
+Experience with past funding programmes shows that these four dimensions – anticipation, inclusion,
+reflection and responsiveness – provide a useful heuristic to think about social responsibility across a
+range of domains. However, the diversity of health science and the range of local contexts engaged
+within ERA4Health means that there cannot be a one size fits all approach. The specific approach to
+RRI must be tailored to the actual social, environmental and ethical issues raised by a study’s research
+and innovation activities.
+This means that the commitment to RRI is clear and fixed in the programme, but there is an openness
+about the issues addressed and the specific ways to practise responsibility – these must be adapted to
+each study. In general, your approach to RRI should be proportionate to your proposal – disruptive,
+ground-breaking or high-TRL (Technology Readiness Level) work is likely to require a more substantive
+engagement with RRI. If the research is exploratory then RRI components can also be exploratory –
+teasing out the potential visions, goals and end uses of a study. Overall, the goal is to demonstrate that
+you have engaged and seriously considered the tensions and meaningful societal benefits associated
+with health research and innovation.
+The text below therefore provides overall ideas and advice but cannot give a recipe that all potential
+applicants may use. However, the following four points will provide a good foundation as to how
+develop your approach to RRI in your proposal:
+1. Treat RRI as an integrated part of the study involving as many study members as
+possible. Do not think of RRI as distinct from the science but as central to it. It is a process
+that will increase the likelihood of delivering applications with real utility, fair accessibility
+and concrete value for citizens.
+2. It is important to develop a shared understanding of the study’s RRI aspects as early
+as possible, and for the work plan to be specific to the study. Avoid writing generic, boiler-
+plate text. By ‘RRI aspects’ we mean implications or characteristics of your research that
+touch upon societal, ethical and environmental values.
+3. Develop the scientific and RRI components in tandem. This means you will need to
+have conversations about the goals, uncertainties and assumptions associated with the
+scientific ideas. It is important to continue these conversations if the study is funded.
+4. Make sure you adequately resource RRI. It takes time, effort, expertise and money to
+do RRI well. While there is no one approach to operationalising RRI within a study, ideally
+RRI needs to be coordinated and should have a lead.
+But what should you actually do?
+Starting points to help you identify the most relevant dimensions for your study.
+The following questions will direct you to different RRI perspectives applicable for health research and
+innovation studies. Many of these perspectives can be explored in a structured way with a range of
+methodologies (for additional resources, see box below).
+Please be aware that these options neither represent a complete list of examples, nor the mandated
+approaches to RRI by ERA4Health.
+211. Who will benefit from your study, who will not, and who may experience new risks?
+Are those answers acceptable to you?
+a. Does your study address a specific health-related or societal problem or need?
+b. Will your innovation be affordable and accessible? If not, is that a problem?
+c. Does your framing of the problem fit with other people’s understanding of it?
+Can you access these alternative framings?
+d. How does your approach to the health challenge compare to others
+approaches?
+e. What is the most appropriate form of intellectual property (IP) for your study
+goals and affordability aspirations? Do classical IP strategies deliver the broadest
+benefit? Can new strategies (e.g. Open Material Transfer Agreements) be adopted at
+certain points of the research process?
+f. How could commercial or non-commercial organisations benefit from your
+research?
+g. Are there foreseeable risks that you can mitigate now? For instance, what are
+the potential risks of data being released? How can you take care to ensure these
+data are interpreted appropriately?
+2. Have you identified and involved relevant stakeholders, and have you considered
+public engagement activities? Are there opportunities for stakeholders and the public to
+contribute to your work? Stakeholders are people or organisations with a vested interest in
+the study (both positive and negative), who may also contribute knowledge to it. They could
+be patients, minorities and marginalised groups, health system users, special interest groups,
+health professionals, companies, nonprofits, or advocacy organisations. A number of different
+considerations for stakeholder engagement are important:
+a. Think about the methodology you will use. For instance, ‘co-design’ and
+‘knowledge co-production’ methodologies are good at generating trust and
+allowing stakeholders, including the public, to contribute their knowledge to the
+problem your study is trying to address.
+b. Think also about the appropriate timing of different stakeholders’ inclusion:
+certain kinds of knowledge may be more useful early on, whereas other knowledge
+may be useful later.
+c. It will likely be valuable (but not obligatory) to include expertise beyond the
+medical and health sciences – such as lawyers, social scientists or philosophers –
+to provide anticipatory and reflective methodologies or to address key challenges.
+Approach them early in your study design.
+d. Think about how best to formalise and include stakeholder knowledge in your
+study. Are they best placed as scientific collaborators, as members of an advisory
+board, or as consultants to deliver only specific tasks? Check if your approach is in
+line with the national/regional funding rules before designing your proposal.
+3. Have you created good deliberative spaces for your study team, partners and
+aforementioned stakeholders, including the public, to anticipate and reflect on the broader
+social, political, ethical or environmental context of your research? If not, RRI experts in
+Science and Technology Studies, medical sociology, bioethics and science communication may
+be able to help you with this in study design and implementation. A number of different
+approaches are possible, e.g.:
+a. Focusing on your day-to-day research work (“philosopher in the lab
+approach”).
+b. Using foresight and critical futures methodologies.
+22c. Utilising a diverse advisory board.
+d. Trans-disciplinary reflection at consortium meetings.
+e. Using stage-gate approaches where explicit decisions about technological
+choices are taken.
+4. Have you reflected on/considered adapting your choice of research methods
+regarding, for example:
+a. Ethical issues in the study (including ethical considerations in the design of
+participatory science and possibly broader than the “ethics self-assessment”)?
+b. The use of data in your study – where does it come from, how will it be used
+and where will it go? How will ethical use be ensured?
+c. In vivo/in vitro experiments and need for use of animals in experiments?
+d. Use of new approaches such as “Safe(r) by Design”?
+e. Your ability to increase the likelihood of translation by outlining e.g. strategies
+of scientific rigour, and strategies to reduce bias, inclusion of sex/gender as a
+biological variable in study design?
+f. Open Science (such as open data, open code, open protocol or other low
+barrier data sharing practices) and other publication practices (including report all
+results, also negative or so-called null results)?
+g. And are there ways that your study can advance common practices on these
+issues?
+5. Have you engaged with important aspects of your research environment such as:
+a. gender, ethnicity and intersectional equality, diversity and inclusivity?
+b. career progression and precarity?
+c. equity between partners in your research consortium?
+6. Have you shown how the study (and product) satisfy requirements for patient and
+production safety and efficiency? Will there be clear benefits for the patient by, for example
+by:
+a. listening to/satisfying user needs and safety concerns, or involving them in
+design;
+b. involving regulatory affairs professionals (toxicity tests, etc.),
+c. communicating with regulatory entities as early as possible (the Food and
+Drug Administration (FDA) or the European Medicines Agency (pharmaceuticals
+and medical devices), etc.
+7. Have you considered and evaluated environmental impacts and sustainable
+solutions, in line with the Do No Significant Harm principle10, by including, for example:
+a. lifecycle analysis (LCA)?
+b. ecotoxicology studies?
+c. safer- sustainable-, or recyclable-by-design methodologies?
+How does ERA4Health support and evaluate RRI?
+Health research and innovation happens in many different locations (e.g. universities, hospitals, care
+homes, companies, policy organisations), involves different stages of research (i.e. across the TRL
+spectrum) and different research cultures. Responsibility for innovation must be shared, and RRI
+therefore requires a multi-level approach.
+ERA4Health is taking a systemic approach to RRI, considering it in the development of the annual work
+programme and the resulting funding calls. These guidelines were developed in collaboration with
+23members of the ERA4Health community and will be updated on a rolling basis. The programme’s
+capacity building activities will also facilitate a dialogue among stakeholders in health research about
+RRI and ethical issues.
+At the level of research studies, ERA4Health requires that all proposers explain how their studys
+demonstrate a commitment to investigating and addressing the social, environmental, ethical,
+political or cultural dimensions of the proposed research. Integration of RRI should lead to an
+improved understanding and awareness of the possible benefits, risks, and uncertainties of health
+science across a broad cross-section of society. This may include (but is not limited to) any of the
+approaches described in the above section.
+In the (pre-)proposal templates, three sections/points refer to RRI and ethics considerations and leave
+space for you to explain your approaches:
+• General RRI aspects
+• Involvement of stakeholders and the public
+• Ethical considerations (in your ethics self-assessment)
+RRI components will be given advise on/evaluated by experts as integral components within the
+scope of all evaluation criteria (Excellence, Impact, and Implementation). RRI does not detract from
+the overall scoring but contributes to it: Proposals that explicitly aim to advance processes of
+anticipation, reflection, inclusion and responsiveness by developing new analyses or methodologies
+will be rewarded in the review process and the scores will be adjusted accordingly. In Pre-proposals:
+The research consortia will receive advice on the RRI dimension from their proposal via written
+comments from an RRI Adviser that will be shared with the reviewers. In full proposals: RRI Advisers
+will comment on proposals before the Per Review Panel (PRP) meeting and be invited to give additional
+advice on RRI and support the discussions during the PRP meeting.
+The kinds of questions the RRI Advisers/reviewers will ask regarding RRI are:
+Relating to Excellence
+• Is the RRI approach proportionate to the content of the scientific proposal?
+• Does RRI extend across the lifespan of the study? (e.g. as a sub-study, an advisory
+board or to be considered in annual meetings)
+• Are there clear deliverables associated with the RRI work, with ambitions to contribute
+to RRI scholarship and/or new knowledge of the social, political, ethical or environmental
+dimensions of health science?
+Relating to Impact
+• Are there clear opportunities for the RRI work to shape the study’s scientific
+trajectories?
+• Does the RRI work help align the study’s research better to the needs and values of
+society?
+Relating to Implementation
+• Is there appropriate RRI expertise in the study?
+• Is RRI work adequately resourced? Is it clear how the objectives will be achieved?
+• Is it clear how the work is organised? (e.g. as a work package, a cross-cutting issue,
+outsourced etc.)
+• Is it clear who is doing the work and what they will do?
+Web resources for including RRI in your project
+http://www.rri-tools.eu provide numerous resources for practical RRI.
+24https://infieri.online/en/home/#section-what-is-rih provides a particular framework to approach RRI
+in health researchhttps://thinkingtool.eu/ The Societal Readiness Thinking Tool guides you through
+the steps of including RRI in a project.
+Tools for public engagement: https://www.publicengagement.ac.uk/resources and
+http://actioncatalogue.eu/
+Responsible Innovation-UKRI and RRI as a method (the Research Council of Norway) explains also RRI
+and the value it adds.
+Further examples specific to health science and innovation will in the future be provided on the RRI
+webpage of ERA4Health (coming).
+ERA4HEALTH’s approach to RRI builds on previous frameworks published by the UK and Norway, the
+European Commission and funding programmes such as M-ERA.NET3, ERA CoBioTech and
+EuroNanoMed3.
+25

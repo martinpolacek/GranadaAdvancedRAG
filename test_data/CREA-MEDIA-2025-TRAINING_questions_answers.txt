@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated available call budget for the CREA-MEDIA-2025-TRAINING call?",
+            "answer": 7500000
+        },
+        {
+            "question": "What is the funding rate specified for the CREA-MEDIA-2025-TRAINING call, according to the MGA, in percentage?",
+            "answer": 80
+        },
+        {
+            "question": "According to the call CREA-MEDIA-2025-TRAINING call, what is the maximum number of pages allowed for the application Part B?",
+            "answer": 70
+        },
+        {
+            "question": "What is the minimum number of applicants (beneficiaries) required for a consortium in the CREA-MEDIA-2025-TRAINING call?",
+            "answer": 2
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TRAINING call, What is the maximum project duration in months?",
+            "answer": 12
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TRAINING call, what percentage of the total number of participants should be offered reduced fees?",
+            "answer": 20
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TRAINING call, what is the flat-rate for the indirect costs in percentage?",
+            "answer": 7
+        },
+        {
+            "question": "How many work packages are mandatory for proposals in the CREA-MEDIA-2025-TRAINING call?",
+            "answer": 3
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TRAINING call, after having received notification, within how many days the part receiving the request need to sign or disagree about amendments?",
+            "answer": 45
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-TRAINING call, how many legal entities from different EU Member States/Horizon Europe associated countries must involve multi-beneficiary projects in the third parties financial supports?",
+            "answer": 2
+        }
+    ]
+}

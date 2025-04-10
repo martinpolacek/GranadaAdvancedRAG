@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the Connecting_Spheres EU Grants call document, how many EFTA countries are explicitly listed as *not* participating in the Citizens, Equality, Rights and Values Programme?",
+            "answer": 3
+        },
+        {
+            "question": "In Connecting_Spheres EU Grants, how many Acceding countries, candidate countries and potential candidates, participate for all strands, including the Union Values strand?",
+            "answer": 0
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants, how many countries had confirmed interest by version 4.0 of the document?",
+            "answer": 6
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call document, how many versions have been created overall?",
+            "answer": 8
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call document, how many European Neighbourhood Policy countries have confirmed interest in joining the Citizens, Equality, Rights and Values Programme?",
+            "answer": 0
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call document, how many countries expressed initial interest in version 2.0?",
+            "answer": 4
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call, how many countries had Association Agreement enter into force by version 8.0?",
+            "answer": 1
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call document, how many countries are listed as having expressed interest in version 5.0?",
+            "answer": 2
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants, how many countries signed an agreement to participate in the Citizens, Equality, Rights and Values Programme on 27 December 2023?",
+            "answer": 1
+        },
+        {
+            "question": "According to Connecting_Spheres EU Grants call, how many countries signed an agreement to participate in the Citizens, Equality, Rights and Values Programme on 3 October 2024?",
+            "answer": 1
+        }
+    ]
+}

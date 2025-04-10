@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the indicative budget for the EP-LINC-SUBV-2025-CONF-INT-01 topic?",
+            "answer": 434000
+        },
+        {
+            "question": "What is the maximum co-financing percentage that the European Parliament will fund under the EP-LINC-SUBV-2025-CONF-INT call?",
+            "answer": 75
+        },
+        {
+            "question": "How many days does the Parliament have to pay the 1st pre-financing payment after entry into force of the Agreement for EP-LINC-SUBV-2025-CONF-INT?",
+            "answer": 30
+        },
+        {
+            "question": "According to the EP-LINC-SUBV-2025-CONF-INT call, what is the maximum amount of financial support that can be given to each third party, in EUR?",
+            "answer": 60000
+        },
+        {
+            "question": "According to call EP-LINC-SUBV-2025-CONF-INT, what is the flat rate funding of eligible indirect costs, in %?",
+            "answer": 7
+        },
+        {
+            "question": "What is the total indicative budget foreseen for the proposals submitted to the EP-LINC-SUBV-2025-CONF-INT-02 topic, in EUR?",
+            "answer": 150000
+        },
+        {
+            "question": "What is the total indicative budget foreseen for the proposals submitted to the EP-LINC-SUBV-2025-CONF-INT-03 topic, in EUR?",
+            "answer": 150000
+        },
+        {
+            "question": "According to EP-LINC-SUBV-2025-CONF-INT call, how many officials are in Evaluation Committee?",
+            "answer": 3
+        },
+        {
+            "question": "According to EP-LINC-SUBV-2025-CONF-INT call, what is the amount of the first pre-financing, in %?",
+            "answer": 70
+        },
+        {
+            "question": "According to EP-LINC-SUBV-2025-CONF-INT call, in no circumstances the financial support exceed EUR for each third party except where the financial support is the primary aim of the action",
+            "answer": 60000
+        }
+    ]
+}

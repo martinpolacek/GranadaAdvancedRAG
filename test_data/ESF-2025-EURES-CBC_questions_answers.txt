@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total estimated budget in EUR for the call ESF-2025-EURES-CBC?",
+            "answer": 9000000
+        },
+        {
+            "question": "What is the number of proposals expected to be funded under the call ESF-2025-EURES-CBC?",
+            "answer": 10
+        },
+        {
+            "question": "Under the call ESF-2025-EURES-CBC-CBI topic, what is the maximum grant amount in EUR that a project can have?",
+            "answer": 200000
+        },
+        {
+            "question": "According to the call ESF-2025-EURES-CBC, what is the minimum number of neighbouring member states the proposals must be submitted by?",
+            "answer": 2
+        },
+        {
+            "question": "According to the call ESF-2025-EURES-CBC, what is the number of years for the project duration?",
+            "answer": 2
+        },
+        {
+            "question": "In the call ESF-2025-EURES-CBC if a beneficiary requests a contribution to costs of more than EUR 325000, how many certificates on the financial statements (CFS) are needed?",
+            "answer": 1
+        },
+        {
+            "question": "According to the text, what is the value in percentage of total costs that will be reimbursed for indirect costs under the ESF-2025-EURES-CBC call?",
+            "answer": 7
+        },
+        {
+            "question": "In the topic 1 of the call ESF-2025-EURES-CBC, what is the maximum amount in EUR for a project budget?",
+            "answer": 1500000
+        },
+        {
+            "question": "According to the call ESF-2025-EURES-CBC, what is the minimum number of years of experience that the project manager should have in international team management?",
+            "answer": 3
+        },
+        {
+            "question": "What is the number of days after entry into force of the agreement that the beneficaries that are not coordinator must accede to the call ESF-2025-EURES-CBC?",
+            "answer": 30
+        }
+    ]
+}

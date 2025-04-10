@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the maximum EU contribution, in EUR, per project mentioned in the UCPM-2025-KAPP-EX call?",
+            "answer": 1000000
+        },
+        {
+            "question": "According to the UCPM-2025-KAPP-EX call, what is the estimated available budget, in EUR, for the full-scale field exercises topic?",
+            "answer": 4000000
+        },
+        {
+            "question": "According to the UCPM-2025-KAPP-EX call, what is the maximum percentage of funding from the call that any budget proposal can request?",
+            "answer": 90
+        },
+        {
+            "question": "What is the minimum number of EU Observers trained in the UCPM that will be part of the EU Observers Programme during the full-scale field exercise in the UCPM-2025-KAPP-EX call?",
+            "answer": 10
+        },
+        {
+            "question": "What is the page limit for Part B of proposals in the UCPM-2025-KAPP-EX call?",
+            "answer": 50
+        },
+        {
+            "question": "What is the minimum number of beneficiaries from different eligible states required in a consortium submitting a proposal to the UCPM-2025-KAPP-EX call?",
+            "answer": 3
+        },
+        {
+            "question": "What is the minimum duration of the Full-scale field exercise, in hours, in the UCPM-2025-KAPP-EX call?",
+            "answer": 36
+        },
+        {
+            "question": "According to the UCPM-2025-KAPP-EX call, what is the minimum number of members that the EUCP Team should have?",
+            "answer": 4
+        },
+        {
+            "question": "According to the UCPM-2025-KAPP-EX call, what is the maximum number of members that the EUCP Team should have?",
+            "answer": 7
+        },
+        {
+            "question": "According to the UCPM-2025-KAPP-EX call, what is the minimum number of hours that the command post exercise should have?",
+            "answer": 8
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the available budget in EUR for the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 5900000
+        },
+        {
+            "question": "What is the number of work packages recommended on average for a project in the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 12
+        },
+        {
+            "question": "What is the minimum number of entities (beneficiaries, not affiliated entities) from different eligible countries that must be involved for priorities 1 and 2 in the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 2
+        },
+        {
+            "question": "According to the Call: JUST-2025-JCOO Justice Programme (JUST), what is the maximum funding rate?",
+            "answer": 90
+        },
+        {
+            "question": "According to the Call: JUST-2025-JCOO Justice Programme (JUST), what is the minimum requested grant amount in EUR for priority 1 (civil matters)?",
+            "answer": 75000
+        },
+        {
+            "question": "What is the maximum font size, in points, allowed in the Application Form Part B for the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 9
+        },
+        {
+            "question": "What is the number of years used to list the applicant's previous EU-funded projects for the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 4
+        },
+        {
+            "question": "In the Call: JUST-2025-JCOO Justice Programme (JUST), the available budget is EUR 5 900 000. What is the value without the spaces?",
+            "answer": 5900000
+        },
+        {
+            "question": "What is the maximum number of pages allowed for the Application Form Part B in the Call: JUST-2025-JCOO Justice Programme (JUST)?",
+            "answer": 45
+        },
+        {
+            "question": "In the Call: JUST-2025-JCOO Justice Programme (JUST), Project budgets (requested grant amount) for priority 2 and 3 are expected to range between EUR 75 000 and EUR 350 000. What's the difference between max and min?",
+            "answer": 275000
+        }
+    ]
+}

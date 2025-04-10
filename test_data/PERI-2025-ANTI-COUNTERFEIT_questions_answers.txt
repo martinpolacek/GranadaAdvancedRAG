@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, what is the estimated available budget for the call, in EUR?",
+            "answer": 600000
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, what is the maximum percentage for a higher project funding rate if the project is a priority action?",
+            "answer": 90
+        },
+        {
+            "question": "What is the percentage of the standard indirect cost flat-rate mentioned in the Call PERI-2025-ANTI-COUNTERFEIT?",
+            "answer": 7
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, until what number of pages are proposals limited (Part B)?",
+            "answer": 70
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, what are the days available to submit observations after receiving notification of a pre-information letter?",
+            "answer": 30
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, what are the days available to submit the report, in case of beneficiary termination, since when termination takes effect?",
+            "answer": 60
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, what is the minimum number of years for the lease to ensure the achievement of its objectives in terms of habitat and species protection?",
+            "answer": 20
+        },
+        {
+            "question": "In the Call PERI-2025-ANTI-COUNTERFEIT, If the granting authority didn't receive a termination report within the deadline, how many number of costs and contributions will be taken into account?",
+            "answer": 0
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT what is the maximum percentage of the beneficiaries total eligible costs, the costs for synergetic elements are eligible?",
+            "answer": 20
+        },
+        {
+            "question": "According to the Call PERI-2025-ANTI-COUNTERFEIT, What is the number of months after entry into force of the agreement for non coordinator beneficiaries to sign the accession form?",
+            "answer": 0
+        }
+    ]
+}

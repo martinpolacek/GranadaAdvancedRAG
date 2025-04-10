@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the page limit for Part B of the Application Form in the ERASMUS-EDU-2022-ECHE-CERT call?",
+            "answer": 25
+        },
+        {
+            "question": "According to the ERASMUS-EDU-2022-ECHE-CERT call, what is the validity period of the ECHE, in number of years?",
+            "answer": 7
+        },
+        {
+            "question": "How many cut-off dates are planned for the ERASMUS-EDU-2022-ECHE-CERT call?",
+            "answer": 5
+        },
+        {
+            "question": "In the ERASMUS-EDU-2022-ECHE-CERT call, what is the number of versions that existed of the 'List of participating countries' document?",
+            "answer": 2
+        },
+        {
+            "question": "In the ERASMUS-EDU-2022-ECHE-CERT call, how many ECHE principles must the application reflect to adhere?",
+            "answer": 8
+        },
+        {
+            "question": "How many award criteria are defined in the ERASMUS-EDU-2022-ECHE-CERT call?",
+            "answer": 3
+        },
+        {
+            "question": "According to the ERASMUS-EDU-2022-ECHE-CERT call, how many years were added for the agreement signed by Iceland, Norway, and Liechtenstein after the initial confirmation?",
+            "answer": 0
+        },
+        {
+            "question": "In the ERASMUS-EDU-2022-ECHE-CERT call, how many days after sending is an unopened notification considered accessed?",
+            "answer": 10
+        },
+        {
+            "question": "In the ERASMUS-EDU-2022-ECHE-CERT call, how many months is the duration for staff mobility in Erasmus+?",
+            "answer": 2
+        },
+        {
+            "question": "According to the ERASMUS-EDU-2022-ECHE-CERT call, what is the maximum number of months for student mobility programme?",
+            "answer": 12
+        }
+    ]
+}

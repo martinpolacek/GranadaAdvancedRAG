@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the expected maximum number of projects to be funded in the ESF-2025-AG-NETW-MF-SE call?",
+            "answer": 10
+        },
+        {
+            "question": "What is the minimum number of EU Member States and EaSI strand associated countries that the EU Network coordinator must have national member-organizations in, for the ESF-2025-AG-NETW-MF-SE call, in the case of a consortium?",
+            "answer": 7
+        },
+        {
+            "question": "What is the expected budget for the Financial support to third parties (FSTP) per recipient in EUR under the ESF-2025-AG-NETW-MF-SE call, which the EU network may grant?",
+            "answer": 60000
+        },
+        {
+            "question": "Under the ESF-2025-AG-NETW-MF-SE call, if a project spans between 24 and 36 months how many pre-financing payments will be paid?",
+            "answer": 3
+        },
+        {
+            "question": "Under the ESF-2025-AG-NETW-MF-SE call, if a project's activities involve the display of equipment, infrastructure or works more than EUR [\u2026], how many plaques must be displayed once finished?",
+            "answer": 1
+        },
+        {
+            "question": "What is the Indirect cost flat-rate as percentage of the eligible direct costs (categories A-D, except volunteers costs and exempted specific cost categories) for the ESF-2025-AG-NETW-MF-SE call?",
+            "answer": 7
+        },
+        {
+            "question": "For the ESF-2025-AG-NETW-MF-SE call, what is the page limit number for proposals?",
+            "answer": 40
+        },
+        {
+            "question": "What is the maximum grant amount allocated to Financial support to third parties (FSTP) as a percentage of the overall budget of the grant, according to the ESF-2025-AG-NETW-MF-SE call?",
+            "answer": 10
+        },
+        {
+            "question": "According to the ESF-2025-AG-NETW-MF-SE call, what is the maximum grant amount allocated to Financial support to third parties (FSTP) in EUR?",
+            "answer": 150000
+        },
+        {
+            "question": "In the call ESF-2025-AG-NETW-MF-SE, What is the maximum percentage of the funding rate?",
+            "answer": 85
+        }
+    ]
+}

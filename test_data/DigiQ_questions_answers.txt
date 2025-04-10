@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What percentage of student travel grants/stipends should be set aside for promoting opportunities for under-represented groups in DigiQ Diversity, Equity, Inclusion (DEI) Guidelines?",
+            "answer": 20
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the minimum percentage of men to aim for in organisational bodies?",
+            "answer": 40
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the minimum percentage of women to aim for in organisational bodies?",
+            "answer": 40
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the maximum percentage of representing any gender to aim for in organisational bodies?",
+            "answer": 20
+        },
+        {
+            "question": "According to Eurostat mentioned in DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, approximately what percentage of students studying for a physics degree in 2018 at the tertiary level were female?",
+            "answer": 20
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the minimum percentage of men identifying as in Mobility Committees?",
+            "answer": 40
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the minimum percentage of women identifying as in Mobility Committees?",
+            "answer": 40
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, what is the maximum percentage of representing any gender in Mobility Committees?",
+            "answer": 20
+        },
+        {
+            "question": "According to Eurostat mentioned in DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, over how many previous years has the percentage of women studying physics remained essentially static?",
+            "answer": 5
+        },
+        {
+            "question": "According to DigiQ Diversity, Equity, Inclusion (DEI) Guidelines, How many year of extension on application deadlines after completing their doctorate for each child they have German Research Foundation offers women?",
+            "answer": 2
+        }
+    ]
+}

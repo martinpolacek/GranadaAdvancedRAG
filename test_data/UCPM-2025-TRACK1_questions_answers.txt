@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated available budget for the UCPM-2025-TRACK 1 call?",
+            "answer": 6000000
+        },
+        {
+            "question": "What is the maximum project duration, in months, that can be initially requested in the UCPM-2025-TRACK 1 call?",
+            "answer": 24
+        },
+        {
+            "question": "What is the maximum grant amount, in EUR, per project allowed for the UCPM-2025-TRACK 1 call?",
+            "answer": 750000
+        },
+        {
+            "question": "According to the UCPM-2025-TRACK 1 call, up to how many persons (return ticket and accomodation), are the expenses covered, in order to attend the kick-off meeting organized by the granting authority?",
+            "answer": 2
+        },
+        {
+            "question": "According to the UCPM-2025-TRACK 1 call, what is the funding rate, in %, for the eligible costs?",
+            "answer": 95
+        },
+        {
+            "question": "According to the UCPM-2025-TRACK 1 call, how many points out of 100 represents the weight of the 'Relevance' criteria in the evaluation process?",
+            "answer": 40
+        },
+        {
+            "question": "According to the UCPM-2025-TRACK 1 call, how many points out of 100 represents the weight of the 'Quality' criteria in the evaluation process?",
+            "answer": 30
+        },
+        {
+            "question": "According to the UCPM-2025-TRACK 1 call, how many points out of 100 represents the weight of the 'Impact' criteria in the evaluation process?",
+            "answer": 30
+        },
+        {
+            "question": "In the UCPM-2025-TRACK 1 call, how many Strategic areas where further efforts are needed are identifie by the Union Disaster Resilience Goals?",
+            "answer": 5
+        },
+        {
+            "question": "According to UCPM-2025-TRACK 1 call, how many Union Disaster Resilience Goals are supported by this call, as part of the Specific Objectives?",
+            "answer": 4
+        }
+    ]
+}

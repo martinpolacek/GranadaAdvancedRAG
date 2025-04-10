@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the text, what is the minimum number of EU Member States and third countries associated to the Programme that a European non-governmental organisation (ENGO) must have branches in to be eligible for the ERASMUS-YOUTH-2025-CSC-OG-FPA call?",
+            "answer": 9
+        },
+        {
+            "question": "What is the maximum pages for proposals in ERASMUS-YOUTH-2025-CSC-OG-FPA call?",
+            "answer": 40
+        },
+        {
+            "question": "In the ERASMUS-YOUTH-2025-CSC-OG-FPA call, How many years is the framework partnership agreement?",
+            "answer": 2
+        },
+        {
+            "question": "In the ERASMUS-YOUTH-2025-CSC-OG-FPA call, How many framework partnerships are expected to be signed?",
+            "answer": 90
+        },
+        {
+            "question": "In the ERASMUS-YOUTH-2025-CSC-OG-FPA call, what is the minimum amount of national organisation branches an ENGO must have ?",
+            "answer": 8
+        },
+        {
+            "question": "What is the minimum score required in Relevance criterion for passing ERASMUS-YOUTH-2025-CSC-OG-FPA?",
+            "answer": 15
+        },
+        {
+            "question": "What is the minimum score required in Quality criterion for passing ERASMUS-YOUTH-2025-CSC-OG-FPA?",
+            "answer": 25
+        },
+        {
+            "question": "What is the minimum score required in Impact criterion for passing ERASMUS-YOUTH-2025-CSC-OG-FPA?",
+            "answer": 10
+        },
+        {
+            "question": "What is the overall minimum score required for passing ERASMUS-YOUTH-2025-CSC-OG-FPA?",
+            "answer": 60
+        },
+        {
+            "question": "In ERASMUS-YOUTH-2025-CSC-OG-FPA, What is the code used to identify Civil Society Cooperation in the field of Youth?",
+            "answer": 0
+        }
+    ]
+}

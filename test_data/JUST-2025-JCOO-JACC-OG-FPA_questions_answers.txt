@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "According to the  JUST-2025-JCOO-JACC-OG-FPA call, what is the duration of the Framework Partnership Agreements in number of years?",
+            "answer": 3
+        },
+        {
+            "question": "According to the JUST-2025-JCOO-JACC-OG-FPA call, between which approximate numbers of framework partnerships the EC expects to sign?",
+            "answer": 13
+        },
+        {
+            "question": "According to the JUST-2025-JCOO-JACC-OG-FPA call, what is the year of end of activities to be co-financed?",
+            "answer": 2026
+        },
+        {
+            "question": "According to JUST-2025-JCOO-JACC-OG-FPA, what is the minimum number of months for open calls to remain open?",
+            "answer": 2
+        },
+        {
+            "question": "According to the JUST-2025-JCOO-JACC-OG-FPA, for framework partnerships, what is the duration in months?",
+            "answer": 36
+        },
+        {
+            "question": "According to the JUST-2025-JCOO-JACC-OG-FPA call, what is the latest number of pages allowed for Part B in application form?",
+            "answer": 45
+        },
+        {
+            "question": "In the JUST-2025-JCOO-JACC-OG-FPA call, what is the number of distinct actions that the Application Form is composed of?",
+            "answer": 2
+        },
+        {
+            "question": "In the JUST-2025-JCOO-JACC-OG-FPA call, what is the minimum number of Member States from which network must have members?",
+            "answer": 14
+        },
+        {
+            "question": "According to the JUST-2025-JCOO-JACC-OG-FPA call, what is the number of reports described to request payments?",
+            "answer": 2
+        },
+        {
+            "question": "According to EU Grants: AGA \u2014 Annotated Grant Agreement: V2.0\u2013 01.04.2025, how many months should communication or documents been kept after final payment?",
+            "answer": 5
+        }
+    ]
+}

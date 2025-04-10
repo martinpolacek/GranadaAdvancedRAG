@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated available budget for the EDF-2025-CSA-NFP Call?",
+            "answer": 2000000
+        },
+        {
+            "question": "EDF-2025-CSA-NFP: What is maximum amount requested for project budgets in EUR?",
+            "answer": 2000000
+        },
+        {
+            "question": "EDF-2025-CSA-NFP: How many projects will be funded, as the fixed maximum number?",
+            "answer": 1
+        },
+        {
+            "question": "What is the reimbursement funding rate for EDF-2025-CSA-NFP coordination and support actions, in percent?",
+            "answer": 100
+        },
+        {
+            "question": "In the EDF-2025-CSA-NFP Call, what is the maximum project duration in months?",
+            "answer": 36
+        },
+        {
+            "question": "EDF-2025-CSA-NFP Call require a consortium of national support structures from at least how many Member States or Associated Countries?",
+            "answer": 10
+        },
+        {
+            "question": "According to EDF-2025-CSA-NFP Call, is the financial support to third parties allowed?",
+            "answer": 0
+        },
+        {
+            "question": "EDF-2025-CSA-NFP Call, the coordinator has 60 days to submit how many reports from when termination takes effect?",
+            "answer": 1
+        },
+        {
+            "question": "In EDF-2025-CSA-NFP if you do not declare a previous payments after pre-information letter (RELEX), how many digits previously submitted?",
+            "answer": 6
+        },
+        {
+            "question": "EDF-2025-CSA-NFP Call has limitation amount for personal profile description characters, what is the limit?",
+            "answer": 200
+        }
+    ]
+}

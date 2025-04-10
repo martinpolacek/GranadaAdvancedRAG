@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated call budget for CERV-2025-CITIZENS-CIV Call?",
+            "answer": 33000000
+        },
+        {
+            "question": "What is the minimum EU grant applied for under the CERV-2025-CITIZENS-CIV Call?",
+            "answer": 75000
+        },
+        {
+            "question": "What is the page limit of Application Form Part B under the CERV-2025-CITIZENS-CIV Call?",
+            "answer": 70
+        },
+        {
+            "question": "What is the deadline in days for coodinator to submit periodic report after the end of reporting period according to the CERV-2025-CITIZENS-CIV Call?",
+            "answer": 60
+        },
+        {
+            "question": "What is the minimum number of applicants from different eligible countries that a consortium must have to be consider eligible in CERV-2025-CITIZENS-CIV Call?",
+            "answer": 2
+        },
+        {
+            "question": "What is the minimum score that proposal must obtained, to be considered for funding in CERV-2025-CITIZENS-CIV Call?",
+            "answer": 70
+        },
+        {
+            "question": "What is the number of days of the confidentiality time-limit after final payment in CERV-2025-CITIZENS-CIV Call?",
+            "answer": 1825
+        },
+        {
+            "question": "What is the minimum number of months the projects should normally range between, according to the CERV-2025-CITIZENS-CIV Call?",
+            "answer": 12
+        },
+        {
+            "question": "According to CERV-2025-CITIZENS-CIV Call, For how many days after sending, formal notifications that have not been accessed will be considered to have been accessed?",
+            "answer": 10
+        },
+        {
+            "question": "According to CERV-2025-CITIZENS-CIV Call, what is the number of the article in which the word Force Majeure is included?",
+            "answer": 35
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the estimated budget for the CREA-MEDIA-2025-FILMOVE call?",
+            "answer": 16000000
+        },
+        {
+            "question": "For the CREA-MEDIA-2025-FILMOVE call, what percentage of the budget will be allocated to the first cut-off date?",
+            "answer": 40
+        },
+        {
+            "question": "For the CREA-MEDIA-2025-FILMOVE call, what percentage of the budget will be allocated to the second cut-off date?",
+            "answer": 60
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMOVE call, what percentage of the budget will be allocated to films with a production budget superior to EUR 15 000 000?",
+            "answer": 25
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMOVE call, how many different distributors must be attached to the project?",
+            "answer": 7
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMOVE call, what is the minimum number of distributors from lower audiovisual capacity countries (Group A or Group B) required?",
+            "answer": 2
+        },
+        {
+            "question": "According to the CREA-MEDIA-2025-FILMOVE call, at the earliest how many weeks after the date of submission of the application shall the film be released?",
+            "answer": 10
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMOVE call, what is the minimum duration (in minutes) a film must have to be eligible?",
+            "answer": 60
+        },
+        {
+            "question": "In the CREA-MEDIA-2025-FILMOVE call, what is the maximum film production budget (in EUR) that is eligible?",
+            "answer": 20000000
+        },
+        {
+            "question": "What percentage of the Promotion and Advertisement (P&A) costs incurred by the third parties is the financial support to third parties limited to in the CREA-MEDIA-2025-FILMOVE call?",
+            "answer": 70
+        }
+    ]
+}

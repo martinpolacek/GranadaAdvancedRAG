@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the lump sum amount, in EUR, awarded under the ERC-2025-POC Horizon Europe call?",
+            "answer": 150000
+        },
+        {
+            "question": "What is the maximum number of Proof of Concept Grants that can be awarded to a single ERC Synergy Grant project based on this ERC-2025-POC call?",
+            "answer": 6
+        },
+        {
+            "question": "What is the duration, in months, a project may have in the ERC-2025-POC Horizon Europe call?",
+            "answer": 18
+        },
+        {
+            "question": "In this ERC-2025-POC call, previously submitted proposals should be with either X or Y digits. What is the value of X?",
+            "answer": 6
+        },
+        {
+            "question": "In this ERC-2025-POC call, previously submitted proposals should be with either X or Y digits. What is the value of Y?",
+            "answer": 9
+        },
+        {
+            "question": "What number of pages, you should respect at Applicant\u2019s Last Name Part B in ERC-2025-POC excluding the abstract, the proposal title, reference to the PoC call and name of the Part B present on the first page, above this section?",
+            "answer": 3
+        },
+        {
+            "question": "Grants to be awarded under this action ERC-2025-POC (Proof of Concept), shall exclusively take the form of a standard lump sum pre-fixed at EUR X by a European Commission decision. What is the value of X?",
+            "answer": 150000
+        },
+        {
+            "question": "What is the maximun number of characters including spaces of the text introduced in your administrative form in ERC-2025-POC?",
+            "answer": 2000
+        },
+        {
+            "question": "According to the EU Grants Annotated Grant Agreement: V2.0\u2013 01.04.2025, EU grants are normally subject to a funding rate expressed as a fixed percentage announced in the call conditions. In the context of this ERC-2025-POC call, how many funding rates exist inside the project?",
+            "answer": 1
+        },
+        {
+            "question": "According to the EU Grants Annotated Grant Agreement: V2.0\u2013 01.04.2025, for activities related with drafting and submitting the final report incurred after the ERC-2025-POC action duration, the extra days should simply be added to the days declared in the final reporting period. There is NOT need to calculate a separate daily rate for them, and the maximum declarable day-equivalents will not apply to the additional days. How many days a normal project year has?",
+            "answer": 215
+        }
+    ]
+}

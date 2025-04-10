@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total budget earmarked for the PPPA-2025-DEPLAN Pilot Project call for proposals?",
+            "answer": 1450000
+        },
+        {
+            "question": "How many proposals will be funded by the contracting authority under the PPPA-2025-DEPLAN Pilot Project call?",
+            "answer": 1
+        },
+        {
+            "question": "What is the minimum number of independent legal entities from different countries required in a consortium to be eligible for the PPPA-2025-DEPLAN Pilot Project call?",
+            "answer": 3
+        },
+        {
+            "question": "According to the eligibility condition for the PPPA-2025-DEPLAN Pilot Project call, what is the minimum number of independent legal entity established in a Member State?",
+            "answer": 1
+        },
+        {
+            "question": "For the PPPA-2025-DEPLAN Pilot Project Call, what is the minimum overall pass score required to pass the evaluation?",
+            "answer": 60
+        },
+        {
+            "question": "What is the maximum possible score for relevance award criteria in the PPPA-2025-DEPLAN Pilot Project call?",
+            "answer": 40
+        },
+        {
+            "question": "What is the maximum number of pages allowed for proposals (Part B) in PPPA-2025-DEPLAN Pilot Project call?",
+            "answer": 70
+        },
+        {
+            "question": "According to the eligibility condition for the PPPA-2025-DEPLAN Pilot Project call, what is the minimum number of other independent legal entities each established in different EU Member States, Norway or Iceland?",
+            "answer": 2
+        },
+        {
+            "question": "What is the minimum pass score for Quality award criteria in the PPPA-2025-DEPLAN Pilot Project call?",
+            "answer": 21
+        },
+        {
+            "question": "For the PPPA-2025-DEPLAN Pilot Project call, what is the minimum pass score for Impact award criteria?",
+            "answer": 11
+        }
+    ]
+}

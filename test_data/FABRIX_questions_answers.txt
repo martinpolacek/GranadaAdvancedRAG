@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "In the FABRIX Fabrix Project First Call, what is the total funding allocated to the T&C Industry Facilitators in Athens & Rotterdam?",
+            "answer": 100000
+        },
+        {
+            "question": "According to the FABRIX Fabrix Project First Call, how many facilitators in each city will be selected?",
+            "answer": 2
+        },
+        {
+            "question": "According to FABRIX Fabrix Project First Call, what is the minimum number of physical events each facilitator is expected to hold?",
+            "answer": 2
+        },
+        {
+            "question": "As stated in the FABRIX Fabrix Project First Call, what is the minimum number of stakeholders that each facilitator is expected to involve?",
+            "answer": 30
+        },
+        {
+            "question": "In the FABRIX Fabrix Project First Call, what is the minimum number of SMEs that each facilitator is expected to assist sign up to the platform?",
+            "answer": 10
+        },
+        {
+            "question": "According to the FABRIX Fabrix Project First Call, what is the minimum number of staff a team must have in order to be eligible?",
+            "answer": 2
+        },
+        {
+            "question": "According to FABRIX Fabrix Project First Call, for each evaluation criteria, what is the minimum points an applicant must score in order to be selected?",
+            "answer": 4
+        },
+        {
+            "question": "As part of the FABRIX Fabrix Project First Call funding scheme, what percentage of the total is provided in the Initial Instalment?",
+            "answer": 25
+        },
+        {
+            "question": "According to FABRIX Fabrix Project First Call, what is the financial support provided for your activities as Facilitator (\u20ac)?",
+            "answer": 25000
+        },
+        {
+            "question": "According to FABRIX Fabrix Project First Call, what is the minimum number of SMEs that each facilitator is expected to assist sign up for the Second Call?",
+            "answer": 2
+        }
+    ]
+}

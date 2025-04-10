@@ -1,0 +1,44 @@
+{
+    "test_questions": [
+        {
+            "question": "What is the total indicative budget (in EUR) earmarked for grants under framework partnerships in the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 51500000
+        },
+        {
+            "question": "In the ESF-2025-OG-NETW-NGO-FPA call, what is the minimum number of member states, from the European Union, in which the applicant must have national member organisations?",
+            "answer": 14
+        },
+        {
+            "question": "According to the text, what is the upper range (in EUR) of the expected value of annual operating grants, per work programme, that will be signed based on the framework partnership agreements in the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 1250000
+        },
+        {
+            "question": "According to the text, what is the lower range (in EUR) of the expected value of annual operating grants, per work programme, that will be signed based on the framework partnership agreements in the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 100000
+        },
+        {
+            "question": "How many years is the duration of the framework partnership agreements in the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 4
+        },
+        {
+            "question": "According to the ESF-2025-OG-NETW-NGO-FPA call, what is the minimum pass score for the 'Relevance' criteria?",
+            "answer": 25
+        },
+        {
+            "question": "According to the ESF-2025-OG-NETW-NGO-FPA call, what is the maximum possible score for the 'Quality - Project design and implementation' award criteria?",
+            "answer": 30
+        },
+        {
+            "question": "What is the minimum pass score for the 'Impact' criteria in the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 10
+        },
+        {
+            "question": "According to the ESF-2025-OG-NETW-NGO-FPA call, what is the maximum possible score for the award criteria 'Relevance'?",
+            "answer": 40
+        },
+        {
+            "question": "What is the minimum overall score to pass, according to the evaluation criteria of the ESF-2025-OG-NETW-NGO-FPA call?",
+            "answer": 70
+        }
+    ]
+}
