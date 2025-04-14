@@ -1,0 +1,57 @@
+Here's a comprehensive summary of the DigiQ project's Diversity, Equity, and Inclusion (DEI) guidelines, Inclusive Communication Guidelines, and Selection Guidelines, based on the provided data:
+
+**1. WHO:**
+
+*   **Organizers:** The DigiQ project is organizing and implementing these DEI guidelines. The project partners are responsible for following these guidelines.
+*   **Eligible Applicants/Target Groups:** The guidelines apply to all groups involved in DigiQ: students, supervisors, researchers, mentors, speakers, committee members, etc., aiming for broad representation of the European community. They particularly focus on underrepresented groups, including but not limited to gender, nationality/culture, race/ethnicity, (dis)capacity, sexuality, age, and socio-economic factors.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** These are DEI guidelines, inclusive communication guidelines and selection guidelines for the DigiQ project.
+*   **Focus:** The project focuses on embedding DEI principles into all aspects of DigiQ, including recruitment, retention, communication, and selection processes. The key goal is to ensure that all participants, especially students, are selected and supported based on their talent, passion, and dedication, while also actively addressing systemic biases that may limit opportunities for certain groups.
+
+**3. HOW:**
+
+*   **Application Procedure (Indirectly):** The document doesn't describe a specific application procedure for a single program, but outlines how application and selection processes within DigiQ projects and activities should be conducted with DEI in mind.
+*   **Key Requirements for Participants (or rather, Implementers):**
+    *   Actively seek to reflect broad diversity in all organizational bodies.
+    *   Use respectful and inclusive communication.
+    *   Establish communication channels for reporting inappropriate behavior and providing student support.
+    *   Follow best practices in selection & recruitment, and supervision, covering key topics for inclusion & equity (e.g. unconscious bias).
+    *   Be flexible and open to individual student needs, especially considering the backgrounds of underrepresented groups.
+    *   Prioritize gender balance in networks.
+    *   Actively promote equal gender representation.
+    *   Mobility committee should comprise members from diverse backgrounds, mobility experiences, and perspectives to promote a broad range of viewpoints and minimise bias
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Address the ethical imperative of providing equal opportunities.
+    *   Improve the quality and diversity of the talent pool in quantum science and technology.
+    *   Challenge preconceived notions tied to gender and other dimensions of diversity.
+    *   Reduce gender stereotyping, promote social change and contribute to achieving gender equality
+*   **Expected Results:**
+    *   A more diverse representation in all DigiQ activities and bodies.
+    *   A more inclusive and respectful environment for all participants.
+    *   Increased participation and success of individuals from underrepresented groups.
+    *   Mitigate extrinsic factors such as bias and systemic effects that may hinder opportunities for talented individuals.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support/Financial Scope:** The document mentions setting aside 20% of student travel grants/stipends for promoting opportunities for under-represented groups (women, students with limited access to digital skills, etc.). The overall financial scope isn't explicitly defined but is implied to be significant.
+*   **Co-financing Rate:** Not explicitly stated, but assumed to be part of the overall DigiQ project funding structure.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Not specified in the provided documents.
+*   **Specific Conditions/Limitations:**
+    *   Partners are expected to apply these guidelines consistently in their work.
+    *   Local policies take precedence. Where local guidelines are not already in place or sufficient, partners are encouraged to consider drafting and/or updating policies & procedures where possible.
+    *   Human resources-related inclusion issues, such as selection, recruitment, promotion, and work-life balance, fall outside the scope of the Inclusive Communication Guidelines document (but are addressed separately by DigiQ).
+*   **Essential Details:**
+    *   Partners are expected to diligently apply these guidelines in their work and activities, ensuring their incorporation becomes an ongoing practice.
+    *   The DEI guidelines cover a wide range of personal identities and professional qualities.
+    *   Inclusive visuals need to be reinforced with inclusive language.
+    *   Guidance is provided on inclusive visuals, language, and digital accessibility.
+    *   Mobility experience and career variations should not be penalized.
+    *   Resources are provided for addressing unconscious biases during recruitment and selection.

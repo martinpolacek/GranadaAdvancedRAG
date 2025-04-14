@@ -1,0 +1,49 @@
+Here is a comprehensive summary of the provided data, focusing on the key information requested:
+
+**Call Summary**
+
+*   **WHO:**
+
+    *   **Organizer:** The [insert name of granting authority] (e.g., European Commission, EU Executive Agency) is the organizer of the project.
+    *   **Eligible Applicants:** Eligibility criteria depend on the specific call topic and programme, but generally include legal entities (public or private bodies) or international organizations established in eligible countries, including EU Member States and certain associated non-EU countries. Lead applicants often must be non-profit, or partner with public or non-profit entities if profit-oriented. Priority 3 specifically requires involvement of a public authority (national, regional, or local) as lead or co-applicant.
+*   **WHAT:**
+
+    *   **Type:** This is a call for proposals for EU action grants. Specifically, it is a Call for proposals on rights of the child and children’s participation (CERV-2025-CHILD).
+    *   **Focus:** The call aims to support, advance, and implement comprehensive policies to protect and promote the rights of the child, including the right to participate, by developing and implementing EU, national and local strategies. Projects can be national or transnational but transnationals are preferred. Specific priorities include:
+        1.  **Children’s rights in the digital age:** Promoting digital literacy and awareness of online risks.
+        2.  **Children’s engagement and participation:** Strengthening mechanisms for child participation in democratic life.
+        3.  **Embedding a rights of the child perspective in actions at national and local level:** mainstreaming tools for the promotion and protection on the rights of the child at national and local levels.
+
+*   **HOW:**
+
+    *   **Application Procedure:** Applications must be submitted electronically through the Funding & Tenders Portal Electronic Submission System. The submission process involves:
+        *   Registering an EU Login account and obtaining a Participant Identification Code (PIC) for each participating organization.
+        *   Completing and submitting structured administrative information in Part A of the Application Form.
+        *   Uploading Part B of the Application Form (technical description of the project) as a PDF, using the provided template.
+        *   KPI tool, which contains additional project data.
+        *   Uploading other required annexes, including a detailed budget table, CVs, activity report, and other supporting documents.
+    *   **Key Requirements:**
+        *   Adherence to the page limits, formatting rules, and minimum font size (Arial 9).
+        *   Inclusion of specific information in Part B, such as project objectives, methodology, consortium setup, and impact assessment.
+        *   Compliance with ethical principles, EU values, and relevant legislation.
+        *   For private entities that will be working with children as part of the project, the provision of a Child Protection Policy (CPP) covering the four areas described in Keeping Children Safe Child Safeguarding Standards.
+
+*   **WHY:**
+
+    *   **Objectives:** The call aims at contributing to the implementation of the EU Strategy on the rights of the child to bring children closer to the decision-making processes and implement measures to protect and promote the rights of the child by strengthening education on citizenship, democracy, disinformation, advocacy and equality. Projects must also develop mainstreaming tools for the promotion and protection on the rights of the child at national and local level.
+    *   **Expected Results:** Increased awareness among children of their rights, and particularly their democratic rights, more systemic child participation mechanisms, improved capacity building on children’s rights, development of better policies through improved data, increased awareness on the rights of the child.
+
+*   **HOW MUCH:**
+
+    *   **Support:** The estimated total budget is EUR 17,000,000.
+    *   **Financial Scope:** Each project must request a minimum EU grant of EUR 200,000. There is no specified maximum grant amount.
+    *   **Co-financing Rate:** The funding rate is a lump sum or financing not linked to costs. The amount will be fixed by the granting authority on the basis of the estimated project budget and a funding rate of 90%.
+
+*   **OTHER IMPORTANT INFORMATION:**
+
+    *   **Deadlines:** The deadline for submitting proposals is April 29, 2025, at 17:00:00 CET (Brussels time).
+    *   **Specific Conditions:** The projects should range between 12 and 24 months duration, take into consideration existing materials and include specific targets.
+    *   **Ethics and EU Values:** The project must respect the ethics, EU values and gender equality,
+    *    **Child Protection Policies:** Private entities implementing activities involving children as target group must be covered by Child Protection Policy.
+
+I have tried to make this summary as complete and easy to understand as possible, based on the information provided.

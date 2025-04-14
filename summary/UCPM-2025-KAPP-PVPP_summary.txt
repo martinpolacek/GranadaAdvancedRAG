@@ -1,0 +1,97 @@
+Here is a comprehensive summary of the provided data, covering all the required key information:
+
+**Union Civil Protection Mechanism (UCPM) Call for Proposals: Knowledge for Action in Prevention and Preparedness (KAPP)**
+
+**1. WHO:**
+   *   **Organiser:** European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations (DG ECHO).
+   *   **Eligible Applicants:**
+    *   Legal entities (public or private bodies)
+    *   Established in:
+        *   EU Member States (including overseas countries and territories (OCTs))
+        *   UCPM Participating States (Albania, Bosnia and Herzegovina, Iceland, Moldova, Montenegro, North Macedonia, Norway, Serbia, Türkiye, Ukraine).
+        *   Instrument for Pre-Accession (IPA) beneficiary countries not participating in the UCPM: Kosovo.
+        *   European Neighbourhood Policy countries not participating in the UCPM: East (Armenia, Azerbaijan, Georgia) and South (Algeria, Egypt, Israel, Jordan, Lebanon, Libya, Morocco, Palestine and Tunisia).
+    *   International organisations
+
+**2. WHAT:**
+   *   **Type:** EU Action Grants for civil protection, disaster preparedness, and prevention.
+   *   **Focus:** Knowledge for Action in Prevention and Preparedness (KAPP) to strengthen cooperation among Member States on disaster prevention and preparedness. It has two topics:
+    *   **Topic 1 (UCPM-2025-KAPP-PVPP): Prevention and Preparedness**
+        *   *Priorities:* Improving risk assessment, increasing risk awareness and preparedness, enhancing early warning, and ensuring a robust civil protection system.
+    *   **Topic 2 (UCPM-2025-KAPP-EX): Full-Scale Exercises**
+        *  Improving civil protection preparedness and response to all kinds of disasters inside the Member States through full-scale field exercises
+
+**3. HOW:**
+   *   **Submission Procedure:** Online submission via the Funding & Tenders Portal Electronic Submission System.
+   *   **Application Form:**
+        *   Part A: Administrative information and summarised budget (filled online).
+        *   Part B: Technical description of the project (downloaded, completed as PDF, and uploaded). Maximum 50 pages (excluding annexes).
+   *   **Mandatory Annexes:**
+        *   Detailed budget table (Excel template).
+        *   CVs of core project team members.
+        *   Activity reports of the last year of all participants (if applicable).
+        *   List of previous key projects (last 4 years).
+        *   Letter of support from the competent national civil protection authority of the country of each partner receiving EU grant.
+        *   Annex of Key Performance Indicators (KPIs)
+   *   **Key Requirements for Participants:**
+        *   Registration in the Participant Register and validation of PIC.
+        *   Explicit consent of all applicants on their participation and on the content of the proposal.
+        *   Compliance with eligibility criteria.
+        *   Financial and operational capacity to carry out the proposed project.
+        *   Explicit description of the project aim, objectives, scenario and exercise participants
+        *   Detailed description of the project activities and their logical structure
+        *   Evidence/data to support needs analysis
+        *   Measures to ensure quality of project implementation and financial management
+        *   Explanation of how the project activities and outputs will result in the outcomes
+
+**4. WHY:**
+   *   **Objectives:**
+        *   Support the implementation of the Union disaster resilience goals.
+        *   Improve protection against disasters with cross-border impacts.
+        *   Build competences, skills, knowledge, and expertise in civil protection and disaster risk management.
+        *   Strengthen knowledge partnerships between civil protection and disaster risk management actors.
+        *   Integrate climate adaptation and resilience into risk assessments, strategies and plans.
+        *   Raise preparedness and awareness among citizens, local entities, businesses, and other stakeholders.
+        *  Improve civil protection preparedness and response to all kinds of disasters inside the Member States by providing a testing environment and a learning opportunity for all actors involved in civil protection assistance interventions through a full-scale field exercise.
+   *   **Expected Results (Example - Topic 1):**
+        *   Improved understanding and knowledge of current and future disaster risks.
+        *   Harmonised multi-country risk assessments.
+        *   Enhanced quantification and sharing of disaster loss and damage data.
+        *   Improved cross-border cooperation on risk assessment and management.
+        *   Enhanced personal and household preparedness for disasters across the EU.
+
+**5. HOW MUCH:**
+   *   **Amount of Support:** EUR 14,000,000 (estimated total budget).
+        *   Prevention and Preparedness topic: EUR 10,000,000
+        *   Full-scale exercises topic: EUR 4,000,000
+   *   **Financial Scope of Projects:** Projects will be co-financed up to 90% of their budget.
+   *   **Co-financing Rate:** Up to 90%.
+   *   **Maximum Grant Amount:** EUR 1,000,000 per project, regardless of the overall budget proposal.
+   *   Minimum Grant amount to be awarded: EUR 400,000
+
+**6. OTHER IMPORTANT INFORMATION:**
+   *   **Deadlines:**
+        *   UCPM-2025-KAPP-PVPP (Prevention and Preparedness): April 29, 2025, 17:00 CET (Brussels Time)
+        *   UCPM-2025-KAPP-EX (Full-Scale Exercises): May 15, 2025, 17:00 CET (Brussels Time)
+   *   **Specific Conditions:**
+        *   Proposals must align with civil protection and disaster risk management policy frameworks.
+        *   Active involvement of end-users is recommended.
+        *   Collaboration with existing initiatives (especially UCPM) is expected.
+        *   Proposals should follow a multi-hazard approach.
+        *   Projects must respect EU values and policies (environment, social, security, trade, etc.).
+        *   Financial support to third parties is *not* allowed (Topic 1).
+   *   **Limitations:**
+        *   The maximum number of pages in Part B of the Application Form is limited to 50 (excluding annexes).
+        *   Amounts entered in the summarized budget table must correspond to the amounts calculated in the detailed budget table.
+        *   "Public" and "Sensitive" are the only dissemination levels to be selected for deliverables.
+        *   Maximum grant amount is EUR 1,000,000 per project.
+        *   Activities must take place in eligible countries.
+    *  Early start of project before Grant Agreement signature is at the applicant's own risk
+        * Projects websites cannot be funded
+   *   **Other Essential Details:**
+        *   The Mutual Insurance Mechanism (MIM) is not applicable to this call.
+        *   Proposals for completed projects will be rejected. Proposals for started projects are subject to case-by-case assessment.
+        *   The UCPM Knowledge Network platform should be used for project communication and dissemination.
+        *   The Model Grant Agreement and other templates are available on the Funding & Tenders Portal.
+
+This comprehensive summary should provide a clear and thorough understanding of the UCPM KAPP call, its objectives, requirements, and procedures.

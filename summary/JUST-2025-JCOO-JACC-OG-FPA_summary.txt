@@ -1,0 +1,70 @@
+Here's a comprehensive summary of the provided data, broken down into the requested categories:
+
+**1. WHO:**
+
+*   **Organiser:** The European Commission, Directorate-General for Justice and Consumers (DG JUST) is organising the call for proposals for Framework Partnership Agreements under the Justice Programme (JUST).
+*   **Eligible Applicants:** The call is open to single applicants that:
+    *   Are legal entities (private bodies).
+    *   Are non-profit organisations.
+    *   Are established in eligible countries (EU Member States or associated non-EU countries). Check the list regularly for the latest association statuses.
+    *   Are established formal networks (with or without their own legal personality but represented by a joint secretariat or officially appointed coordinator) organised at the European level with members from at least 14 EU Member States or associated countries.
+    *   Have statutory aims aligned with facilitating and supporting judicial cooperation in civil and/or criminal matters and/or access to justice.
+
+**2. WHAT:**
+
+*   **Type of Program:** This is a call for proposals for 3-year Framework Partnership Agreements (FPAs).
+*   **Focus:** The FPAs aim to support European networks active in facilitating and promoting judicial cooperation in civil and/or criminal matters and/or in the area of access to justice. The annual operating grants to be signed on the basis of these Framework Partnership Agreements should enhance the capacities of the selected European networks to contribute actively to the development and implementation of the EU policies in these policy areas.
+
+**3. HOW:**
+
+*   **Submission Procedure:**
+    *   Proposals must be submitted electronically via the EU Funding & Tenders Portal Electronic Submission System.
+    *   Paper submissions are not accepted.
+    *   Use the forms provided within the Submission System (not the templates on the Topic page).
+*   **Key Requirements for Participants:**
+    *   Participants must register in the Participant Register to obtain a PIC.
+    *   Non-profit status.
+    *   EU legal representatives
+    *   The network must consist of members from at least 14 EU Member States or associated countries.
+    *   Compliance with ethical principles and EU values (e.g., gender equality).
+*   **Mandatory Documents:**
+    *   Application Form Part A (administrative information and summarised budget).
+    *   Application Form Part B (technical description of activities - max 45 pages).
+    *   KPI tool (additional project data regarding contribution to EU programme key performance indicators).
+    *   CVs of core project team.
+    *   Activity report of last year.
+    *   List of previous projects (key projects for the last 4 years).
+    *   List of network members (including legal name, country of establishment, and type of organisation).
+    *   For participants with activities involving children: child protection policy.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   To facilitate and support judicial cooperation in civil and criminal matters, promoting the rule of law.
+    *   To facilitate effective and non-discriminatory access to justice for all.
+*   **Expected Results (Impact):**
+    *   Increased capacity of national practitioners to address issues related to judicial cooperation.
+    *   Strengthened cooperation between competent authorities.
+    *   Improved efficiency of justice systems.
+    *   Enhanced awareness of European standards related to the rule of law.
+    *   Improved support and protection for victims of crime and suspects/accused persons.
+    *   (A detailed list of expected impacts is outlined in section 2 of the call document.)
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** The budget will be allocated via specific calls to the selected framework partners (see the specific call JUST-2025-JCOO-JACC-OG-SGA).
+*   **Financial Scope of Projects:** Not specified in this call, but will depend on the specific grants calls issued under the FPA.
+*   **Co-financing Rate:** Not explicitly specified, but is implicit. There is co-financing, which means that the EU won't finance 100 % of the action, rather it contributes a percentage of the budget
+*  **Framework partnerships:** We expect to sign between 13 and 17 framework partnerships.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline:** 26 June 2025 – 17:00:00 CET (Brussels).
+*   **Specific Conditions and Limitations:**
+    *   Only non-profit organisations can apply.
+    *   Financial support to third parties (FSTP) is not allowed under this call.
+    *   Activities must take place in eligible countries.
+    *   Projects must comply with ethical standards, EU values, and applicable laws.
+    *   The applicant must clearly specify to which priority these activities refer to (see section 2 above). Select only one priority and further elaborate on how its activities support this specific priority in the description of the action (Part B of the application form – section 1.3 “Contribution to EU policy”).
+*   **Ethics and EU Values:** Projects must comply with the highest ethical standards and EU values based on Article 2 of the Treaty on the European Union and Article 21 of the EU Charter of Fundamental Rights. Applicants must show in their application that they respect ethical principles and EU values. Projects must seek to promote gender equality and non-discrimination mainstreaming in accordance with the Gender Mainstreaming Toolkit. Project activities should contribute to the equal empowerment of women and men in all their diversity, ensuring that they achieve their full potential and enjoy the same rights.
+*   **Contacts:** For individual questions on the Portal Submission System, please contact the IT Helpdesk. Non-IT related questions should be sent to the following email address: EC-JUSTICE-CALLS@ec.europa.eu

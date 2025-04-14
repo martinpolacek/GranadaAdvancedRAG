@@ -1,0 +1,40 @@
+Okay, here is a comprehensive summary of the provided information, organized according to your specified key information points:
+**Summary of Horizon Europe ERC Proof of Concept Grant Call (HE ERC-2025-PoC)**
+**1. WHO:**
+*   **Organizer:** The European Research Council (ERC), a part of Horizon Europe. The operational implementation will be carried out by the ERC Executive Agency (ERCEA).
+*   **Eligible Applicants:** Principal Investigators (PIs) currently or recently (after January 1, 2024) holding an existing ERC Starting Grant, Consolidator Grant, Advanced Grant or Synergy Grant. Synergy Grant Principal Investigators are eligible to apply only with the written consent of all Principal Investigators in the same Synergy Grant project. The Host Institution (HI) must be established in an EU Member State or Associated Country as a legal entity created under national law, or it may be an International European Interest Organisation (such as CERN, EMBL, etc), or any other entity created under EU law.
+
+**2. WHAT:**
+*   **Type:** Proof of Concept Grant Call (HE ERC-2025-PoC).
+*   **Focus:** To explore the commercial and/or societal application potential of research ideas arising from existing ERC-funded projects. Aims to bridge the gap between research and the early stages of innovation.
+
+**3. HOW:**
+*   **Application Procedure:**
+    *   Submission is electronic via the EU Funding & Tenders Portal.
+    *   A complete proposal includes:
+        *   Administrative forms (Part A) completed online.
+        *   PoC proposal (Part B): a technical annex that is uploaded as a PDF document (maximum 10 pages, excluding cover page with abstract, references, and risk mitigation table).
+        *   Mandatory supporting document: Letter of Commitment from the Host Institution (using the provided template).
+        *   Additional supporting documents (if applicable): Letters of support or intent from relevant stakeholders, ethics and security-related documents.
+*   **Key Requirements for Participants:**
+    *   The PI must have an ongoing or recently completed (after January 1, 2024) ERC grant.
+    *   The proposal must "draw substantially" on the existing ERC-funded research.
+    *   The Host Institution must commit to engaging the PI for the duration of the project.
+    *   If applicable, Public bodies, Research organisations or Higher Education institutions from EU Member States or Associated Countries must have a Gender Equality Plan (GEP) in place.
+    * Ensure that they are not in exclusion situations regarding EU funding.
+
+**4. WHY:**
+*   **Objectives:** To maximize the impact of ERC-funded research by facilitating the exploration of its innovation potential (both commercial and societal).
+*   **Expected Results:** To progress research ideas from the laboratory towards practical application, potentially including patenting, spin-off creation, licensing, commercial/societal partnerships, policy contributions, etc. It focuses on activities to validate the concept, assess feasibility, develop IP strategy, and engage with stakeholders.
+
+**5. HOW MUCH:**
+*   **Amount of Support:** EUR 150,000 (Lump Sum).
+*   **Financial Scope of Projects:** Projects must be designed to be feasible within the EUR 150,000 lump sum. No budget breakdown with cost figures is requested.
+*   **Co-financing Rate:** 100% lump sum contribution.
+
+**6. OTHER IMPORTANT INFORMATION:**
+*   **Call Identifier**: ERC-2025-PoC
+*   **Deadlines:** Two cut-off dates: 13 March 2025, 17:00 Brussels time and 18 September 2025, 17:00 Brussels time. PIs may only submit one proposal to the ERC-2025-PoC call.
+*   **Limitations:** A maximum of three Proof of Concept Grants may be awarded per StG, CoG, AdG project and a maximum of six Proof of Concept Grants per Synergy Grant project. PIs with proposals rejected for research integrity reasons under WPs 2023 or 2024 are ineligible for ERC-2025-PoC.
+*   **Specific Conditions:** Focus should be on exploring the innovation potential, not extending the original research or overcoming technical obstacles from the original grant. Activities must comply with highest ethical standards, and all ethics and security related issues have to be addressed. The work has to be carried out under the guidance of the Principal Investigator.
+*  **Documents**: The ERC MGA — Multi & Mono document contains additional legal and program implementation information. Consult the EU Funding & Tenders Portal. The EU Grants AGA — Annotated Grant Agreement may help interpret.

@@ -1,0 +1,58 @@
+Okay, here's a comprehensive summary of the provided documents focusing on the key information you requested:
+
+**Summary of the OSCARS Third-Party Project Agreement**
+
+**1. WHO:**
+
+*   **Organizers:** The "Open Science Clusters’ Action for Research & Society" (OSCARS) consortium, comprised of 15 European entities, with Centre National de la Recherche Scientifique (CNRS) as the Coordinator.
+*   **Eligible Applicants/Target Groups:** The parties participating in the project [project name] in the domain of [domain name]. Represented by [name of the third parties’ coordinator’s organisation] (“Third Parties Coordinator”).
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** It's a Third-Party Project Agreement within the framework of the OSCARS initiative, a Horizon Europe Framework Programme for Research Infrastructures project. This specific agreement facilitates the implementation of an open science project selected through an OSCARS open call.
+*   **Focus of the Project:** The project [project name] is a open science project in the domain of [domain name] supporting the use of EOSC resources.
+
+**3. HOW:**
+
+*   **Application Procedure:** The Third Parties' proposal was already submitted to and accepted by the OSCARS Independent Evaluation Committee (IEC). This agreement details the terms of implementation.
+*   **Key Requirements for Participants:**
+    *   Carry out the Project according to the agreement, "OSCARS 1st Open Call for Open Science Projects and Services" requirements, and the project proposal.
+    *   Deliverables:
+        *   A final public summary of the Project
+        *   A scientific journal-type article summarizing the main Project
+        *   A poster presenting the Project
+        *   Make available and reproducible the achieved scientific results as well as any delivered open science service of the Project and must grant royalty-free access to these results to the EOSC Association.
+    *   Present the Project and results at the OSCARS Final Assessment Conference.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Support and establish open science projects and services.
+    *   Demonstrate and pilot the use of EOSC resources.
+    *   Enhance cross-RI and/or cross-domain activities.
+*   **Expected Results:** The Third Parties must deliver the project’s objectives. Achieve a final summary, article, and poster summarizing the project, present their project at the OSCARS final assessment conference and make scientific results available and reproducible and must grant royalty-free access to these results to the EOSC Association.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** The maximum Grant is between EUR 100,000 and EUR 250,000, paid in two installments.
+*   **Financial Scope of Projects:** As above.
+*   **Co-financing Rate:** 85% of the Grant will be paid at the signature of the agreement and the remainding 15% after successful completion.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:**
+    *   Signature of agreement within 15 days of receipt by the Third Parties Coordinator.
+    *   Deliverables are submitted 30 days after the end of the project.
+*   **Specific Conditions/Limitations:**
+    *   Project must be implemented according to the terms.
+    *   Grant money must be distributed within the Third Parties group by the Third Parties Coordinator.
+    *   Adherence to ethics, confidentiality, and other obligations outlined in the HE MGA.
+    *   Must comply with all communication and publicity requirements.
+*   **Key Details:**
+    *   The HE MGA's Intellectual Property provisions apply to the Third Parties.
+    *   Governing law is based on Belgian law.
+    *   The OSCARS consortium partners bear no responsibility for actions of the Third Parties.
+    *   The Third Parties grant royalty-free access to the Project’s deliverables to the EOSC Association for monitoring and developing policies and strategies for the European Open Science Cloud.
+    *   Any dissemination by the Third Party of the scientific outcomes of the funded project shall expressly mention that the project was funded by OSCARS, a Horizon Europe grant (GA number 101129751) led by the five Science Clusters: ENVRI, ESCAPE, LS RI, PaNOSC, SSHOC.
+
+I hope this comprehensive summary is helpful!

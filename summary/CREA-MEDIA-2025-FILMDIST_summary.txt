@@ -1,0 +1,56 @@
+Here's a comprehensive summary of the provided data, structured to include the key information points requested:
+
+**Creative Europe Programme (CREA) - European Film Distribution Call Summary**
+
+1.  **WHO:**
+    *   **Organizer:** European Education and Culture Executive Agency (EACEA) under the Creative Europe Programme (MEDIA strand).
+    *   **Eligible Applicants:** European companies active in the audiovisual sector as cinema/theatrical distributors meeting specific criteria.  Applicants must be established in a Creative Europe MEDIA participating country and be majority-owned by nationals of those countries.
+
+2.  **WHAT:**
+    *   **Type:** EU Action Grant - Call for Proposals (CREA-MEDIA-2025-FILMDIST)
+    *   **Focus:** European Film Distribution - To encourage wider transnational distribution of recent European films by providing funds to European distributors, based upon their performance on the market, for further reinvestment in the acquisition, promotion, and distribution (including online) of recent non-national European films.
+
+3.  **HOW:**
+    *   **Submission Procedure:** Electronic submission via the Funding & Tenders Portal Electronic Submission System. Paper submissions are not allowed.
+    *   **Required Documents:**
+        *   Application Form Part A (Administrative Information & Summarized Budget - Online)
+        *   Application Form Part B (Technical Description - PDF Upload) - Max 70 pages
+        *   Part C — contains additional project data and the project’s contribution to EU programme key performance indicators (to be filled in directly online)
+        *   PDF with information about film(s)/work(s) generated from the Creative Europe MEDIA Database
+        *   Declaration on Independence and Ownership (Template from the Portal)
+        *   Certified admissions (Certification of admissions by the designated national authority) (Template from the Portal)
+    *   **Key Requirements:**
+        *   Applicants must meet eligibility criteria regarding location, ownership, and primary activity as theatrical distributors.
+        *   Eligible films must be non-national European works meeting specific criteria (fiction/documentary, minimum length, copyright date, origin of production, significant participation of European professionals).
+        *   Eligible admissions must be certified and declared in the Creative Europe MEDIA Database and meet criteria regarding dates and ticket prices.
+
+4.  **WHY:**
+    *   **Objectives:**
+        *   Enhance the circulation, promotion, and distribution of European audiovisual works within the Union and internationally.
+        *   Encourage innovative business models in the new digital environment.
+    *   **Expected Results/Impact:**
+        *   Improved trans-national distribution of recent non-national European films.
+        *   Increased investment in the production, acquisition, promotion, theatrical, and online distribution of non-national European films.
+        *   Developed links between production and distribution sectors, improving the competitive position of non-national European films.
+
+5.  **HOW MUCH:**
+    *   **Total Call Budget:** EUR 32,000,000
+    *   **Maximum Grant Amount:** EUR 1,000,000 per project
+    *   **Funding Rate:** 70% of eligible costs.
+    *   **Eligible re-investment activities** Eligible activity 1: Investment in co-production, Eligible activity 2: Investment in acquisition of theatrical and/or online distribution rights,Eligible Activity 3: Promotion, marketing and advertising for theatrical releases, Eligible Activity 4: Promotion, marketing and advertising for online releases.
+    Activity 1 and 2 are only eligible up to 70% of the total direct re-investment budget.
+    The call specifically excludes certain costs such as personnel work and travel arrangements under "Eligible activity 3 and 4. "
+
+6.  **OTHER IMPORTANT INFORMATION:**
+    *   **Call Identifier:** CREA-MEDIA-2025-FILMDIST
+    *   **Deadline for Submission:** 24 April 2025, 17:00:00 CET (Brussels)
+    *   **Eligible Period for Admissions:** 1 January 2024 - 31 December 2024
+    *   **Project Duration:** 12-24 months (extensions possible)
+    *   **Form of Grant:** Budget-based (actual costs with unit cost and flat-rate elements)
+    *   **Non-profit rule**: Grants may not produce a profit (surplus of revenues + EU grant over costs)
+    *   **Specific Conditions:** Non-national films must have over 50% professionals who are nationals/residents of MEDIA strand participating countries, according to points table.
+    *   **Ethics:** Project may not include pornographic or racist material or advocate violence.
+    *   **Conflicts of Interest:** Must be avoided.
+    *   **Ineligible activities**: Activities cannot include personnel work and travel arrangements
+    *   **Specific legal and financial aspects**: The Model Grant Agreement that will be used (and all other relevant templates and guidance documents) can be found on Portal Reference Documents.
+    *   **After the project ends** : beneficiaries continue to have obligations such as: Confidentiality (5 years after final payment), Record-keeping (5 years after final payment (or 3 for grants of not more than EUR 60 000)), Reviews (up to 5 years after final payment (or 3 for grants of not more than EUR 60 000)), Audits (up to 5 years after final payment (or 3 for grants of not more than EUR 60 000)), Extension of findings from other grants to this grant (no later than 5 years after final payment (or 3 for grants of not more than EUR 60 000)), Impact evaluation (up to 5 years after final payment (or 3 for grants of not more than EUR 60 000)).

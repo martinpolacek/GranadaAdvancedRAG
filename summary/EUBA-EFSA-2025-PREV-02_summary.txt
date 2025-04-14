@@ -1,0 +1,58 @@
+Okay, here's a comprehensive summary of the provided data, structured according to your requirements:
+
+**1. WHO:**
+
+*   **Organiser:** The European Food Safety Authority (EFSA), with possible specific roles by the European Commission, EU Executive Agencies, Joint Undertakings
+*   **Eligible Applicants/Target Groups:**
+    *   Organisations listed under Article 36 of Regulation (EC) 178/2002. These are competent organizations designated by EU Member States that can assist EFSA with its mission.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:**  Call for proposals to establish Framework Partnership Agreements (FPA) that will allow EFSA to award Specific Agreements for certain tasks. These Specific Agreements award action grants through financing not linked to costs for the completion of tasks.
+*   **Exact Focus:** Providing support to EFSA for risk assessments of pesticides, including:
+    *   PREV tasks (Pesticides Peer Review Unit)
+    *   PLANTS tasks (Environment, Plants & Ecotoxicology Unit)
+    *   FDP tasks (Front-Desk & Workforce Planning Unit)
+    *Tasks will be related to risk assessments of active substances used in plant protection products and risk assessments of pesticide residues in food and feed. Tasks also include scientific coordination and administrative support.
+
+**3. HOW:**
+
+*   **Application Procedure:**
+    *   Proposals must be submitted electronically via the EU Funding & Tenders Portal.
+    *   Registration in the Participant Register is required.
+    *   Signed declarations and necessary documents (administrative and operational
+        capacity) must be included.
+    *   For any clarification the applicants can write to the functional mail box indicated in the Call.
+*   **Key Requirements for Participants:**
+    *   Must be on the Article 36 list of competent organizations.
+    *   Must demonstrate professional resources, competencies, and qualifications to complete proposed tasks (including ability to employ or contract individuals with specific expertise for each area/task combination).
+    *   Must meet ethical and financial standards.
+    *   Must commit to promoting EU values.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   To create a long-term scientific cooperation framework between EFSA and Member State organisations.
+    *   To provide EFSA with scientific support for tasks on pesticides falling within the mission of the EFSA PREV, PLANTS and FDP units.
+    *   To facilitate knowledge transfer and improve the efficiency of EU regulatory processes.
+*   **Expected Results:**
+    *   A framework partnership agreement
+    *   Access to the deliverables needed for the support of EFSA for risk assessments of active substances used in plant protection products
+    *   Independent, high-quality scientific advice and guidance for EU institutions and Member States regarding pesticide risk assessment.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support/Financial Scope:**  Overall envelope amount for the implementation via grant agreements under this FPA is EUR 2,500,000. Specific agreements are awarded to a FPA beneficiary based on a cascade mechanism.
+*   **Co-financing Rate:** 100% EU funding
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Application deadline is indicated in the Call (section 1). Specific agreements must be signed before the Framework agreement expires.
+*   **FPA Duration:** 48 months from the last signature date. Grant agreements must be signed before FPA expiration. Ongoing actions can continue for a maximum of 6 months after the FPA expires.
+*   **Specific Conditions/Limitations:**
+    *   Subcontracting is not allowed.
+    *   Maximum of four FPAs may be awarded in cascade for each area/task combination.
+    *   Use of EFSA outputs may be subject to publication with attribution to the beneficiary.
+    *   EFSA is entitled to retain data for up to 10 years after the final payment.
+*   **Key Documents:** The Call for Proposals, FPA model, Specific Agreement model, and related documents are available on the EU Funding & Tenders Portal. Annex 6 is a list of documents that must be provided to EFSA.
+*  **Declaration of Interest (Dol):** Partner must provide Dol for all staff members or for new subcontractor (s) or previously agreed subcontractor (s) if their CoI situation significantly changes during the implementation of the specific agreement.

@@ -1,0 +1,75 @@
+Okay, here is a comprehensive summary of the provided documents structured according to your requirements.  Please note that I will need you to replace the bracketed placeholders with specific information relevant to your call. I will also make some assumptions based on common grant practices, which you can adjust if necessary.
+
+**Call Summary:** [insert call identifier] — [insert call name]
+
+**1. WHO:**
+
+*   **Organizer:** The European Commission, specifically the Directorate-General for Communications Networks, Content and Technology (DG CONNECT) and the Artificial Intelligence Office (CNECT.A.4), is organizing this call under the Digital Europe Programme (DIGITAL).
+*   **Eligible Applicants:** This call is **restricted** to candidate European Digital Innovation Hubs (EDIHs) originating from existing EDIHs funded by the Digital Europe Programme and EDIHs with a Seal of Excellence as listed in the Commission Implementing Decision 2023/1534. The applications must be submitted by eligible EDIHs from the territories explicitly stated in the call's eligibility section. a) Austria b) Belgium c) Bulgaria d) Croatia e) Cyprus f) Czechia g) Denmark h) Estonia i) Finland j) France: the regions of Bretagne, Hauts-de-France, Ile-de-France, Nouvelle-Aquitaine, Pays de la Loire, Provence-Alpes-Côte d’Azur; k) Germany l) Hungary m) Ireland n) Latvia o) Lithuania p) Malta q) Netherlands r) Poland s) Romania t) Slovakia u) Slovenia v) Spain w) Sweden x) Iceland y) Norway.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** This is a call for proposals for EU action grants. It is an EU Synergy call.
+*   **Focus:** The focus of the call is the consolidation of the network of European Digital Innovation Hubs (EDIHs) with a reinforced AI focus. The goal is to strengthen the performance and capacity of EDIHs to support the digital transformation of SMEs, mid-caps, and public sector organizations, particularly in the development, training, deployment, and uptake of European AI.
+
+**3. HOW:**
+
+*   **Application Procedure:**
+    *   Applications must be submitted electronically via the EU Funding & Tenders Portal Electronic Submission System.
+    *   The application package consists of:
+        *   Part A: Structured administrative information (filled out directly online in the Portal).
+        *   Part B: Narrative technical description of the project (downloaded from the Portal, completed as a PDF, and re-uploaded).  Page limit is normally 70 pages unless specified otherwise in the Call document.
+        *   Mandatory Annexes: Detailed budget table/calculator, CVs of core project team, list of previous projects (last 4 years), Activity report of last year, letter of designation by the Member State.
+    *   Formatting: Minimum font size is Arial 9, page size A4, and margins at least 15mm.
+*   **Key Requirements for Participants:**
+    *   Applicants must be legal entities (public or private).
+    *   Applicants must be established in an eligible country (EU Member States, eligible EEA countries, and countries associated with the Digital Europe Programme).
+    *   Applicants must be registered in the Participant Register and have a PIC number.
+    *   Explicit consent from all applicants on their participation and on the content of the proposal.
+    *   Commitment to comply with ethics and security requirements.
+
+**4. WHY:**
+
+*   **Objectives:** The overall objective is to consolidate the network of European Digital Innovation Hubs by:
+    *   Strengthening their performance and capacity.
+    *   Meeting local, regional, national, and European digitalization needs.
+    *   Supporting the wide deployment and uptake of European AI technologies and solutions.
+    *    Promoting the adoption of other crucial digital technologies.
+    *   Harnessing the potential of green digital technologies.
+    *   Bridging technological gaps, and support competitiveness and economic convergence.
+*   **Expected Results:**
+    *   Support the digital transformation of SMEs, mid-caps, and public sector organizations.
+    *   Provide the core types of EDIH services (testing before investing, training, access to finance, networking).
+    *   Ensure seamless service delivery through proxies when required.
+    *   Act as central point for companies and public sector ensuring a flexible and seamless digital journey.
+    *   Contribute to the consolidation of a balanced network of EDIHs across Europe.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** The estimated available call budget is EUR 170,000,000 (may be increased by a maximum of 20%). Budget is allocated separately for each Member State and Associated Country. Each project will be funded from the budget of the corresponding Member State or associated country.
+*   **Financial Scope of Projects:**  Project budget (requested grant amount): between EUR 1,000,000 and EUR 3,000,000 per project.
+*   **Co-financing Rate:** Simple Grants — 50% funding rate (EU contribution).
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline:** [Insert Deadline - 14 May 2025 – 17:00:00 CEST (Brussels)].
+*   **Specific Conditions & Limitations:**
+    *   The grant will be a budget-based mixed actual cost grant (actual costs, with unit cost and flat-rate elements).
+    *   Full cost reimbursement option for listed equipment may be eligible (Full-capitalised costs are exceptionally eligible for listed equipment (see Call document)).
+    *   Financial support to third parties is NOT allowed, unless explicitly authorized in the call document and corresponding actions described in Part B.
+    *   "The following parts of the award criteria in section 9 are exceptionally NOT applicable for this topic:
+        - extent to which the project would reinforce and secure the digital
+        technology supply chain in the Union
+        - extent to which the proposal addresses environmental sustainability and
+        the European Green Deal goals, in terms of direct effects and/or in
+        awareness of environmental effects*."
+    *   Specific security and ethics requirements apply. Please see the form "How to Complete your ethics self-assessment", and "Classification of information in Digital Europe projects".
+*   **Evaluation Criteria:**
+    *   Relevance (Weight and Threshold must be in Call Document).
+    *   Implementation (Weight and Threshold must be in Call Document).
+    *   Impact (Weight and Threshold must be in Call Document).
+    *   Overall Threshold also must be in Call Document.
+*   Projects that are eligible and exceed the evaluation thresholds will be awarded a STEP Seal.
+*  All Proposals in this topic that are eligible and exceed the evaluation thresholds will be listed on the STEP portal. The highest-ranked will receive DEP funding of up to 50%, with the remainder to be covered by national, regional or private funding. Unfunded EDIHs with a STEP Seal may receive funding by Member States or regions without additional evaluation, and, if operational, will be recognised as European Digital Innovation Hub in their own right and will be integrated as full members of the EDIH network.
+
+Remember to consult the complete and original call documentation for accurate and complete information. Good luck!

@@ -1,0 +1,68 @@
+Here's a comprehensive summary of the provided text, structured to include the requested key information:
+
+**Call:** [insert call identifier] — [insert call name]
+EU Grants: Application form (INNOVFUND): V4.0 –15.11.2024
+
+**AND**
+
+Call: INNOVFUND-2024-BATT
+EU Grants: Call document (INNOVFUND): V1.1 – 17.02.2025
+
+**1. WHO:**
+
+*   **Organizing:** European Climate, Infrastructure and Environment Executive Agency (CINEA) manages the Innovation Fund call.
+*   **Eligible Applicants:** Legal entities (public or private bodies) established in any country in the world, who have the financial and operational capacity. *Note:* Certain restrictions apply for specific actions and security reasons. Natural persons are not eligible unless self-employed. International organizations are eligible.
+
+**2. WHAT:**
+
+*   **Type:** EU Action Grant under the Innovation Fund. Focus is demonstration of innovative low-carbon technologies. The INNOVFUND-2024-BATT call contributes to the objectives of the Strategic Technologies for Europe Platform (STEP Regulation 2024/795).
+*   **Focus (INNOVFUND-2024-BATT-EV-CELLS):** Manufacturing of electric vehicle battery cells. Optional inclusion of upstream components production (cathode precursor material (pCAM), cathode active material (CAM), anode active material (AAM), electrolyte, separator) and battery or battery material recycling, not exceeding 100% of battery cell production capacity. The call seeks to ramp up electric vehicles, in line with the EU CO2 emissions standards for new passenger cars and for new light and heavy commercial vehicles
+*   Expected outcomes include reducing GHG emissions and supporting a climate-neutral economy by 2050. All results/patents must be registered in an EU Member State or EEA country.
+   
+
+**3. HOW:**
+
+*   **Submission Procedure:**
+    *   Electronic submission via the EU Funding & Tenders Portal Electronic Submission System is mandatory. No paper submissions are allowed.
+    *   The submission involves a 2-step process, consisting of registering in the Portal and submitting the proposal.
+    *   Must use specific online forms (Part A, Part C) and templates (Part B and Annexes) provided within the Submission System.
+*   **Key Requirements (participants and applications):**
+    *   Application Form Part A (administrative information and summarized budget - online).
+    *   Application Form Part B (technical description, max 70 pages + annexes, PDF upload). Templates must be downloaded, completed and uploaded.
+        *   Page size: A4, Minimum font size: Arial 9 points, Margins: at least 15 mm
+    *   Part C (additional project data and KPIs - online).
+    *   Mandatory annexes (using provided templates unless stated otherwise): detailed budget table/relevant cost calculator ('financial information file'), timetable/Gantt chart, GHG emission avoidance calculator, feasibility study, business plan, detailed financial model, and extended Part C form.
+    *   Supporting documents: project shareholders' financial statements, project funding support documentation, project contract terms documentation, due diligence reports (if any), permits, licenses, authorizations (if any), and other annexes (if required for 'reference plant' relevant cost calculation methodology).
+    *   Declarations of consent and explicit consent of all applicants.
+    *   The proposal title must not include the characters: < > " &
+    *   Mandate to act for all applicants.
+    *   Correct and complete information.
+    *   Compliance of all participants with the conditions for receiving EU funding.
+*   **Key Requirements (participants):** Legal entities from eligible countries, must register and be validated in the Participant Register.
+*   Consortium roles must follow the grant agreement.
+*   Page limits and formatting rules apply (failure to comply can lead to automatic warnings, invisible excess pages and disregarded content by the evaluators).
+* Intellectual Property: New patents resulting from the project must be registered in the EU or EEA.
+* Ethics: Compliance with the highest ethical standards and applicable EU, international and national law.
+
+**4. WHY:**
+
+*   **Objectives:** Support projects on electric vehicle battery cells manufacturing demonstrating innovative technologies, processes or products, that are sufficiently mature and have a significant potential to reduce greenhouse gas emissions
+*   **Expected Results:**
+    *   Transition to a climate-neutral economy by 2050.
+    *   Reduction of emissions by at least 55% by 2030 (compared to 1990).
+    *   Increased investments in EU's electric vehicle battery manufacturing capacity and resilient value chains, in line with the Net Zero Industry Act.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** EUR 1 000 000 000
+*   **Financial Scope of Projects:** Capital expenditure above EUR 2 500 000 (for INNOVFUND-2024-BATT-EV-CELLS)
+*   **Co-financing Rate:** Maximum 60% of the relevant costs.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline for Submission:** April 24, 2025, at 17:00:00 CET (Brussels time).
+*   **Specific Conditions:** Projects must be located in EU Member States or EEA countries. Projects must reach financial close within four years after grant signature and operate at least three years after entry into operation. Double funding is strictly prohibited.
+*   **Limitations:** Financial support to third parties is not allowed. Double funding from the EU budget is prohibited (except for EU Synergies actions). The overall page limit for Part B is 70 pages. Feasibility study and business plan annexes must not exceed 60 pages each.
+*   **Other Essential Details:** The call is managed electronically via the EU Funding & Tenders Portal. Communication will be made through this portal. False statements or incorrect information may lead to administrative sanctions under the EU Financial Regulation. The use of the reference plant calculation methodology (Option 2) requires specific justifications. Project proponents may agree to have their application shared with the EIB for potential Project Development Assistance (PDA) or be proposed for national funding schemes. The Mutual Insurance Mechanism (MIM) does not apply to this call.
+
+This summary provides a comprehensive overview of the key aspects of the call, ensuring that applicants are well-informed about the requirements, objectives, and procedures involved.

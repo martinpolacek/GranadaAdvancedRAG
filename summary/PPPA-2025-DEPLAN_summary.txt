@@ -1,0 +1,51 @@
+Okay, here's a comprehensive summary of the provided data, structured according to your requirements:
+
+**1. WHO:**
+
+*   **Organizing Authority:** European Commission.
+*   **Eligible Applicants/Target Groups:** Legal entities (consortia) established in EU Member States, Norway, and Iceland that are not subject to control by a third country or third-country entity. Consortiums must include, as beneficiaries, three legal entities independent from each other and each established in a different country. At least one independent legal entity established in a Member State, and at least two other independent legal entities, each established in different EU Member States, Norway or Iceland.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** Pilot Project Grant, categorized as a Research and Innovation Action (RIA).
+*   **Focus:** "Innovative deployable antennas." The project aims to establish new knowledge or explore the feasibility of new or improved technologies, products, processes, services, or solutions in the area of deployable antennas. This includes basic and applied research, technology development and integration, testing, demonstration, and validation of a small-scale prototype in a laboratory or simulated environment.
+
+**3. HOW:**
+
+*   **Submission Procedure:** Applications must be submitted electronically via the Funding & Tenders Portal Electronic Submission System. Paper submissions are not accepted.
+*   **Key Requirements:**
+    *   Use the forms provided within the Submission System (Application Form Part A & Part B).
+    *   Application Form Part A — contains administrative information about the participants.
+    *   Application Form Part B — contains the technical description of the project
+    *   Include mandatory annexes and supporting documents: detailed budget table/calculator and list of previous projects.
+    *   The application (Part B) is limited to a maximum of 70 pages.
+    *   Declaration of ownership and control for all project participants.
+    *   Applicants must be registered in the Participant Register and have a PIC number.
+    *   A LEAR (Legal Entity Appointed Representative) must be appointed.
+    *   A financial capacity assessment may be required.
+
+**4. WHY:**
+
+*   **Objectives:** To finance a pilot project initiated by the European Parliament focusing on innovative deployable antennas.
+*   **Expected Results:** Advance research and innovation in deployable antenna technology. Establish new knowledge or explore the feasibility of a new or improved technology, product, process, service or solution.
+
+**5. HOW MUCH:**
+
+*   **Total Budget:** EUR 1,450,000
+*   **Number of Projects Funded:** Only one proposal will be funded.
+*   **Co-financing Rate:** Up to 100% of the eligible costs will be reimbursed.
+*   **Form of Support:** Eligible costs will take the form of a lump sum
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** The deadline for submission is 27/05/2025 – 17:00:00.
+*   **Specific Conditions/Limitations:**
+    *   The eligible legal entity must be established in an EU Member State, Norway, or Iceland, and its executive management structures must be established in that Member State and/or country.
+    *   The eligible legal entity must commit to carrying out all relevant activities in one or more EU Member States, Norway, and Iceland.
+    *   The eligible legal entity must not be subject to control by a third country or by a third-country entity.
+    *   Failure to demonstrate ownership and control conditions can result in non-eligibility.
+    *   The contracting authority reserves the right not to distribute the funds available, if the quality of the proposals does not reach the minimum quality threshold required.
+*   **Evaluation:** Standard evaluation form (HE RIA, IA). Award criteria include relevance, quality, and impact. The overall pass score is 60 out of 100.
+*   **Grant Agreement:** Will be based on the Horizon Europe Lump Sum MGA v1.0.
+*   **Contact Information:** Questions can be addressed to the Research Enquiry Service or DEFIS-B2-SPACE-RESEARCH@ec.europa.eu.
+*   **Reference Documents:** EU Financial Regulation, Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment, Guidance: "Lump sums - what do I need to know?" (from Horizon Europe).

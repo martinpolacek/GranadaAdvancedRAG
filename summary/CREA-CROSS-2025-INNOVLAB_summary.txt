@@ -1,0 +1,72 @@
+Here is a comprehensive summary of the Creative Europe Programme (CREA) application form data you provided, covering the key information points:
+
+**Summary of Creative Europe Programme (CREA) Application Information: Creative Innovation Lab (CREA-CROSS-2025-INNOVLAB)**
+
+**1. WHO:**
+
+*   **Organizer:** European Education and Culture Executive Agency (EACEA) under the Creative Europe Programme.
+*   **Eligible Applicants:** Legal entities (public or private bodies) established in Creative Europe Participating Countries (EU Member States (including OCTs), listed EEA countries and countries associated to the Creative Europe Programme).
+
+**2. WHAT:**
+
+*   **Type:** Call for Proposals (Creative Innovation Lab - CREA-CROSS-2025-INNOVLAB) under the Cross Sectoral strand of the Creative Europe Programme.
+*   **Focus:** This call supports the design, development, and/or spread of innovative tools, models, or solutions applicable in the audiovisual and other cultural and creative sectors (CCSs). The projects must focus on at least one of the following:
+    *   Virtual Worlds as a new environment for European content promotion, audience renewal, and industry competitiveness.
+    *   Innovative Business Tools for production, financing, distribution, or promotion, enabled or enhanced by new technology (AI, big data, blockchain, Virtual Worlds, NFT, etc.).
+    *   "Greener" Practices to lower the environmental impact of the audiovisual and other cultural sectors.
+
+**3. HOW:**
+
+*   **Submission Procedure:**
+    *   Applications must be submitted electronically via the Funding & Tenders Portal Electronic Submission System. Paper submissions are not accepted.
+    *   Applicants need an EU Login account and must register their organization in the Participant Register to obtain a PIC.
+    *   The proposal consists of:
+        *   Application Form Part A (administrative information and summarized budget - filled in directly online)
+        *   Application Form Part B (technical description - downloaded, completed as PDF, and re-uploaded) - max 70 pages.
+        *   Part C (additional project data) - filled in directly online.
+        *   Mandatory Annexes (templates downloaded, completed, and re-uploaded as PDF).
+*   **Key Requirements for Participants:**
+    *   Explicit consent of all applicants on their participation and the content of the proposal.
+    *   Information provided is correct and complete.
+    *   Compliance with all eligibility criteria.
+    *   Not subject to exclusion grounds.
+    *   Financial and operational capacity to carry out the proposed project.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Improve competitiveness and environmental friendliness of European audiovisual and cultural and creative sectors.
+    *   Encourage innovative approaches to content creation, distribution, and access.
+    *   Foster cross-sectoral cooperation between audiovisual and other CCSs.
+    *   Enhance audience engagement and increase visibility of European content in the digital age.
+*   **Expected Results:**
+    *   Increased circulation, visibility, discoverability, availability and diversity of European content in the digital age.
+    *   Improvement of the adaptation of the European audiovisual and other cultural and creative sectors to the opportunities offered by the development of virtual worlds (also called metaverse(s));
+    *   Improvements in the production/financing;
+    *    Accelerate the environmental transition of the European audiovisual, cultural and other creative sectors, in line with the priorities of the European Green Deal and the New European Bauhaus.
+    *   A stronger, more competitive, and sustainable creative ecosystem in Europe.
+
+**5. HOW MUCH:**
+
+*   **Available Budget:** EUR 5,001,863
+*   **Financial Support:** The maximum grant amount depends on the project but the co-financing rate is typically 70% of the eligible costs.
+*   **Co-financing Rate:** 70% of eligible costs.
+*   **Financial Support to Third Parties (FSTP):** Allowed for grants; maximum amount per third party is EUR 60,000 unless a higher amount is justified and agreed with the granting authority.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline for Submission:** 24 April 2025, 17:00:00 CET (Brussels time)
+*   **Starting Date of Projects:** January 2026 (indicative)
+*   **Project Duration:** Should not normally exceed 24 months.
+*   **Ethics:** Projects must comply with high ethical standards and applicable EU, international, and national law.
+*   **Flexibility:** The budget breakdown may be adjusted (without amendment) through transfers, as long as it doesn't significantly change the action's description.
+*   **Ineligible Costs:** Costs that do not comply with eligibility conditions, VAT, return on capital, debt, provisions, interest, currency exchange losses, and costs already covered by other EU grants (with specific exceptions for Synergy actions).
+*   **Data Protection:** All personal data must be processed in accordance with applicable data protection laws.
+*   **Intellectual Property:** Results are owned by the beneficiaries; the granting authority has rights of use for communication, dissemination, and publicity.
+*   **Award Criteria:**
+    *   Relevance (40 points)
+    *   Quality of activities (30 points)
+    *   Project management (10 points)
+    *   Dissemination (20 points)
+*   **Overall Threshold:** 70 points
+*   **The projects can be implemented by single or a consortium with at least two beneficiaries**

@@ -1,0 +1,67 @@
+Okay, here is a comprehensive summary of the provided text regarding the Single Market Programme (SMP) call for proposals, focusing on action grants for ADR Bodies and RAD Qualified Entities.
+
+**1. WHO:**
+
+*   **Organising entity:** The European Innovation Council and SMEs Executive Agency (EISMEA) manages the call on behalf of the European Commission.
+*   **Eligible applicants:**
+    *   Legal entities (public or private bodies).
+    *   Must be established in an EU Member State (including overseas countries and territories (OCTs)) or a non-EU country listed as an EEA country or country associated to the Single Market Programme, or in ongoing negotiations for an association agreement.
+    * AND
+    * Must be one of the following:
+        *   Designated Alternative Dispute Resolution (ADR) entity notified to the European Commission.
+        *   A Qualified Entity designated by an EU Member State.
+        *   Bodies established in countries associated to the Single Market Programme, covering the Consumer pillar, that comply with quality criteria for ADR or are designated in compliance with the Representative Actions Directive.
+        * Exceptionally in EU Member States where ad hoc designation is allowed, entities which comply with the criteria set out in the national legislation transposing Article 4, paragraph 6 of the Representative Actions Directive (EU) 2020/1828, for being designated on ad hoc basis.
+
+**2. WHAT:**
+
+*   **Type of program:** Call for proposals for EU action grants.
+*   **Focus:** Providing financial contributions to Alternative Dispute Resolution (ADR) Bodies and Representative Actions Directive (RAD) Qualified Entities to enhance consumer protection. Focus on:
+    *   Awareness-raising on ADR and representative actions
+    *   Protection of vulnerable consumers
+    *   Networking of ADR entities and/or Qualified Entities
+    *   Capacity building, expertise of staff
+    *   Use of transparent and innovative digital tools, efficient case handling and good governance
+
+**3. HOW:**
+
+*   **Submission procedure:**
+    *   Electronic submission only via the Funding & Tenders Portal Electronic Submission System.
+    *   Must use the forms provided inside the Submission System, *not* the documents available on the Topic page (which are for information only).
+    *   Applications must be submitted in 3 parts:
+
+      * Part A: online administrative forms and summarized budget
+      * Part B: technical description (downloaded template, completed and uploaded as PDF). *Maximum 70 pages*.
+      * Mandatory annexes (detailed budget table, and proof of RAD designation (if applicable)).
+*   **Key requirements:**
+    *   Legal entities must register in the Participant Register and be validated to obtain a PIC.
+    *   All applications must include explicit consent of all applicants
+    *   Application must use templates available in the system
+    *   The proposal must keep to the page limits (Part B - max 70 pages)
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Facilitate consumers' access to effective and efficient ADR bodies.
+    *   Build the capacity of Qualified Entities to efficiently protect consumers’ collective interests.
+*   **Expected results/impact:**
+    *   Increased awareness and trust in ADR and Representative Actions among consumers and traders.
+    *   Improved cooperation among ADR and/or Qualified Entities.
+    *   Increased accessibility of ADR, Representative Actions, and Qualified Entities to consumers.
+    *   Improved operational capacity and expertise of ADR and Qualified Entities.
+
+**5. HOW MUCH:**
+
+*   **Available budget:** EUR 1,500,000 (may be increased by maximum 20%).
+*   **Financial support to third parties:** NOT ALLOWED
+*   **Funding rate:** 80% of eligible costs.
+* Grants may NOT produce a profit
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline for submission:** 27 August 2025, 17:00:00 CET (Brussels).
+*   **Eligible activities:** Set out in the call conditions. Must comply with EU policy interests, priorities, and values.  Funds cannot be used to finance specific collective litigation.
+*   **Exclusion Criteria**: Applicants subject to EU exclusion decisions or in specific exclusion situations (bankruptcy, tax violations, etc.) are ineligible.
+*   **The lead applicant must submit the application on behalf of the whole consortium.**
+
+Let me know if you would like me to elaborate on any specific aspect.

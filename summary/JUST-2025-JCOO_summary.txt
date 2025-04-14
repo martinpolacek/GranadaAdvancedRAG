@@ -1,0 +1,87 @@
+Here is a comprehensive summary of the provided documents, broken down into the requested key information categories.
+
+**Data Sources:**
+
+*   Justice Programme (JUST) Application Form
+*   Call for proposals for action grants to promote judicial cooperation in civil and criminal matters (JUST-2025-JCOO)
+*   How to manage your lump sum grants
+*   Decision authorising the use of lump sums for actions under the Justice Programme 2021-2027
+*   Model Grant Agreement Lump Sum Grants
+*   Rules for LEV, LEAR Appointment and FCA
+*   EU Funding & Tenders Portal Terms and Conditions
+
+**Summary:**
+
+**1. WHO:**
+
+*   **Organizing the Project:** European Commission, Directorate-General for Justice and Consumers (DG JUST).  Some tasks are delegated to EU Executive Agencies.
+*   **Eligible Applicants/Target Groups:**
+    *   **General Eligibility:**  Legal entities (public or private bodies) established in EU Member States (excluding Denmark and including overseas countries and territories) or countries associated to the Justice Programme or countries in ongoing negotiations for an association agreement.
+    *   **Specific to Priorities 1 & 2 (Civil & Criminal Matters):**  Transnational consortiums involving organizations from at least two participating countries. Profit-oriented organizations must partner with public entities or private non-profit organizations.
+    *    **Specific to Priority 3 (National Networks):** Officially appointed members of the European Judicial Network (EJN) in civil and commercial matters, or the national authorities, courts and professional associations representing the officially appointed members of EJN in civil and commercial matters; national authorities, courts, prosecution services and professional associations representing them, for the criminal matters.
+   
+**2. WHAT:**
+
+*   **Type of Program/Call:** Call for proposals for action grants under the Justice Programme (JUST).
+*   **Focus of the Project:** Promoting judicial cooperation in civil and criminal matters. The call identifier is JUST-2025-JCOO. The priorities for 2025 include:
+    1.  Judicial cooperation in civil matters
+    2.  Judicial cooperation in criminal matters
+    3. Support to the Member States for the setting up and strengthening of national networks active in the area of judicial cooperation in civil and criminal matters
+
+**3. HOW:**
+
+*   **Application Procedure:**
+    *   Electronic submission via the EU Funding & Tenders Portal Electronic Submission System. Paper submissions are not accepted.
+    *   Applicants must register and obtain an EU Login user account.
+    *   Applicants must register their organization in the Participant Register and obtain a Participant Identification Code (PIC).
+    *   Complete and submit all required application forms, annexes, and supporting documents via the Portal.
+    *   Fill in directly online: Application Form Part A, KPI tool
+    *   Upload in PDF: Application Form Part B, detailed budget table
+    *   Mandatory annexes: CVs of core project team, activity report of last year of the coordinator (unless it is a public body), List of previous projects
+    *   Submit before the call deadline.
+*   **Key Requirements for Participants:**
+    *   Register in the Participant Register and obtain a PIC.
+    *   Have the financial and operational capacity to carry out the proposed project.
+    *   Be compliant with the eligibility criteria and not subject to any exclusion grounds.
+    *   Comply with ethical standards and EU values.
+    *   For participants that have activities involving children a child protection policy is necessary.
+    *   Use EU inclusive language and positive visual representations to avoid discrimination, victimisation and stereotyping of women and men
+
+**4. WHY:**
+
+*   **Objectives:** To facilitate and support judicial cooperation in civil and criminal matters; promote the rule of law, independence, and impartiality of the judiciary; improve the effectiveness of national justice systems, and ensure effective enforcement of decisions. Also, to set up and strengthen national networks active in the area of judicial cooperation in civil and criminal matters
+*   **Expected Results:**
+    *   Increased capacity of national practitioners, courts, and authorities to address issues related to judicial cooperation.
+    *   Strengthened cooperation and exchange of information between competent authorities.
+    *   Alignment of Member States' administrative practices related to relevant legislation.
+    *   Improved cross-border cooperation.
+    *   Increased awareness of policy makers.
+    *   Improved situation of persons subject to measures in the field of judicial cooperation in criminal matters.
+    *   More efficient and better functioning national networks.
+    *   Increased input of national networks to the Network’s activities to strenghten the Network as a whole.
+
+**5. HOW MUCH:**
+
+*   **Available Budget:** EUR 5,900,000.
+*   **Financial Scope of Projects:**
+    *   For priority 1 (civil matters): Project budgets cannot be lower than €75,000. There is no upper limit.
+    *   For priority 2 (criminal matters) and priority 3 (EJN civil and criminal): Project budgets are expected to range between EUR 75,000 and EUR 350,000 per project.
+*   **Co-financing Rate:** The grant will be a lump sum grant, reimbursing a fixed amount, based on an estimate of the actual costs. The lump sum will be fixed by the granting authority on the basis of the estimated project budget and a funding rate of 90%.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Deadline for submission is April 23, 2025, at 17:00:00 CET (Brussels time).
+*   **Lump Sum Grants:** Actions under the Justice programme 2021-2027 are authorized to receive the Union contribution in the form of lump sum contributions, and applicants must propose the amount of the lump sum contribution on the basis of their estimated direct and indirect project costs and in accordance with the decision.
+*   **Maximum Project Length:** Projects should normally range between 12 and 24 months.
+*   **Page Limit:** The technical description of the project (Part B) is limited to a maximum of 45 pages. Evaluators will not consider any additional pages.
+*   **Ethics and Gender Equality:** Proposals must comply with the highest ethical standards and EU values, promote gender equality and non-discrimination, and ensure a gender-balanced representation in project teams and activities.
+*   **Double Funding:** Strict prohibition of double funding from the EU budget (except under EU Synergies actions).
+*   **Language:** Proposals can be submitted in any official EU language, but English is strongly advised. Project summaries should be in English.
+*   **Security Security Issues**
+    *   Does the activity involve information and/or materials requiring protection against unauthorized disclosure (EUCI)?
+    *   Does this activity involve non-EU countries which need to have access to EUCI?
+    *   Does this activity have the potential for misuse of results?
+    *   Does this activity involve information and/or materials subject to national security restrictions?
+    *   Are there any other security issues that should be taken into consideration?
+* **Accessibility -** Your application must be readable, accessible, and printable, please check carefully the layout of the documents uploaded.
+*   **Exclusion:** Applicants which are subject to an EU exclusion decision or in one of the exclusion situations that bar them from receiving EU funding can NOT participate

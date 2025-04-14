@@ -1,0 +1,67 @@
+Okay, here's a comprehensive summary of the provided text, designed to include all the requested key information:
+
+**Clean Steel Partnership - Strategic Research and Innovation Agenda (SRIA) Public Consultation (April 2024)**
+
+**1. WHO:**
+
+*   **Organizer:** The Clean Steel Partnership (CSP), a collaboration between the European Commission (public side) and the European Steel Technology Platform (ESTEP) (on behalf of the entire European steel value chain community – private side). ESTEP AISBL is the organization responsible for the document.
+*   **Eligible Applicants/Target Groups:**  The entire European steel value chain community. This includes EU-based steel producers, steel processors, customers, suppliers, plant builders, research institutions, academia, and civil society representatives.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** This document is an update to the Strategic Research and Innovation Agenda (SRIA) for the Clean Steel Partnership. It outlines the partnership's vision, objectives, and research strategy for decarbonizing the EU steel industry. It serves as a roadmap to guide research, development, and innovation activities.
+*   **Focus:** The project focuses on developing breakthrough technologies at TRL8 to drastically reduce CO2 emissions from EU steel production by 80-95% compared to 1990 levels, while maintaining the competitiveness of the EU steel industry and promoting a circular economy.  It considers both Carbon Direct Avoidance (CDA) and Smart Carbon Usage (SCU) technologies. Hydrogen and/or electricity will be considered to replace fossil carbon in steelmaking. If fossil carbon is used, CO2 emissions will be captured and processed for utilization or storage. In addition, higher levels of circularity will be explored by focusing for instance on the recycling of steel, the usage or recycling of residues, and resource efficiency.
+
+**3. HOW:**
+
+*   **Application Procedure:** The provided text primarily focuses on the overall strategy and doesn't detail specific application procedures for individual projects. However, it implies that projects will be selected through calls for proposals aligned with the SRIA. There will be a multi-stakeholder environment.
+*   **Key Requirements for Participants:** Participants are expected to:
+    *   Be established in eligible countries (EU Member States or associated countries).
+    *   Demonstrate financial and operational capacity.
+    *   Commit to ethical principles and EU values.
+    *   Comply with reporting and record-keeping requirements.
+    *   Adhere to security and confidentiality obligations.
+    *   Actively participate in knowledge sharing and collaboration.
+    * Provide contributions (financial or in-kind) to projects.
+    * Ensure Openness and Transparency
+
+**4. WHY:**
+
+*   **Objectives:** The primary objective is to develop technologies that will enable the EU steel industry to reduce its CO2 emissions by 80-95% by 2050 (compared to 1990 levels), ultimately achieving climate neutrality.  Specific objectives also include:
+    *   Enabling steel production through carbon direct avoidance (CDA) technologies at a demonstration scale.
+    *   Fostering smart carbon usage (SCU – Carbon capture) technologies in steelmaking routes at a demonstration scale.
+    *   Developing deployable technologies to improve energy and resource efficiency (SCU - Process Integration).
+    *   Increasing the recycling of steel scrap and residues, thus improving smart resources usage and further supporting a circular economy model in the EU.
+    *   Demonstrating clean steel breakthrough technologies contributing to climate-neutral steelmaking.
+    *   Strengthening the global competitiveness of the EU steel industry in line with the EU industrial strategy for steel.
+*   **Expected Results:** The project aims to achieve:
+    *   Significant CO2 emission reductions in the EU steel industry.
+    *   Increased competitiveness and global leadership for the EU steel sector.
+    *   Enhanced resource efficiency and circular economy practices.
+    *   Preservation of high-quality jobs and development of new skills in the steel value chain.
+    *   Technological progress in the use of steel scrap and by-products
+    *   The impact of the Partnership is maximised by involving all relevant stakeholders and remaining open to new partners
+    *   Delivery of demonstrators combining several building blocks in the various areas of intervention.
+    *   Ensure human-centricity will lead to a more resilient and sustainable Steel Industry 5.0
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** The European Commission plans to dedicate up to EUR 700 million to actions within the scope of the partnership.
+*   **Financial Scope of Projects:** The text mentions the expectation to finance at least 16 projects resulting in building blocks at TRL7 (up to 30 million euros each), at least 12 projects resulting in building blocks at TRL 8 (up to 60 million euros each) and at least 4 demonstration projects (up to 100 million euros each).
+*   **Co-financing Rate:**  The European Commission will manage up to EUR 700 million, with the remaining funding (up to EUR 1 billion) coming from other sources from sectoral players.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **SRIA Stages:**  The SRIA proposes a three-stage R&D&I approach:
+    *   Stage 1: "Immediate" CO2 reduction opportunities.
+    *   Stage 2: "Evolution" towards improved processes.
+    *   Stage 3: "Revolutionary" breakthrough development requiring significant capital investment.
+*   **Timeline:** The SRIA covers the period of 2021-2030, with a significant portion of the budget allocated to the 2021-2027 period.  The Partnership ends on 31/12/2030.
+*   **Deadlines:** Call opening on 04 February 2025; Deadline for submission 06 May 2025.
+*   **Openness and Transparency:** ESTEP and the Clean Steel Partnership are open to the entire European steel value chain community. Openness is the rule, and restriction due to confidentiality should be the exception.
+*    **Geographic location (target countries):** Proposals must relate to activities taking place in the eligible countries.
+*   **Limitations:**  Carbon leakage outside the EU needs to be avoided. The transformation to clean steel will require a significantly higher availability of green electricity.  The availability of CCS will be another essential external factor
+*   **Strategic Importance:** Green electricity and renewable energy resources are of pivotal importance. It must be designed and developed in a way, which does not add inhibiting high cost to the steel industry and must go in parallel with the R&D&I programme of the CSP.
+* **The budget is expected to finance 16 projects resulting in building blocks at TRL7, 12 projects resulting in building blocks at TRL 8 and 4 demonstration projects.**
+
+This summary provides a comprehensive overview of the Clean Steel Partnership's SRIA, focusing on the key elements relevant to potential participants.

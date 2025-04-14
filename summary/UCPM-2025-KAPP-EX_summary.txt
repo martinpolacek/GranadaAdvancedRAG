@@ -1,0 +1,79 @@
+Here's a comprehensive summary of the provided data, structured to include the key information you requested:
+
+**Summary of the Union Civil Protection Mechanism (UCPM) - Knowledge for Action in Prevention and Preparedness (KAPP) Call for Proposals**
+
+*   **WHO:**
+    *   **Organizer:** The European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations (DG ECHO).
+    *   **Eligible Applicants (Beneficiaries & Affiliated Entities):**
+        *   Legal entities (public or private bodies).
+        *   Established in:
+            *   EU Member States (including overseas countries and territories (OCTs)).
+            *   UCPM Participating States: Albania, Bosnia and Herzegovina, Iceland, Moldova, Montenegro, North Macedonia, Norway, Serbia, Türkiye and Ukraine.
+
+*   **WHAT:**
+    *   **Type of Program:** EU Action Grants.
+    *   **Focus:** Disaster preparedness and prevention, specifically through:
+        *   **Topic 1 (UCPM-2025-KAPP-PVPP):** Prevention and Preparedness projects.
+            *   Priorities include: Improving risk assessment, increasing risk awareness and preparedness, enhancing early warning, and ensuring a robust civil protection system.
+        *   **Topic 2 (UCPM-2025-KAPP-EX):** Full-Scale Exercises.
+            *   To improve civil protection preparedness and response to all kinds of natural or human-induced disasters inside the Member States by providing a testing environment and a learning opportunity for all actors involved in civil protection assistance interventions through a full-scale field exercise at several levels.
+
+*   **HOW:**
+    *   **Submission Procedure:**
+        *   Electronic submission only via the Funding & Tenders Portal Electronic Submission System. Paper submissions are NOT accepted.
+        *   The application has two parts:
+            *   Part A: Administrative information (online form).
+            *   Part B: Technical description of the project (PDF upload using a template).
+        *   Mandatory Annexes: Detailed budget table (Excel template), CVs of core project team members, activity reports of last year (all participants), list of previous projects (key projects for the last 4 years), and Letter of support from the national civil protection authority of each country part of the consortium that will benefit directly from the action’s results (except for participants which themselves are the national authority).
+    *   **Key Requirements for Participants:**
+        *   Registration in the Participant Register and validation by the Central Validation Service.
+        *   Explicit consent to participate.
+        *   Compliance with eligibility, financial, and operational capacity, and exclusion criteria.
+        *   For exercises: Involvement of national operational structures, activation of the UCPM, deployment of EU Civil Protection Team, use of CECIS, implementation of EU Host Nation Support Guidelines, and EU Observers program.
+        *   Applications are limited to 50 pages (Part B).
+
+*   **WHY:**
+    *   **Objectives:**
+        *   Support the implementation of the Union disaster resilience goals.
+        *   Achieve a higher level of protection against disasters with cross-border impacts.
+        *   Foster a culture of prevention and preparedness.
+        *   Improve cooperation and coordination among civil protection and DRM actors.
+        *   Build new and develop further existing competences, skills, knowledge and expertise.
+        *   Strengthen knowledge partnerships between civil protection and DRM actors.
+        *   Support the uptake of scientific outcomes by operational stakeholders.
+        *   Integrate climate adaptation and resilience in their risk assessments, strategies and plans, investments, and overall activities.
+        *   Raise preparedness and awareness of citizens, local and regional public entities, businesses and other relevant stakeholders.
+    *   **Expected Results:**
+        *   Enhanced cooperation in disaster prevention and preparedness.
+        *   Improved disaster risk management tools, operational concepts, and procedures.
+        *   Increased knowledge exchange and learning opportunities for civil protection actors.
+        *   Testing and validation of civil protection assistance intervention procedures.
+        *   Increased preparedness and awareness of stakeholders.
+        *   Implementation of the Union disaster resilience goals.
+
+*   **HOW MUCH:**
+    *   **Available Budget:** EUR 14,000,000 (EUR 10,000,000 for PVPP and EUR 4,000,000 for EX).
+    *   **Financial Scope of Projects:** Individual grants may be lower than the amount requested, with a minimum of EUR 500 000.
+    *   **Support Amount:** Capped at EUR 1,000,000 per project.
+    *   **Co-financing Rate:** Up to 90% of eligible costs.
+
+*   **OTHER IMPORTANT INFORMATION:**
+    *   **Deadlines:**
+        *   UCPM-2025-KAPP-PVPP: 29 April 2025, 17:00 CET (Brussels Time).
+        *   UCPM-2025-KAPP-EX: 15 May 2025, 17:00 CET (Brussels Time).
+    *   **Specific Conditions/Limitations:**
+        *   Full-scale exercises should not be conducted in the first 12 months of the project period.
+        *   International organizations cannot act as coordinators, only as project partners.
+        *   Financial support to third parties is not allowed.
+        *   Proposals should follow a multi-hazard approach whenever possible.
+        *   Need to display the EU flag and funding statement on all materials and any infrastructure/equipment funded by the grant.
+        *   Specific guidance available in the "Technical Guide for UCPM full-scale exercises".
+    *   **Essential Details:**
+        *   Emphasis on the role of ERCC and the use of CECIS.
+        *   Involvement of national operational structures.
+        *   Compliance with EU Host Nation Support Guidelines.
+        *   Implementation of an EU Observers Programme.
+        *   Detailed evaluation and dissemination plan.
+        *   Ethical considerations are paramount.
+
+This summary encapsulates the essential aspects of the UCPM call, providing a clear overview for potential applicants.

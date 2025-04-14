@@ -1,0 +1,95 @@
+Okay, here is a comprehensive summary of the provided data, addressing each of the specified key information points:
+
+**1. WHO:**
+
+*   **Organizers:** The European Commission (EC) and potentially other EU services (referred to collectively as "EU"). Specifically, the European Research Executive Agency (REA) hosts the Central Validation Service. The Funding & Tenders Portal team also plays a role in managing the process. Depending on the type of program (Horizon Europe, EIC STEP Scale Up call, etc.) the responsible body will differ. For example, EISMEA is mentioned.
+*   **Eligible Applicants or Target Groups:**
+    *   The documents specify a wide range of eligible legal entities, including:
+        *   Public bodies (local, regional, national)
+        *   Private entities (including SMEs and mid-caps)
+        *   Research organizations
+        *   Higher education establishments
+        *   International organizations
+        *   Entities without legal personality (under certain conditions)
+    * Specific eligibility restrictions apply to some entities (e.g., based in Russia, Belarus, or non-government controlled territories of Ukraine, or if deemed a "high-risk supplier" of communication network equipment).  Specific exclusions or limitations can also be defined at the call/topic level.  The "EU Sanctions Map" is a key reference for ineligible entities.  Also, participation in Innovation Actions may be restricted for entities established in China.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** The data covers multiple types of programs/calls, primarily within the Horizon Europe framework (and previously Horizon 2020), but also mentions the EIC STEP Scale Up Call.  It also describes various action types like Research and Innovation Actions (RIA), Innovation Actions (IA), Coordination and Support Actions (CSA), Programme Co-fund Actions (CoFund), Pre-Commercial Procurement (PCP) actions, and Public Procurement of Innovative Solutions (PPI) actions. There is also material on framework partnerships, operating grants, experts, and security.
+*   **Exact Focus:**
+    *   *General Focus of Horizon Europe:*  Increasing the EU's global scientific competitiveness, addressing societal challenges, reinforcing technological and industrial capacities, and fostering market-creating innovation.
+    *   *EIC STEP Scale Up Call:* Scaling up companies, especially those that contribute to EU technological sovereignty in areas defined by the STEP Regulation. Focuses on challenges, unique solutions, market potential, and ability to secure market financing, with a declared impact on the EU Single Market.
+    *   The materials also covers the "European Charter for Researchers" and "The Code of Conduct for the Recruitment of Researchers"
+    *   *Innovation Procurement*: Driving innovation in the public sector through pre-commercial procurement (PCP) and public procurement of innovative solutions (PPI).
+
+**3. HOW:**
+
+*   **Procedure for Submitting Applications:**
+    *   All applications must be submitted electronically via the Funding & Tenders Portal submission system.
+    *   The submission process involves multiple steps (logging in, selecting the call, creating a draft proposal, managing parties, completing web forms, and submitting).
+    *   Applications consist of Part A (administrative data filled online) and Part B (technical description uploaded as a PDF).
+*   **Key Requirements for Participants:**
+    *   Legal Entity Validation (PIC registration and validation).
+    *   Appointment of a Legal Entity Appointed Representative (LEAR).
+    *   Financial Capacity Assessment (submission of financial statements).
+    *   Ownership Control Assessment (if applicable for restricted calls).
+    *   Compliance with ethical principles.
+    *   Compliance with security rules (if applicable, including security clearance procedures).
+    *   Adherence to Open Science practices (Open Access to publications and data management).
+    *   Integration of Gender Dimension into research content.
+    *   Preparation of a Dissemination and Exploitation Plan.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   *Horizon Europe:* Increase EU scientific competitiveness, address societal challenges, drive innovation.
+    *   *EIC STEP Scale Up Call:* To scale up EU-based innovative technology companies.
+    *   *General Objectives*:
+        *   Ensure efficient use of public funds.
+        *   Promote transparency and equal treatment.
+        *   Support the development of an open and sustainable European labor market for researchers.
+        *   Drive innovation in the public sector.
+*   **Expected Results:**
+    *   Advancement of scientific knowledge.
+    *   Technological progress.
+    *   Enhanced quality of life.
+    *   Increased European competitiveness.
+    *   Societal, economic, and environmental impacts.
+    *   Job creation.
+    *   Contribution to UN Sustainable Development Goals.
+    *   Strengthened EU Single Market.
+    *   Reduced EU strategic dependencies.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** Financial support varies depending on the program and call. The EIC STEP Scale Up Call offers equity-only funding between EUR 10-30 million. There are also lump sum grant options.
+*   **Financial Scope of Projects:** The budget for Horizon Europe is around €95.5 billion for 2021-2027.
+*   **Co-financing Rate:**  Varies depending on the type of action:
+    *   Research and innovation action: 100%
+    *   Innovation action: 70% (100% for non-profit legal entities)
+    *   Coordination and support action: 100%
+    *   Programme co-fund action: Between 30% and 70%
+    *   Pre-commercial procurement action: 100%
+    *   Public procurement of innovative solutions action: 50%
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Vary depending on the specific call. Consult the Funding & Tenders Portal.
+*   **Specific Conditions/Limitations:**
+    *   Eligibility for funding is tied to the country of establishment (EU Member States, Associated Countries, specific low- and middle-income countries).
+    *   Restrictions may apply to entities controlled by non-eligible third countries for projects related to EU strategic assets.
+    *   EU restrictive measures apply to entities under sanctions.
+    *   Requirement for Gender Equality Plans (GEPs) for public bodies, research organizations, and higher education establishments.
+    *   Open Science practices are evaluated as part of the "Excellence" and "Quality and efficiency of Implementation" criteria.
+    *   International cooperation conditions apply.
+    *   The `Do No Significant Harm` (DNSH) principle.
+*   **Essential Details:**
+    *   Funding & Tenders Portal is the central platform for all submissions and communication.
+    *   Annotated Model Grant Agreement (AGA) is a crucial reference document.
+    *   Compliance with ethics and security regulations is mandatory.
+    *   A consortium agreement is recommended for multi-beneficiary projects.
+    *   There is a prohibition of double funding from the EU budget.
+    *   These Terms and Conditions, including those regarding the law of International Organisations, may apply.
+*   All key supporting documentation can be found in the footnotes, as well as specific website links.
+
+This summary attempts to be as comprehensive and detailed as possible, based on the large volume of data provided. It is still essential to consult the source documents (especially the call-specific information on the Funding & Tenders Portal) for the most accurate and up-to-date details.

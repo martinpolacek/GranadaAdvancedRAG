@@ -1,0 +1,74 @@
+## Comprehensive Summary of the Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS) – 2025 "EffecTrial"
+
+**1. WHO:**
+
+*   **Organizer:** The "Fostering a European Research Area for Health" (ERA4Health) Partnership, a collaboration between funding organizations in the European Research Area (ERA) including the European Commission. The Joint Call Secretariat (JCS) at the Institute of Health Carlos III (ISCIII) manages the call.
+*   **Eligible Applicants/Target Groups:** Clinical/public health research teams (from hospitals/public health, healthcare settings, and other healthcare organizations) conducting comparative-effectiveness multi-country Investigator-Initiated Clinical Studies (IICS). Eligibility varies by country and funding organization. Applicants must be affiliated with eligible institutions (e.g., research institutes, universities, hospitals) as defined by their respective national/regional funding organizations. Principal Investigators (PIs) must generally hold a Ph.D. or equivalent.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** Joint Transnational Call for Investigator-Initiated Clinical Studies (JTC IICS).
+*   **Focus:** "Fostering Pragmatic Comparative-Effectiveness Trials in Non-communicable Diseases" (EffecTrial).  The call aims to support randomized, interventional, and pragmatic comparative-effectiveness multi-country IICS that compare currently approved healthcare interventions (diagnostic, screening, prevention, and treatment, including pharmacological and non-pharmacological approaches) to each other or to the current standard of care. The focus is on trials related to:
+    *   Cardiovascular diseases
+    *   Metabolic disorders
+    *   Nutrition and lifestyle-related diseases
+    *   Non-communicable respiratory diseases
+
+**3. HOW:**
+
+*   **Application Procedure:** A two-step submission process is required:
+    *   **Pre-Proposal:** Submitted electronically via the PT-Outline system ([https://ptoutline.eu/app/EffecTrial](https://ptoutline.eu/app/EffecTrial)). The system will be open by November 28th, 2024.
+    *   **Full Proposal:**  Only invited consortia will be eligible to submit full proposals via the same system.
+*   **Key Requirements:**
+    *   Transnational consortia with 3-5 countries represented (exceptions for Czech Republic and Latvia, allowing 6-7 countries). The maximum number of funding organizations from the same country is 2.
+    *   Each consortium must nominate a clinical study coordinator who is not an enterprise.
+    *   Clear demonstration of potential health and/or economic impact and added value of transnational clinical collaboration.
+    *   Early involvement of 'end-users' (e.g., patients, caregivers, healthcare professionals) in study design and research process.
+    *   Adherence to ethical requirements and principles of Responsible Research and Innovation (RRI).
+    *   Data management according to FAIR principles and compliance with GDPR.
+    *   Consideration of sex and gender aspects where applicable.
+    *   Submission of national applications or additional information may be required directly to national/regional funding organizations.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   To support randomized, interventional, and pragmatic comparative-effectiveness multi-country IICS.
+    *   To encourage and enable transnational collaboration between clinical/public health research teams.
+*   **Expected Results:**
+    *   Provide answers to relevant health research questions regarding clinical and cost-effectiveness of interventions.
+    *   Inform clinical practice and healthcare policy decisions.
+    *   Promote value-based healthcare and evidence-based health policies.
+    *   Improve patient quality of life.
+    *   Enhance the impact of research for Health Technology Assessments (HTA).
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** Varies by country and funding organization (see Table 1 in Call Text).
+*   **Financial Scope of Projects:** Individual partners will be funded by their respective national/regional funding organizations. Budget ranges vary.
+*   **Co-financing Rate:** Funding rules and co-financing rates are specific to each participating funding organization (see Annex I in Call Text).
+*   Additional budget up to 15% of the total budget requested to the national/regional funders could be requested for cross-cutting management activities.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:**
+    *   Pre-Proposal Submission: January 28th, 2025 (16:00 CET)
+    *   Full Proposal Submission (by invitation only): June 17th, 2025 (16:00 CEST)
+*   **Specific Conditions and Limitations:**
+    *   Studies in other medical areas than cardiovascular diseases, metabolic disorders, nutrition and lifestyle-related diseases and non-communicable respiratory diseases are excluded.
+    *   Clinical trials focused on rare diseases, cancer and/or infectious diseases are out of scope.
+    *   Phase I and II studies and placebo randomized controlled trials are excluded.
+    *   Clinical studies for direct commercial purposes are excluded.
+    *   Each Principal Investigator can submit only 1 (one) pre-proposal as coordinator or as simple partner.
+*   **Electronic Submission System:**  [https://ptoutline.eu/app/EffecTrial](https://ptoutline.eu/app/EffecTrial)
+*   **Website:** [https://era4health.eu/](https://era4health.eu/)
+*   **Contact:** EffecTrial@isciii.es; +34 918 222 227 / +34 918 222 868
+*   **Timeline application process:**
+    *   20 November, 2024: Publication of EffectTrial call
+    *   27 November, 2024: Webinar Info Day
+    *   28 January, 2025: Deadline for pre-proposal submission
+    *   15 April, 2025: Communication of the results of the pre-proposal assessment (invitation for full proposal)
+    *   17 June, 2025: Deadline for full proposal submission
+    *   25 August – 5 September, 2025: Rebuttal stage
+    *   25 August – 5 September, 2025: Interview to assess the study feasibility
+    *   End of October, 2025: Communication of the funding decisions to the applicants
+    *   January – May 2026: Expected project start (subject to national procedures)

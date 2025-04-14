@@ -1,0 +1,41 @@
+Here is a comprehensive summary of the provided data, structured according to your specified requirements:
+
+**1. WHO:**
+
+*   **Organizing:** This project is organized under the Horizon Europe Programme, specifically the Marie Skłodowska-Curie Actions (MSCA), focusing on Co-funding of regional, national and international programmes (HE MSCA COFUND).
+*   **Eligible Applicants/Target Groups:** The data doesn't directly specify the precise eligible applicants/target groups, however, the scope of MSCA COFUND implies support for doctoral programs and postdoctoral fellowship schemes. Therefore, eligible applicants are organizations (e.g. universities, research institutions, businesses) that can manage such programs. The target groups are doctoral and postdoctoral researchers who will be recruited through these co-funded programs.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** It is a call for proposals under the Horizon Europe MSCA COFUND action.
+*   **Focus:** The focus is on co-funding doctoral and postdoctoral research programs to enhance human resources and research training at regional, national, and international levels. It focuses on offering international, interdisciplinary, and inter-sectoral research training opportunities.
+
+**3. HOW:**
+
+*   **Application Procedure:** Applications must be submitted electronically via the EU Funding & Tenders Portal.  Applicants must use the provided templates for Part A (Administrative Forms) and Part B (Technical Description).  A 34-page limit applied to the part B1 and no overall page limit for part B2.
+*   **Key Requirements for Participants:** Participants must adhere to ethical principles, ensure compliance with applicable laws, and have the financial and operational capacity to carry out the proposed project. They need to follow guidelines for open science practices and research data management. Researchers must be recruited transparently and offered competitive appointment conditions.
+
+**4. WHY:**
+
+*   **Objectives:** The primary objectives are to:
+    *   Strengthen human resources in research and innovation.
+    *   Enhance the career perspectives and employability of researchers.
+    *   Align practices with EU principles for human resources development in R&I.
+    *   Promote open science practices.
+*   **Expected Results:** The project is expected to:
+    *   Improve the quality, relevance, and sustainability of research training programs.
+    *   Increase international, inter-sectoral, and interdisciplinary mobility.
+    *   Boost R&I capacity and attractiveness.
+    *   Increase public engagement with science.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** Specific amounts are allocated to the projects selected, although the amounts allocated to A.1. COFUND allowance, change dependending on doctoral or post-doctoral studies, as B amounts are fixed.
+*   **Financial Scope of Projects:** The financial scope of the projects varies but the allocated amount is EUR 3300 per person/month for Doctoral Fellowships and EUR 4700 per person/month for Postdoctoral Fellowships, not including costs for mobility and management.
+*    **Co-financing rate:** Declared in table 1.1, section 1. amounts provided to researchers and hosting organizations.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** The call deadlines vary depending on the type of project; see the documents for the precise deadlines. 
+*   **Specific Conditions:** Ethical considerations are crucial and must be addressed. A Gender Equality Plan (GEP) is an eligibility criterion for certain organizations. Open science practices and data management are emphasized.
+*   **Limitations:** Activities must focus on civil applications and adhere to ethical principles. Certain dual-use or military-focused activities are excluded.

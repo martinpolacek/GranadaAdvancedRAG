@@ -1,0 +1,69 @@
+Okay, here's a comprehensive summary of the provided information, structured to include the requested key elements. Note that since the document is a template, some information is missing and will be indicated accordingly.
+
+**Research Fund for Coal and Steel (RFCS) Call for Proposals: RFCS-2025-JT-Big Tickets for Coal**
+
+**1. WHO:**
+
+*   **Organiser:** The European Research Executive Agency (REA), acting under the powers delegated by the European Commission.
+*   **Eligible Applicants:** Legal entities (public or private bodies, e.g., undertakings, public bodies, research organisations, higher or secondary education establishments or other legal entities) which carry out an RTD activity or substantially contribute to such an activity AND are established in:
+    *   EU Member States (including overseas countries and territories (OCTs))
+    *   Non-EU countries associated with the RFCS program.
+
+**2. WHAT:**
+
+*   **Type:** Call for proposals for EU action grants.
+*   **Focus:** This specific call (RFCS-2025-JT-Big Tickets for Coal) is focussed on research projects relating to:
+    *   Repurposing formerly operating coal and lignite mines
+    *   Materials and waste reuse in the sector
+    *   Land monitoring, stabilisation, and restoration
+    *   Processing of methane emissions
+    *   Monitoring, management and/or treatment of mine water and water tables
+
+**3. HOW:**
+
+*   **Submission Procedure:**
+    *   Electronic submission only via the Funding & Tenders Portal Electronic Submission System. Paper submissions are not possible.
+    *   Two-step process: (a) User account creation and organization registration, (b) Proposal submission.
+*   **Application Form:**
+    *   Part A: Administrative information and summarized budget (filled in directly online).
+    *   Part B: Technical description of the project (download template from the Submission System, complete, and upload as a PDF). Maximum 70 pages.
+*   **Mandatory Annexes:**
+    *   Detailed budget table (template available in the Submission System).
+    *   List of Previous projects (template available in Part B)
+*   **Key Requirements for Participants:**
+    *   Register in the Participant Register and obtain a PIC.
+    *   Adhere to page limits and formatting guidelines.
+    *   Provide accurate and complete information.
+
+**4. WHY:**
+
+*   **Objectives:** The overarching goal is to support a just transition of the coal sector and regions, improve health and safety, and minimize the environmental impacts of coal mines in transition, in line with the European Green Deal. More specific objectives depend on the research area. See section 2 of the call document.
+*   **Expected Results/Impact:**
+    *   Contribution to European Green Deal Targets
+    *   Outline a continuation plan for technology scalability and greater expansion,
+    *   Demonstrate positive environmental and health & safety impacts.
+    *   High visibility dissemination
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:** The available call budget is EUR 35,000,000. The Commission estimates that an EU contribution of EUR 5 million to EUR 9 million (and exceptionally up to EUR 18 million for large demonstrators) would allow the objectives of this call to be addressed appropriately.
+*   **Financial Scope:** Individual projects should be of a suitable size to meet call objectives.
+*   **Co-financing Rate:** 50%
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Submission deadline is 06 May 2025, 17:00:00 CET (Brussels time).
+*   **Eligible Activities:** Must align with call objectives related to repurposing, materials reuse, land restoration, and methane emissions. Aim for Technology Readiness Level (TRL) 7-8 by project end.
+*   **Ethics:** Projects must adhere to high ethical standards and relevant laws. Ethical review may be required.
+*   **Additional Information:**
+    *   Consortium agreement is recommended (or mandatory).
+    *   Project proposals must show how the work addresses potential training/reskilling for workers affected by coal phase-out and improvements to working conditions.
+    *   Financial support to third parties is not allowed.
+    *   Applicants must follow dissemination and communication guidelines and use the EU emblem.
+*   **Ineligible costs**: Costs that do not comply with conditions, costs related to return on capital and dividends, debt and debt service charges, VAT paid by beneficiaries that are public bodies acting as public authority, etc.
+*   **Contacts:**
+    *   IT Helpdesk (for technical issues with the Portal).
+    *   REA-RFCS@ec.europa.eu (for non-IT related questions).
+    *   Please indicate the call and topic in your question.
+
+This summary provides a comprehensive overview based on the provided document, ensuring all requested information is present.

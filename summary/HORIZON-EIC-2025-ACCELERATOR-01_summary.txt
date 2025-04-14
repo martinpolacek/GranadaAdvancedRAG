@@ -1,0 +1,76 @@
+Okay, let's break down the provided documents to extract the key information about this funding opportunity.
+
+**1. WHO:**
+
+*   **Organiser:** The European Commission or one of its Executive Agencies (CINEA, EACEA, ERCEA, HaDEA, EISMEA, REA) or a designated EU funding body is organising the project. In the case of Joint Undertakings, the JU partnership is involved.
+
+*   **Eligible Applicants/Target Groups:** Eligible applicants are legal entities (natural persons, or organizations such as companies, research institutions, universities, etc.) based in EU Member States, Overseas Countries and Territories (OCTs), or countries associated with Horizon Europe or Euratom.  Some low- and middle-income countries are also eligible. There may be restrictions based on participation and control due to strategic assets, security, and in some cases, legal entities established in Russia, Belarus, or in non-government controlled territories of Ukraine are not eligible.  The specific call conditions will specify any further eligibility constraints.
+* There can be specific categories within the legal entities like SMEs, EIC Inventors etc. based on the call or the specific grant type.
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** This is a call for proposals within the Horizon Europe Programme (or Euratom Research and Training Programme). It can encompass several types of actions:
+    *   Research and Innovation Actions (RIA)
+    *   Innovation Actions (IA)
+    *   Coordination and Support Actions (CSA)
+    *   Programme Co-fund Actions (CoFund)
+    *   Innovation and Market Deployment Actions (IMDA)
+    *   Training and Mobility Actions (TMA)
+    *   Pre-Commercial Procurement Actions (PCP)
+    *   Public Procurement of Innovative Solutions Actions (PPI)
+
+*   **Focus of the Project:** The exact focus depends on the specific topic within the call. It is meant to support EU policy objectives in areas such as climate change, health, digital transformation, and more. Some calls are earmarked for specific target groups such as EIC actions and ERC grants. A key priority of the calls is to promote open science and gender equality.
+
+**3. HOW:**
+
+*   **Application Procedure:** Applications are submitted electronically through the EU Funding & Tenders Portal. The process involves completing online forms (Part A) and uploading a technical description (Part B) as a PDF document, adhering to a specific structure and page limits (typically, maximum page limit is 12 pages).
+
+*   **Key Requirements for Participants:**
+    *   Properly implement the action
+    *   Adhere to ethical principles and research integrity.
+    *   Prevent and declare any conflicts of interest.
+    *   Ensure confidentiality and security.
+    *   Comply with data protection regulations (GDPR).
+    *   Manage and disseminate research data
+    *   Respect intellectual property rights.
+    *   Promote the action and acknowledge EU funding (visibility requirements).
+    *   Cooperate with checks, reviews, audits, and investigations.
+    *   If applicable, implement a Gender Equality Plan (GEP) for public bodies, research organizations, and higher education establishments.
+    *   Provide open access to scientific publications and research data (with exceptions under legitimate constrains).
+    * Maintain accurate records and provide information when requested.
+
+**4. WHY:**
+
+*   **Objectives:** The general objective is to help achieve Union policy objectives, address global challenges, enhance European industrial competitiveness, promote innovation, improve the quality and efficiency of public services, or achieve scientific breakthroughs.
+
+*   **Expected Results:** The expected results depend on the specific topic and action type. Generally, they aim to generate new knowledge, develop innovative solutions, produce economic and societal impact, and contribute to EU policy goals.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support/Financial Scope:** The exact amount varies by call and project. The maximum grant amount is specified in the call conditions and grant agreement.
+
+*   **Co-financing Rate:** The funding rate depends on the type of action. Research and Innovation Actions (RIA) generally have a 100% funding rate.  Innovation Actions (IA) generally have 70% funding for profit entities and 100% for non-profit entities. Coordination and Support Actions (CSA) generally have 100% funding.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:** Call deadlines are specified on the EU Funding & Tenders Portal.
+
+*   **Specific Conditions/Limitations:**
+    *   Some calls may have geographical restrictions or limitations on participation.
+    *   Projects must focus on civil applications and adhere to ethical principles.
+    *   Subcontracting may be limited.
+    *   There are specific rules for actions involving EU Classified Information.
+    * The do-no-significant harm principle should be adhered to, where applicable.
+
+*   **Other Essential Details:**
+    *   A consortium agreement is typically required for multi-beneficiary projects.
+    *   There are specific data protection obligations under GDPR.
+    *   Specific rules may apply to PCP and PPI procurements, ERC grants, EIC actions, and EIT KIC actions.
+    * Standard time-limits apply after project end for confidentiality, record-keeping, reviews, audits, and impact evaluations.
+    * Joint and several liability of affiliated entities is possible.
+    * Additional suspension and termination grounds may apply.
+    * Late payment interest is defined.
+    * Sensitive information requires security recommendations.
+    * The European Charter for Researchers should be adhered to.
+
+This detailed summary should provide a solid understanding of this funding opportunity. Always refer to the official call documentation on the EU Funding & Tenders Portal for the most accurate and up-to-date information.

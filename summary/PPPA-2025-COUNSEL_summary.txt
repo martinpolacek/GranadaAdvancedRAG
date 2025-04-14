@@ -1,0 +1,100 @@
+Okay, let's break down this collection of documents into a structured summary.
+
+**Assumptions**:
+
+*   The primary focus is on summarizing the *call for proposals* document (PPPA-2025-COUNSEL) and the *general model grant agreement* (PPPA MGA). This is because these two documents are the core components for anyone seeking to understand the funding opportunity and the potential grant contract.
+*   The "Rules for Legal Entity Validation, LEAR Appointment and FCA" and the "Funding & Tenders Portal: Terms and Conditions" provide necessary context and are covered at a higher level.
+
+**Here's the structured summary:**
+
+**I. Call for Proposals (PPPA-2025-COUNSEL):**
+
+**1. WHO:**
+
+*   **Organiser:** The European Commission, Directorate-General for Employment, Social Affairs, and Inclusion (DG EMPL), specifically EMPL.E.1 (Labour Mobility, Public Employment Services, ELA).
+*   **Eligible Applicants:**
+    *   Legal entities (public or private bodies)
+    *   Established in EU Member States, Norway, Iceland, EU candidate countries, and potential EU candidate countries.
+    *   Specific entity types: Social partner organisations, Public authorities, Non-profit organisations, Research centers/institutes, Higher Education Institutions (HEIs), Civil Society Organisations (CSOs)
+
+**2. WHAT:**
+
+*   **Type:** EU Action Grant (Pilot Project and Preparatory Action - PPPA).
+*   **Focus:** "Preparatory work for counselling structures to support mobile migrant labour." The action aims to develop the knowledge base about counseling networks and its impact on fair mobility by third-country nationals posted and working temporarily in the EU.
+
+**3. HOW:**
+
+*   **Submission Procedure:** Electronic submission through the EU Funding & Tenders Portal Electronic Submission System.
+*   **Required Documents:**
+    *   Application Form Part A (administrative information, online)
+    *   Application Form Part B (technical description, using provided template, max 50 pages).
+    *   CVs of core project team.
+    *   Activity reports of last year.
+    *   List of previous projects.
+*   **Key Requirements for Participants:** Admissibility and eligibility (sections 5 and 6 of the document), confirm the mandate to act for all applicants, confirm the information in the application is correct and complete, compliance with the conditions for receiving EU funding, legal and financial set-up of the Grant Agreements (sections 5 and 10).
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Research about mobile migrant labour and the impact assisting counselling structures can have on this target group.
+    *   Setting up and running a trade union-related transnational counselling network for short-term mobile migrant workers (EU citizens and third-country nationals) in at least 7 countries
+*   **Expected Impact:** An evaluation of the existing counselling services for the target groups and a mapping of the (sector-specific) needs for counselling services should be developed. Based on the findings of the study, recommendations shall be formulated for the preparation of a possible dedicated initiative for the establishment of a European counselling network for mobile migrant labour
+
+**5. HOW MUCH:**
+
+*   **Available Budget:** EUR 1,200,000.
+*   **Number of Projects:** Expect to fund one (1) project.
+*   **Co-financing Rate:** 90%.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadline:** 27 May 2025 – 17:00:00 CET (Brussels).
+*   **Timetable:** (See section 4 of the document)
+*   **Eligible Activities:** (See section 2 of the document)
+*   **Geographic Location (Target Countries):** Activities must take place in at least seven (7) eligible countries, with at least one EU Member State and at least one EU candidate country or potential EU candidate country.
+*   **Project Duration:** Between 12 and 18 months (longer durations may be accepted in justified cases).
+* Financial support to third parties is not allowed
+
+**II. General Model Grant Agreement (PPPA MGA):**
+
+**1. WHO:**
+
+*   **Parties:** The European Union (represented by the European Commission or relevant Executive Agency/Funding Body) and the Beneficiaries (Coordinator and other beneficiaries).
+*   The Coordinator acts as the intermediary.
+* This document defines the roles and responsibilities of beneficiaries.
+
+**2. WHAT:**
+
+*   **Type:** General Model Grant Agreement (MGA) for Pilot Projects and Preparatory Actions (PPPA).
+*   **Focus:** Sets out the rights, obligations, and terms and conditions for EU action grants under the PPPA framework.
+
+**3. HOW:**
+
+*   **Key Requirements:** Outlines eligible and ineligible costs, payment and reporting arrangements, and conditions for reviews, audits, and investigations. Electronic Communication must be made via the Funding & Tenders Portal.
+
+**4. WHY:**
+
+*   **Objectives:** To provide a legal framework for the implementation of the action and ensure proper management of EU funds.
+
+**5. HOW MUCH:**
+
+*   Defines the framework for grant amounts, funding rates, and budget flexibility.
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Annexes:** Lists and describes the various annexes (Description of Action, Estimated Budget, etc.).
+*   **Applicable Law:** EU law, supplemented by Belgian law if necessary.
+*   **Dispute Resolution:** Disputes are brought before the EU General Court.
+*   It provides templates and detailed regulations about reporting, eligibility, use of funds and communication activities.
+
+**III. Rules for Legal Entity Validation, LEAR Appointment and FCA:**
+
+*   **Purpose:** This document provides guidelines for the Central Validation Service (within REA) to validate legal entities, appoint LEARs, and assess financial capacity within the EU Funding & Tenders Portal.
+*   **Relevance:** Outlines the documentation and procedures required for entities to participate in EU funding programs.
+
+**IV. EU Funding & Tenders Portal: Terms and Conditions:**
+
+*   **Purpose:** Sets out the terms and conditions for using the EU Funding & Tenders Portal.
+*   **Relevance:** Governs access to the Portal, user responsibilities, and the legal validity of electronic communications within the system.
+
+This summary provides a comprehensive overview of the key information contained in the provided documents. Remember to always refer back to the original documents for complete details and specific requirements.

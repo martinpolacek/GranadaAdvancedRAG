@@ -1,0 +1,59 @@
+Okay, here's a comprehensive summary of the information provided, structured according to your requirements:
+
+**Call:** [insert call identifier] — **[insert call name]
+Program:** EU Grants (specifically, application form for EDF CSA)
+
+**1. WHO:**
+*   **Organiser:** The European Commission (or delegated EU Executive Agency or Funding Body).
+*   **Eligible Applicants/Target Groups:** This specific document pertains to the *application process* for EU grants. Therefore, eligibility is defined by the specific call conditions (not detailed within this document). Applicants are those seeking EU grant funding, typically consortia of organisations from eligible countries. National Focal Points are also mentioned as participants to encourage, therefore also eligible, to participate in the action activities.
+
+**2. WHAT:**
+*   **Type of Program/Call:** It is a call for proposals, aiming to award EU grants for coordination and support actions (CSA) actions.
+*   **Focus:** The document describes the format and instructions for filling out the application form for a specific type of EU grant (EDF CSA). It is related to the administrative and technical description of a project to obtain funding from the European Union. More specifically to support to the EDF National Focal Points (NFP) network.
+
+**3. HOW:**
+*   **Application Procedure:**
+    *   Application must be submitted electronically via the EU Funding & Tenders Portal Electronic Submission System.
+    *   The application form consists of two parts:
+        *   **Part A:** Structured administrative information filled out directly in the Portal Submission System.
+        *   **Part B:** A narrative technical description of the project uploaded as a PDF document, using a provided template.
+*   **Key Requirements for Participants:**
+    *   Explicit consent of all applicants on their participation and on the content of the proposal.
+    *   Confirmation that the information in the proposal is correct and complete.
+    *   Compliance with eligibility criteria set out in the call.
+    *   No exclusion grounds under the EU Financial Regulation.
+    *   Financial and operational capacity to carry out the project.
+    *   Compliance with all other rules, most importantly, with ethics.
+    *   Fill out Part A of the Application Form directly in the Portal Submission System Screens.
+    *   Part B must be a PDF document in Arial 9, A4 format, minimum 15mm margins, normally 30 pages long.
+    *   Do not delete tags in the Part B document.
+
+**4. WHY:**
+*   **Objectives:** Not explicitly stated in this document, but inferred that the objectives are those of the specific call/program to which the application pertains, likely to support the competiveness of the European defence industry, strenghten cross-border collaboration and enhance services of the NFP network.
+*   **Expected Results:** Not detailed within this document. The expected results are linked to the specific call and will be outlined there. The document indicates they will relate to an enhanced functioning of the EDF-NFP network, increased impact of the EDF, and stronger cross-border collaboration.
+
+**5. HOW MUCH:**
+*   **Amount of Support:** Not specified in this document. This will be detailed in the call conditions.
+*   **Financial Scope of Projects:** Project budgets must not exceed EUR 2,000,000.
+*   **Co-financing Rate:** Coordination and Support Actions (CSA) are reimbursed at a funding rate of 100%.
+
+**6. OTHER IMPORTANT INFORMATION:**
+*   **Deadlines:** The deadline for submission is **October 16, 2025, at 17:00:00 CET (Brussels time)**. The call opens February 18, 2025.
+*   **Specific Conditions:**
+    *   Multi-beneficiary applications are mandatory, with specific conditions for consortium composition (at least 10 Member States or Associated Countries represented through their national support structures or officially nominated NFPs).
+    *   Subcontracting is limited by cost and subject to specific requirements, and subcontracted work must be performed in eligible countries.
+    *   Specific rules for equipment costs: depreciation only.
+*   **Limitations:** Page limit for Part B is normally 30 pages and it must be in Arial 9 font size.
+*   **Essential Details:**
+    *   All communications will be made through the EU Funding & Tenders Portal Electronic Exchange System.
+    *   A consortium agreement is recommended (required for multi-beneficiary applications).
+    *   Proposals must comply with ethics and security requirements.
+    *   Information provided must be accurate, precise, and complete.
+*   The call includes ethical review and all activities must adhere to ethical principles.
+*   The grant managed through EU Funding & Tenders Portal.
+*   Specific attention for ethical issues and security issues.
+*   The financial statements must be drafted in euro.
+*   All documents mentioned can be found on the Portal Reference Documents.
+*   To address non-IT related questions send an email to DEFIS-EDF-PROPOSALS@ec.europa.eu
+
+This summary captures the key elements from the provided document based on your instructions. Remember to replace the bracketed placeholders with actual details from the relevant call.

@@ -1,0 +1,44 @@
+Here is a comprehensive summary of the provided data, structured to include all requested key information:
+
+**Justice Programme (JUST) - Operating Grants**
+
+1.  **WHO:**
+    *   **Organiser:** The European Commission, Directorate-General for Justice and Consumers (DG JUST) manages the call.
+    *   **Eligible Applicants:** Single applicants (networks) that are non-profit, private bodies, and established formal European-level networks. They must have a Framework Partnership Agreement (FPA) under Call JUST-2025-JCOO-JACC-OG-FPA and member organizations from at least 14 EU Member States or associated countries. Activities must align with the objectives of the Justice Programme.
+
+2.  **WHAT:**
+    *   **Type:** Operating Grant Call for Proposals.
+    *   **Focus:** To support the 2026 work programme of European networks active in facilitating and promoting judicial cooperation in civil and/or criminal matters, and/or in the area of access to justice.
+
+3.  **HOW:**
+    *   **Application Procedure:** Submit proposals electronically via the EU Funding & Tenders Portal Electronic Submission System. Paper submissions are not accepted. The submission process involves two steps: 1) creating a user account and registering the organization, and 2) submitting the proposal.
+    *   **Key Requirements for Participants:** Complete the Application Form (Parts A and B), KPI Tool, provide CVs of core project team, Activity report of the last year, list of previous projects and a child protection policy (if applicable), plus a list of network members. Legal entities (beneficiaries and affiliated entities) must register in the Participant Register and be validated.
+
+4.  **WHY:**
+    *   **Objectives:**
+        *   In the area of judicial cooperation: facilitate and support judicial cooperation in civil and criminal matters, promote the rule of law, independence and impartiality of the judiciary.
+        *   In the area of access to justice: facilitate effective and non-discriminatory access to justice, promote efficient procedures, and support the rights of victims and suspects.
+    *   **Expected Results:** Increased capacity of national practitioners, authorities, and justice systems; Strengthened cooperation and information exchange; Improved efficiency, resilience, and knowledge; Harmonization of practices; Acceleration of proceedings; Improved situation for individuals subject to measures, and Enhanced public awareness.
+
+5.  **HOW MUCH:**
+    *   **Amount of Support:**  The estimated available call budget is EUR 2,035,000 for promoting judicial cooperation in civil and/or criminal matters and EUR 2,390,000 for access to justice. The grant awarded may be lower than the amount requested.
+    *   **Financial Scope of Projects:** Project budgets (requested grant amount) are expected to be in line with the multiannual budget estimate as indicated in the framework partnership agreement proposal.
+    *   **Co-financing Rate:** The funding rate is 80% of the eligible costs.
+
+6.  **OTHER IMPORTANT INFORMATION:**
+    *   **Deadline:** 3 July 2025 – 17:00:00 CET (Brussels time)
+    *   **Limitations:**
+        *   Proposals are limited to a maximum of 45 pages (Part B).
+        *   Financial support to third parties is not allowed.
+        *   Ineligible costs and contributions are defined in Article 6.3 of the Model Grant Agreement.
+    *   **Specific Conditions:**
+        *   Projects must comply with ethical standards and EU values (Article 2 of the Treaty on the European Union and Article 21 of the EU Charter of Fundamental Rights)
+        *   Applicants must provide information that they respect ethical principles and EU values in the application
+        *   Participants with activities involving children (below the age of 18) must have a child protection policy
+        *   Only activities taking place in eligible countries are considered eligible
+    *   **Other Key Details:**
+        *   The Grant Agreement to be used will be a budget-based mixed actual cost grant agreement.
+        *   A continuous reporting mechanism via the Portal will be in place.
+        *   This call is managed by the European Commission, DG Justice and Consumers.
+        *   There is no differentiation between direct and indirect costs, and volunteers' costs are not eligible.
+        *   This is a mono-beneficiary action and no affiliated entities and associated partners are allowed in this Call

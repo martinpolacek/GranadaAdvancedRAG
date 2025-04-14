@@ -1,0 +1,74 @@
+Here's a comprehensive summary based on the provided documents, targeting key information requests:
+
+**Call:** \[insert call identifier] — \[insert call name]
+
+**1. WHO:**
+
+*   **Organizer:** The European Commission, specifically the Directorate-General for Justice and Consumers (DG JUST) for CERV projects. EU executive agencies may also be the listed organizers.
+*   **Eligible Applicants/Target Groups:**
+    *   Legal entities (public or private bodies).
+    *   Established in EU Member States, countries associated to the CERV Programme, or countries in ongoing negotiations for association with the CERV programme (if the agreement enters into force before grant signature).
+    *   Specific eligibility criteria based on the project Priority as outlined in the official call documents. (Large-scale projects may have additional limitations or requirements for partners and collaborators).
+
+**2. WHAT:**
+
+*   **Type of Program/Call:** EU Action Grants (EU Grants) under the Citizens, Equality, Rights and Values (CERV) Programme.
+*   **Focus of the Project:** The primary focus is to prevent and combat gender-based violence and violence against children as outlined in the objectives stated in the call, including the implementation of Directive (EU) 2024/1385 on combating violence against women and domestic violence. The specific focus varies depending on the Priority area.
+  * Large-scale and long-term actions on tackling gender-based violence
+  * The protection of and support for victims and survivors of gender-based violence and domestic violence
+  * The prevention of gender-based violence including cyber violence
+  * Making integrated child protection systems work in practice
+
+**3. HOW:**
+
+*   **Application Procedure:**
+    *   Applications must be submitted electronically via the EU Funding & Tenders Portal Electronic Submission System.
+    *   The Application Form consists of two parts:
+        *   Part A: Structured administrative information filled out directly in the Portal Submission System.
+        *   Part B: A narrative technical description of the project (template available in the Submission System, to be completed and uploaded as a PDF). Max 70 pages for Priority 1 and max 45 pages for other priorities. Supporting documents can be provided as an annex and do not count towards the page limit.
+    *   Compliance with formatting rules (Arial 9, A4, 15mm margins) is required.
+*   **Key Requirements for Participants:**
+    *   Register in the Participant Register and obtain a PIC.
+    *   Have the financial and operational capacity to carry out the proposed project.
+    *   Commit to the explicit consent of all applicants on their participation and on the content of the proposal.
+    *   Be fully compliant with the eligibility criteria set out in the call.
+    *   Not be subject to any exclusion grounds under the EU Financial Regulation 2018/1046.
+
+**4. WHY:**
+
+*   **Objectives:**
+    *   Prevent and combat gender-based violence in all its forms.
+    *   Prevent and combat violence against children, young people, and other groups at risk.
+    *   Support and protect victims of violence, ensuring equal protection throughout the EU.
+    *   Implement and transpose requirements of VAW/DV Directive.
+    *   Promote gender equality and non-discrimination, including equal empowerment of women and men.
+    *   Integrated child protection systems
+*   **Expected Results:** The projects are expected to contribute to a reduction in violence, improved support for victims, increased awareness, changed attitudes and behaviors, improved systems for protection, and better inter-agency cooperation.
+
+**5. HOW MUCH:**
+
+*   **Amount of Support:**
+    *   Total estimated call budget: EUR 23,000,000.
+    *   Priority 1: EUR 10,000,000 (Financial support to third parties required). EU grant applied for cannot be lower than EUR 1 000 000 and higher than EUR 3 000 000 per project.
+    *   Priority 2: EUR 4,000,000. EU grant applied for cannot be lower than EUR 100 000 per project.
+    *   Priority 3: EUR 4,000,000. EU grant applied for cannot be lower than EUR 100 000 per project.
+    *   Priority 4: EUR 5,000,000. EU grant applied for cannot be lower than EUR 100 000 and higher that EUR 1 000 000 per project.
+*   **Co-financing Rate:** Up to 90% of the eligible costs.
+*   **Financial Scope:** Lump Sum Grant
+
+**6. OTHER IMPORTANT INFORMATION:**
+
+*   **Deadlines:**
+    *   Call opening: 18 February 2025
+    *   Deadline for submission: 7 May 2025 – 17:00:00 CET (Brussels)
+*   **Specific Conditions & Limitations:**
+    *   Applications must be aligned with the aims and values of the CERV program.
+    *   Actions should comply with ethical standards, data protection, and security rules.
+    *   Financial support to third parties has a maximum amount of EUR 60,000 per third party (if applicable to the Priority area).
+    *   For Priority 4 proposals, involvement of a public authority is mandatory.
+    *   No double funding is allowed
+*   **Document Format:** Part B must be uploaded as a PDF.
+*   **Ethics Self-Assessment**: A confirmation of having taken into account all ethics issues and that the ethics self-assessment, if any, will be completed as described in the guidelines.
+*     **Security Self-Assessment:** A confirmation of having taken into account all security issues and that a security self-assessment will be completed.
+
+This summary provides a comprehensive overview of the call, including essential information about eligibility, objectives, procedures, and financial aspects. Refer to the original call document for complete details.

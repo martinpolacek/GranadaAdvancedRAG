@@ -1,0 +1,62 @@
+Okay, here's a comprehensive summary of the provided text, structured to address the "WHO, WHAT, HOW, WHY, HOW MUCH, and OTHER IMPORTANT INFORMATION" aspects.
+
+**European Defence Fund (EDF) - Lump Sum Grants for SMEs and Research Organisations Call Summary**
+
+*   **WHO:**
+
+    *   **Organiser:** European Commission (DG DEFIS). The European Defence Agency (EDA) may be involved in managing some selected projects.
+    *   **Eligible Applicants:** Small and Medium-sized Enterprises (SMEs) AND Research Organisations (ROs) that:
+        *   Are legal entities (public or private bodies).
+        *   Are established in EU Member States or listed EEA countries (EDF Associated Countries).
+        *   Have their executive management structure established in eligible countries.
+        *   Are not controlled by a non-associated third country or non-associated third-country entity (unless they provide guarantees approved by the relevant Member State or EDF associated country).
+        *   Are registered as SMEs (and perform the SME self-assessment) or research organisations in the Participant Register.
+        * The coordinator must be an SME.
+        * Associated partners and subcontractors involved in the action must also comply with some of the criteria, like establishment and control.
+
+*   **WHAT:**
+
+    *   **Type of Program:** EDF Lump Sum Grants for Research Actions (LS-RA). These grants support collaborative defence research to boost the performance of future capabilities.
+    *   **Focus:** Innovative technologies and solutions for defence across any area of interest, including readiness, deployability, reliability, safety, sustainability, operations, equipment, infrastructure, energy, surveillance, and digital solutions. Solutions that adapt civil applications to defence sector are also welcome. Focus on collaboration between entities and the use of new technologies. Non-thematic topic.
+
+*   **HOW:**
+
+    *   **Application Procedure:**
+        1.  Registration on the EU Funding & Tenders Portal is required.
+        2.  Submission is electronic only via the Portal's Submission System.
+        3.  The application consists of:
+            *   Part A: Administrative forms (filled in directly online).
+            *   Part B: Technical description of the project (uploaded as a PDF, using the provided template).
+            *   Mandatory Annexes (uploaded as PDFs). The zip archive must be submitted password-protected (using AES-256 encryption method).
+    *   **Key Requirements:**
+        *   Follow page limits and formatting guidelines.
+        *   Ensure compliance with ethics and security requirements.
+        *   Consortium must meet the minimum eligibility criteria (3 independent applicants, SMEs/ROs).
+        *   Subcontracting limit and RO funding limit must be respected.
+
+*   **WHY:**
+
+    *   **Objectives:** To foster the competitiveness, efficiency, and innovation capacity of the European Defence Technological and Industrial Base (EDTIB); to contribute to the EU's strategic autonomy; to promote collaboration between legal entities.
+    *   **Expected Results:**
+        *   Innovative and cost-effective solutions for defence.
+        *   Groundbreaking concepts and technological improvements.
+        *   Enhanced innovation capacity through SME involvement.
+        *   Potential for market creation for SMEs.
+        *   Strengthened European research and technology ecosystems.
+
+*   **HOW MUCH:**
+
+    *   **Call Budget:** EUR 34,000,000
+    *   **Project Budget (Requested Grant):** Must not exceed EUR 4,000,000
+    *   **Funding Rate:** 100% (Lump Sum Grant for Research Actions).
+    *   **Co-financing:** This is a lump sum grant, co-financing is not applicable.
+
+*   **OTHER IMPORTANT INFORMATION:**
+
+    *   **Deadline:** 16 October 2025 – 17:00:00 CET (Brussels)
+    *   **Key Documents:** Call document, Model Grant Agreement, EU Funding & Tenders Portal Online Manual, EU Grants AGA — Annotated Grant Agreement.
+    *   **Ethics and Security:** Projects must comply with the highest ethical standards and applicable security rules. Facility Security Clearance may be required.
+    *   **Subcontracting Limit:** There is a fixed subcontracting limit of 30% of the total eligible costs and a financial limitation for research organizations.
+    *   **Consortium Agreement:** A Consortium agreement is mandatory.
+
+I have strived to capture all of the key points from the provided documents within this structured summary. Please let me know if you need any clarification or further details on specific areas.
