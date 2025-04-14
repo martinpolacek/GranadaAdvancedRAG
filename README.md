@@ -23,6 +23,20 @@ This notebook validates the answers generated for each project. It:
 - Uses a generative AI model to validate the answers by comparing them with the original answers.
 - Calculates the accuracy for each project and saves the validation results to the `validation_single` folder.
 
+### 4_generate_summaries.ipynb
+This notebook generates summaries for each valid project. It:
+- Loads the list of valid projects from `valid_project.txt`.
+- For each project, reads the combined text from its PDF files.
+- Uses a generative AI model (Gemini 1.5 Flash) to create comprehensive summaries that include:
+  - WHO: The organizers and eligible applicants/target groups
+  - WHAT: The type of program/call and its focus
+  - HOW: Application procedures and key requirements
+  - WHY: Project objectives and expected results 
+  - HOW MUCH: Financial information including support amount and co-financing rate
+  - OTHER IMPORTANT INFORMATION: Deadlines, conditions, and other essential details
+- Saves the generated summaries to the `summary` folder.
+- Implements rate limiting (15 requests per minute) to avoid API limits.
+
 ## Evaluation Results
 
 | Model         | Average Accuracy (%) |
