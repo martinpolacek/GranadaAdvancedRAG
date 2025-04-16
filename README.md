@@ -45,6 +45,17 @@ This notebook evaluates the accuracy of answers generated using only the summari
 - Calculates the accuracy for each project and saves the validation results to the `validation_summary` folder.
 - Compares the performance between using full text and using only summaries.
 
+### 6_validate_answers_per_project_rag.ipynb
+This notebook validates answers using a Retrieval-Augmented Generation (RAG) approach:
+- Loads the list of valid projects from `valid_project.txt`.
+- For each project, reads the combined text and questions/answers.
+- Splits the combined text into chunks and vectorizes them using a multilingual embedding model.
+- For each question, finds the most relevant chunks (1, 5, or 10 per question) based on similarity.
+- Uses only these relevant chunks as context for answer generation with a generative AI model.
+- Compares generated answers with the original ones and calculates accuracy.
+- Saves validation results to the `validation_rag` folder.
+- Allows comparison of RAG performance for different numbers of chunks per question.
+
 ## Evaluation Results
 
 | Model                                | Average Accuracy (%) |
