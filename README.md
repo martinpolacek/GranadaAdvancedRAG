@@ -37,10 +37,22 @@ This notebook generates summaries for each valid project. It:
 - Saves the generated summaries to the `summary` folder.
 - Implements rate limiting (15 requests per minute) to avoid API limits.
 
+### 5_evaluate_answers_from_summaries.ipynb
+This notebook evaluates the accuracy of answers generated using only the summaries instead of the full document text. It:
+- Loads the list of valid projects from `valid_project.txt`.
+- Reads the summaries (instead of the combined text) and the questions/answers for each project.
+- Uses the same generative AI model to answer questions based only on the summary content.
+- Calculates the accuracy for each project and saves the validation results to the `validation_summary` folder.
+- Compares the performance between using full text and using only summaries.
+
 ## Evaluation Results
 
-| Model         | Average Accuracy (%) |
-|---------------|-----------------------|
-| Flash 2.0     | 94.237               |
+| Model                                | Average Accuracy (%) |
+|--------------------------------------|-----------------------|
+| Flash 2.0 (full text)                | 94.237               |
+| Flash 2.0 (summaries only)           | 49.660               |
+| Flash 2.0 (full text, 1 chunk per question) | 65.080               |
+| Flash 2.0 (full text, 5 chunks per question) | 84.237               |
+| Flash 2.0 (full text, 10 chunks per question) | 88.310               |
 
 *Note: Additional rows can be added for other models as evaluations are completed.*
