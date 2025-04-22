@@ -56,6 +56,18 @@ This notebook validates answers using a Retrieval-Augmented Generation (RAG) app
 - Saves validation results to the `validation_rag` folder.
 - Allows comparison of RAG performance for different numbers of chunks per question.
 
+### 7_validate_answers_per_project_rag t5.ipynb
+This notebook is an advanced variant of the RAG validation pipeline. It:
+- Loads the list of valid projects from `valid_project.txt`.
+- For each project, reads the combined text and questions/answers.
+- Splits the combined text into chunks and vectorizes them using a multilingual embedding model.
+- For each question, first extracts keywords using KeyBERT and vectorizes only these keywords.
+- Finds the most relevant chunks (typically 10 per question) based on similarity to the keyword vector.
+- Uses only these relevant chunks as context for answer generation with a generative AI model.
+- Compares generated answers with the original ones and calculates accuracy.
+- Saves validation results to the `validation_rag` folder.
+- Allows comparison of RAG performance for different retrieval/query strategies (e.g., full question vs. keywords).
+
 ## Evaluation Results
 
 | Model                                | Average Accuracy (%) |
@@ -65,6 +77,6 @@ This notebook validates answers using a Retrieval-Augmented Generation (RAG) app
 | Flash 2.0 (full text, 1 chunk per question) | 65.080               |
 | Flash 2.0 (full text, 5 chunks per question) | 84.237               |
 | Flash 2.0 (full text, 10 chunks per question) | 88.310               |
-| Flash 2.0 (keywords query, 10 chunks per question)  | 83.900               |
+| Flash 2.0 (keywords query, 10 chunks per question)  | 89.900               |
 
 *Note: Additional rows can be added for other models as evaluations are completed.*
