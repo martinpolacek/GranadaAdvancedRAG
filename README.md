@@ -65,5 +65,6 @@ This notebook validates answers using a Retrieval-Augmented Generation (RAG) app
 | Flash 2.0 (full text, 1 chunk per question) | 65.080               |
 | Flash 2.0 (full text, 5 chunks per question) | 84.237               |
 | Flash 2.0 (full text, 10 chunks per question) | 88.310               |
+| Flash 2.0 (keywords query, 10 chunks per question)  | 83.900               |
 
 *Note: Additional rows can be added for other models as evaluations are completed.*
