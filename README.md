@@ -68,6 +68,15 @@ This notebook is an advanced variant of the RAG validation pipeline. It:
 - Saves validation results to the `validation_rag` folder.
 - Allows comparison of RAG performance for different retrieval/query strategies (e.g., full question vs. keywords).
 
+### 8_generate_general_question_for_agents.ipynb
+This notebook evaluates the relevance of project calls to a set of predefined general questions using summaries. It:
+- Defines a list of 12 general questions applicable across various funding calls.
+- Loads project summaries from the `summary` folder.
+- Uses a generative AI model (Gemini 2.5 Flash) to determine, for each question, which project summaries potentially contain relevant information ("INCLUDE" vs. "EXCLUDE").
+- Compares the LLM's list of "INCLUDE" calls against a baseline list (presumably generated using full text or another method) for each question.
+- Calculates and prints Precision, Recall, and F1 scores for each question to evaluate the LLM's performance in identifying relevant calls based solely on summaries.
+- Saves the baseline answers (from full text) to a pickle file (`answers_backup.pkl`).
+
 ## Evaluation Results
 
 | Model                                | Average Accuracy (%) |
@@ -80,3 +89,37 @@ This notebook is an advanced variant of the RAG validation pipeline. It:
 | Flash 2.0 (keywords query, 10 chunks per question)  | 83.900               |
 
 *Note: Additional rows can be added for other models as evaluations are completed.*
+
+### Evaluation of Call Relevance Identification (Gemini 2.5 Flash on Summaries)
+
+| Question # | Precision | Recall | F1 Score |
+|------------|-----------|--------|----------|
+| 1          | 0.62      | 0.62   | 0.62     |
+| 2          | 0.71      | 0.61   | 0.66     |
+| 3          | 0.83      | 0.24   | 0.37     |
+| 4          | 0.43      | 0.75   | 0.55     |
+| 5          | 0.54      | 0.44   | 0.48     |
+| 6          | 0.68      | 0.43   | 0.53     |
+| 7          | 0.71      | 0.56   | 0.62     |
+| 8          | 0.80      | 0.18   | 0.30     |
+| 9          | 0.68      | 0.38   | 0.49     |
+| 10         | 0.33      | 0.06   | 0.10     |
+| 11         | 0.71      | 0.80   | 0.75     |
+| 12         | 0.73      | 0.56   | 0.64     |
+
+*Note: These scores evaluate the LLM's ability to identify relevant project calls for each question based on summaries, compared to a baseline.*
+
+#### Questions used for evaluation:
+
+1. Which call is primarily targeted at small and medium-sized enterprises (SMEs)?
+2. Which call requires partnership or cooperation among multiple EU member states?
+3. Which call targets the culture and creative sectors (e.g., film, media, arts)?
+4. Which call is designated only for non-profit organizations or NGOs?
+5. Which call supports mobility of students or youth under the Erasmus programme?
+6. Which call focuses on research and development of new technologies or innovations (RIA, POC)?
+7. Which call is funded under a European Joint Undertaking (JU)?
+8. Which call relates to humanitarian aid or civil protection?
+9. Which call includes pilot validation of technology or demonstration projects?
+10. Which call aims to strengthen digital infrastructure or EDIH centres?
+11. Which call is open to applicants from third countries outside the EU/EEA?
+12. Which call requires emphasis on environmental sustainability or clean energy?
