@@ -123,3 +123,14 @@ This notebook evaluates the relevance of project calls to a set of predefined ge
 10. Which call aims to strengthen digital infrastructure or EDIH centres?
 11. Which call is open to applicants from third countries outside the EU/EEA?
 12. Which call requires emphasis on environmental sustainability or clean energy?
+
+---
+
+### Combination of Model and RAG Results
+
+This section presents results from combining outputs found by the language model and the RAG (Retrieval-Augmented Generation) approach. The outcomes of this combination are visualized in the following charts:
+
+- ![Incorrectly classified calls using RAG](images/bad_calls_rag.png)
+- ![Precision/Recall for RAG](images/precision_recall_rag.png)
+
+These visualizations provide further insight into the strengths and weaknesses of the combined approach.
